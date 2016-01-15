@@ -1,0 +1,23 @@
+{% extends "layout.html" %}
+{% block body %}
+    <head>
+        <style type="text/css">
+        th {font-size: 200%}
+        td {font-size: 100%}
+        </style>
+    </head>
+    <table>
+        <tbody>
+            <tr>
+                <th align="left"><strong>Book</strong></th>
+                <th align="left"><strong>Owner</strong></th>
+            </tr>
+            {% for item in items %}
+                <tr>
+                    <td align="left"><a href="{{ item[3] }}"> {{ item[1] }}</a></td>
+                    <td align="left">{{ item[2] }}</td>
+                </tr>
+            {% endfor %}
+        </tbody>
+    </table>
+{% endblock %}
