@@ -1,6 +1,6 @@
 import os
 import sqlite3
-from flask import g, Flask, render_template, flash
+from flask import g, Flask, render_template, flash, redirect, url_for
 
 DATABASE = '{0}/database/book_owner.db'.format(os.getcwd())
 DEBUG = True
@@ -17,7 +17,11 @@ def teardown_request(exception):
         g.db.close()
 
 @app.route('/')
-def query():
+def main_page():
+    return render_template("main_page.html")
+
+@app.route('/all_books')
+def all_books():
     db = connect_db()
     items = db.execute("select * from book_owner;").fetchall()
     print items
