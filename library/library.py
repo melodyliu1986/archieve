@@ -71,6 +71,17 @@ def book_category():
 @app.route('/search')
 def search():
     db = connect_db()
+    search_str = 'select * from book_owner where book like "%{0}%";'.format("Linux")
+    items = db.execute(search_str).fetchall()
+    if len(items) == 0:
+        return render_template("no_result.html")
+    else:
+        return render_template("result.html", items=items)
+
+
+@app.route('/no_result')
+def search_no_result():
+    db = connect_db()
     search_str = 'select * from book_owner where book like "%{0}%";'.format("L11111")
     items = db.execute(search_str).fetchall()
     if len(items) == 0:
