@@ -6,6 +6,16 @@
         td {font-size: 100%}
         </style>
     </head>
+    <div>
+        <img src="/static/sun.png"
+                    style="padding-top:1px"
+                    alt="Lonely Library"
+                    title="Lonely Library"
+                    border="0"
+                    width="600"
+                    height="250"
+                    onload="window.lol&&lol()"/>
+    </div>
     <table>
         <tbody>
             <tr>
@@ -13,11 +23,17 @@
                 <th align="left"><strong>Owner</strong></th>
             </tr>
             {% for item in items %}
-                <tr>
-                    <td align="left"><a href="{{ item[3] }}"> {{ item[1] }}</a></td>
-                    <td align="left">{{ item[2] }}</td>
-                </tr>
+            <tr>
+                <td align="left"><a href="{{ item[3] }}"> {{ item[1] }}</a></td>
+                <td align="left">{{ item[2] }}</td>
+            </tr>
             {% endfor %}
+            <tr>
+                <tr>
+                <tr>
+                <td align="left">Total Number: {{ len_items }}</td>
+            </tr>
+            </div>
         </tbody>
     </table>
 {% endblock %}

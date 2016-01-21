@@ -1,0 +1,82 @@
+{% extends "layout.html" %}
+{% block body %}
+    <br>
+    <div>
+        <h2>Classify books by categories</h2>
+        <h3>Skill:</h3>
+            <div>
+                {% for item in skill_items %}
+                <tr>
+                    <td align="left"><a href="{{ item[3] }}"> {{ item[1] }}</a></td>
+                    <td align="left">{{ item[2] }}</td>
+                    <br>
+                </tr>
+                {% endfor %}
+            </div>
+        <h3>Management:</h3>
+            <div>
+                {% for item in management_items %}
+                <tr>
+                    <td align="left"><a href="{{ item[3] }}"> {{ item[1] }}</a></td>
+                    <td align="left">{{ item[2] }}</td>
+                    <br>
+                </tr>
+                {% endfor %}
+            </div>
+        <h3>Leadership:</h3>
+            <div>
+                {% for item in leadership_items %}
+                <tr>
+                    <td align="left"><a href="{{ item[3] }}"> {{ item[1] }}</a></td>
+                    <td align="left">{{ item[2] }}</td>
+                    <br>
+                </tr>
+                {% endfor %}
+            </div>
+        <h3>Famous Person:</h3>
+            <div>
+                {% for item in famous_person_items %}
+                <tr>
+                    <td align="left"><a href="{{ item[3] }}"> {{ item[1] }}</a></td>
+                    <td align="left">{{ item[2] }}</td>
+                    <br>
+                </tr>
+                {% endfor %}
+            </div>
+    </div>
+
+    <br>
+    <div>
+        <h2>Classify books by brought time</h2>
+        <h3>Before 2015:</h3>
+            <div>
+                {% for item in time1_items %}
+                <tr>
+                    <td align="left"><a href="{{ item[3] }}"> {{ item[1] }}</a></td>
+                    <td align="left">{{ item[2] }}</td>
+                    <br>
+                </tr>
+                {% endfor %}
+            </div>
+        <h3>FY2015:</h3>
+            <div>
+                {% for item in time2_items %}
+                <tr>
+                    <td align="left"><a href="{{ item[3] }}"> {{ item[1] }}</a></td>
+                    <td align="left">{{ item[2] }}</td>
+                    <br>
+                </tr>
+                {% endfor %}
+            </div>
+        <h3>FY2016:</h3>
+            <div>
+                {% for item in time3_items %}
+                <tr>
+                    <td align="left"><a href="{{ item[3] }}"> {{ item[1] }}</a></td>
+                    <td align="left">{{ item[2] }}</td>
+                    <br>
+                </tr>
+                {% endfor %}
+            </div>
+    </div>
+{% endblock %}

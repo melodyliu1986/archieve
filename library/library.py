@@ -11,10 +11,12 @@ app = Flask(__name__)
 def connect_db():
     return sqlite3.connect(DATABASE)
 
+
 @app.teardown_request
 def teardown_request(exception):
     if hasattr(g, 'db'):
         g.db.close()
+
 
 @app.route('/')
 def main_page():
@@ -24,8 +26,58 @@ def main_page():
 def all_books():
     db = connect_db()
     items = db.execute("select * from book_owner;").fetchall()
+    len_items = len(items)
+    print "*"*20
     print items
-    return render_template("show_books.html", items=items)
+    print len(items)
+    return render_template("show_books.html", items=items, len_items=len_items)
+
+
+@app.route('/book_category')
+def book_category():
+    db = connect_db()
+    time1_select_str = 'select * from book_owner where buytime like "%{0}%";'.format("Before")
+    time1_items = db.execute(time1_select_str).fetchall()
+
+    time2_select_str = 'select * from book_owner where buytime like "%{0}%";'.format("FY15")
+    time2_items = db.execute(time2_select_str).fetchall()
+
+    time3_select_str = 'select * from book_owner where buytime like "%{0}%";'.format("FY16")
+    time3_items = db.execute(time3_select_str).fetchall()
+
+    # Select by category.
+    skill_select_str = 'select * from book_owner where category like "%{0}%";'.format("Skill")
+    skill_items = db.execute(skill_select_str).fetchall()
+
+    management_select_str = 'select * from book_owner where category like "%{0}%";'.format("Management")
+    management_items = db.execute(management_select_str).fetchall()
+
+    leadership_select_str = 'select * from book_owner where category like "%{0}%";'.format("Leadership")
+    leadership_items = db.execute(leadership_select_str).fetchall()
+
+    famous_person_select_str = 'select * from book_owner where category like "%{0}%";'.format("Famous")
+    famous_person_items = db.execute(famous_person_select_str).fetchall()
+
+    return render_template("book_categories.html",
+                           time1_items=time1_items,
+                           time2_items=time2_items,
+                           time3_items=time3_items,
+                           skill_items=skill_items,
+                           management_items=management_items,
+                           leadership_items=leadership_items,
+                           famous_person_items=famous_person_items)
+
+
+@app.route('/search')
+def search():
+    db = connect_db()
+    search_str = 'select * from book_owner where book like "%{0}%";'.format("L11111")
+    items = db.execute(search_str).fetchall()
+    if len(items) == 0:
+        return render_template("no_result.html")
+    else:
+        return render_template("result.html", items=items)
+
 
 if __name__ == "__main__":
     app.run()

@@ -1,0 +1,13 @@
+{% extends "layout.html" %}
+{% block body %}
+    <td align="left">Searched Books:</td>
+    <br>
+    <br>
+    {% for item in items %}
+        <tr>
+            <td align="left"><a href="{{ item[3] }}"> {{ item[1] }}</a></td>
+            <td align="left">{{ item[2] }}</td>
+            <br>
+        </tr>
+    {% endfor %}
+{% endblock %}
