@@ -17,13 +17,14 @@
         <br>
         <div>
             <form method="post">
-                {{ render_field(search_form.text, label=False, class="input-xlarge", autofocus="autofocus", size="60", max="60", placeholder="Input book name...") }}
+                {{ render_field(search_form.text, label=False, autofocus="autofocus", size="60", max="60", placeholder="Input book name...") }}
                 <br>
-                {{ render_field(search_form.submit_button, label=False) }}
-                <span><small>Advanced Search</small></span>
+                {{ render_field(search_form.submit_button, label=False, class="search") }}
+                <p class="ad_search"><small>Advanced Search</small></p>
             </form>
         </div>
     </div>
 </div>
-    <p align="center"><a href="all_books">All Books</a><span>&nbsp;&nbsp;&nbsp;</span><span ><a href="book_category">Books Categories</a></span></p>
+    <p class="all_books"><a href="all_books">All Books</a></p>
+    <p class="book_cate"><a href="book_category">Books Categories</a></p>
 {% endblock %}
