@@ -4,4 +4,8 @@ h1, h2          { font-family: 'Georgia', serif; margin: 0; }
 h1              { border-bottom: 2px solid #eee; font-size: 2.0em; }
 h2              { font-size: 1.5em; }
 h3              { font-size: 1.0em; }
-p.ad_search     { position:absolute; left:710px; top:270px; color: #4682B4;}
+p.ad_search     { position:absolute; left:660px; top:270px; color: #4682B4;}
+.search         { position:absolute; left:580px; top:280px;}
+
+p.all_books     { position:absolute; left:360px; top:320px;}
+p.book_cate     { position:absolute; left:360px; top:360px;}
