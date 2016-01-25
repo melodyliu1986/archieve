@@ -1,28 +1,30 @@
+{% from "util.html" import render_field %}
 {% extends "layout.html" %}
 {% block body %}
 <div xmlns="http://www.w3.org/1999/html">
-        <form>
-            <div align="center">
-                <a href="http://baike.baidu.com/link?url=ClHCVxEBZ76Ih8Cpri-hF3qRc1bMzTjLodXICeQKf2OJhzd_k7Rsy55wuiSDsnS6oRihKCvX6nnCfkWJE88N50XwpgrjO6-BSt58-jz3noOKtxOk_aIhItuP6xN2Htxbc8NSEmqPOl3Irmq9f3pMpK">
-                <img src="/static/gudu.png"
-                    style="padding-top:1px"
-                    alt="Lonely Library"
-                    title="Lonely Library"
-                    border="0"
-                    width="420"
-                    height="160"
-                    onload="window.lol&&lol()"/>
-                </a>
+    <div align="center">
+        <a href="http://baike.baidu.com/link?url=ClHCVxEBZ76Ih8Cpri-hF3qRc1bMzTjLodXICeQKf2OJhzd_k7Rsy55wuiSDsnS6oRihKCvX6nnCfkWJE88N50XwpgrjO6-BSt58-jz3noOKtxOk_aIhItuP6xN2Htxbc8NSEmqPOl3Irmq9f3pMpK">
+            <img src="/static/gudu.png"
+                 style="padding-top:1px"
+                 alt="Lonely Library"
+                 title="Lonely Library"
+                 border="0"
+                 width="420"
+                 height="160"
+                 onload="window.lol&&lol()"/>
+        </a>
+        <br>
+        <br>
+        <div>
+            <form method="post">
+                {{ render_field(search_form.text, label=False, class="input-xlarge", autofocus="autofocus", size="60", max="60", placeholder="Input book name...") }}
                 <br>
-                <br>
-                <form action="" method="get">
-                    <input type="search" name="searchkey" size="60" max="60" class="searchinput" placeholder="Input book name.."/><br><br>
-                    <input type="submit" value="Search"/>
-                    <input type="submit" value="Advanced Search">
-                </form>
-            </div>
-        </form>
+                {{ render_field(search_form.submit_button, label=False, class="input-xlarge", autofocus="autofocus") }}
+            </form>
+            <p><small>Advanced Search</small></p>
+        </div>
     </div>
+</div>
     <p align="center"><a href="all_books">All Books</a></p>
     <p align="center"><a href="book_category">Books Categories</a></p>
 {% endblock %}

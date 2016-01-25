@@ -1,6 +1,9 @@
 import os
 import sqlite3
-from flask import g, Flask, render_template, flash, redirect, url_for
+from flask import g, Flask, render_template, flash, redirect, url_for, request
+
+
+import forms
 
 DATABASE = '{0}/database/book_owner.db'.format(os.getcwd())
 DEBUG = True
@@ -18,9 +21,20 @@ def teardown_request(exception):
         g.db.close()
 
 
-@app.route('/')
+@app.route('/', methods=['GET', 'POST'])
 def main_page():
-    return render_template("main_page.html")
+    search_form = forms.SearchForm(csrf_enabled=False)
+    if search_form.validate_on_submit():
+        search_data = search_form.text.data
+        db = connect_db()
+        search_str = 'select * from book_owner where book like "%{0}%";'.format(search_data)
+        items = db.execute(search_str).fetchall()
+        if len(items) == 0:
+            return render_template("no_result.html")
+        else:
+            return render_template("result.html", items=items)
+    return render_template("main_page.html", search_form=search_form)
+
 
 @app.route('/all_books')
 def all_books():
@@ -69,9 +83,9 @@ def book_category():
 
 
 @app.route('/search')
-def search():
+def search(data):
     db = connect_db()
-    search_str = 'select * from book_owner where book like "%{0}%";'.format("Linux")
+    search_str = 'select * from book_owner where book like "%{0}%";'.format(data)
     items = db.execute(search_str).fetchall()
     if len(items) == 0:
         return render_template("no_result.html")
@@ -91,4 +105,4 @@ def search_no_result():
 
 
 if __name__ == "__main__":
-    app.run()
+    app.run(debug=True)
