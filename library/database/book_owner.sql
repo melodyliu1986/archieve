@@ -3,7 +3,7 @@ DROP TABLE IF EXISTS book_owner;
 CREATE TABLE book_owner(
 id integer primary key autoincrement,
 book NVARCHAR not null,
-name NVARCHAR not null,
+owner NVARCHAR not null,
 url  NVARCHAR(1000) not null,
 category  NVARCHAR not null,
 buytime  NVARCHAR not null
@@ -13,7 +13,7 @@ buytime  NVARCHAR not null
 --INSERT INTO book_owner (book, name) values ("自动化测试最佳实践", "shihliu");
 --INSERT INTO book_owner (book, name) values ("Linux命令行与Shell脚本编程大全", "liliu");
 INSERT INTO book_owner
-(book, name, url, category, buytime)
+(book, owner, url, category, buytime)
 values
 ("IT项目管理成长手记", "sgao", "http://item.jd.com/11162058.html", "Management", "Before 2015"),
 ("自动化测试最佳实践", "shihliu", "http://item.jd.com/11221731.html", "Skill", "Before 2015"),
