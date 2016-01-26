@@ -1,6 +1,7 @@
 import os
 import sqlite3
 from flask import g, Flask, render_template, flash, redirect, url_for, request
+from flask.ext.bootstrap import Bootstrap
 
 
 import forms
@@ -9,6 +10,7 @@ DATABASE = '{0}/database/book_owner.db'.format(os.getcwd())
 DEBUG = True
 
 app = Flask(__name__)
+bootstrap = Bootstrap(app)
 
 
 def connect_db():
@@ -34,6 +36,12 @@ def main_page():
         else:
             return render_template("result.html", items=items)
     return render_template("main_page.html", search_form=search_form)
+
+
+@app.route('/advanced_search')
+def advanced_search():
+    advanced_search_form = forms.AdvancedSearchForm(csrf_enabled=False)
+    return render_template("advanced_search.html", advanced_search_form=advanced_search_form)
 
 
 @app.route('/all_books')
