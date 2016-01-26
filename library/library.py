@@ -38,9 +38,28 @@ def main_page():
     return render_template("main_page.html", search_form=search_form)
 
 
-@app.route('/advanced_search')
+@app.route('/advanced_search', methods=['GET', 'POST'])
 def advanced_search():
     advanced_search_form = forms.AdvancedSearchForm(csrf_enabled=False)
+    if advanced_search_form.validate_on_submit():
+        name_data = advanced_search_form.book_name.data
+        cate_data = advanced_search_form.book_cate.data
+        if cate_data == "All Books":
+            cate_data = ""
+        owner_data = advanced_search_form.book_owner.data
+        bought_time_data = advanced_search_form.book_bought_time.data
+        db = connect_db()
+        search_str = 'select * from book_owner where book like "%{0}%" and ' \
+                     'owner like "%{1}%" and ' \
+                     'category like "%{2}%" and ' \
+                     'buytime like "%{3}%";'.format(name_data, owner_data, cate_data, bought_time_data)
+        print "="*20
+        print search_str
+        items = db.execute(search_str).fetchall()
+        if len(items) == 0:
+            return render_template("no_result.html")
+        else:
+            return render_template("result.html", items=items)
     return render_template("advanced_search.html", advanced_search_form=advanced_search_form)
 
 
