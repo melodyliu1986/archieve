@@ -17,3 +17,6 @@ class AdvancedSearchForm(Form):
     submit_button = SubmitField("Submit")
 
 
+class BorrowButton(Form):
+    submit_button = SubmitField("Borrow it")
+

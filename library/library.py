@@ -29,6 +29,8 @@ def teardown_request(exception):
 
 @app.route('/', methods=['GET', 'POST'])
 def main_page():
+    borrow_form = forms.BorrowButton(csrf_enabled=False)
+
     search_form = forms.SearchForm(csrf_enabled=False)
     if search_form.validate_on_submit():
         search_data = search_form.text.data
@@ -38,12 +40,14 @@ def main_page():
         if len(items) == 0:
             return render_template("no_result.html")
         else:
-            return render_template("result.html", items=items)
-    return render_template("main_page.html", search_form=search_form)
+            return render_template("result.html", items=items, borrow_form=borrow_form)
+    return render_template("main_page.html", search_form=search_form, borrow_form=borrow_form)
 
 
 @app.route('/advanced_search', methods=['GET', 'POST'])
 def advanced_search():
+    borrow_form = forms.BorrowButton(csrf_enabled=False)
+
     advanced_search_form = forms.AdvancedSearchForm(csrf_enabled=False)
     if advanced_search_form.validate_on_submit():
         name_data = advanced_search_form.book_name.data
@@ -63,19 +67,20 @@ def advanced_search():
         if len(items) == 0:
             return render_template("no_result.html")
         else:
-            return render_template("result.html", items=items)
+            return render_template("result.html", items=items, borrow_form=borrow_form)
     return render_template("advanced_search.html", advanced_search_form=advanced_search_form)
 
 
 @app.route('/all_books')
 def all_books():
     db = connect_db()
+    borrow_form = forms.BorrowButton(csrf_enabled=False)
     items = db.execute("select * from book_owner;").fetchall()
     len_items = len(items)
     print "*"*20
     print items
     print len(items)
-    return render_template("show_books.html", items=items, len_items=len_items)
+    return render_template("show_books.html", items=items, len_items=len_items, borrow_form=borrow_form)
 
 
 @app.route('/book_category')
@@ -115,13 +120,16 @@ def book_category():
 
 @app.route('/search')
 def search(data):
+    borrow_form = forms.BorrowButton(csrf_enabled=False)
+
     db = connect_db()
     search_str = 'select * from book_owner where book like "%{0}%";'.format(data)
     items = db.execute(search_str).fetchall()
+
     if len(items) == 0:
         return render_template("no_result.html")
     else:
-        return render_template("result.html", items=items)
+        return render_template("result.html", items=items, borrow_form=borrow_form)
 
 
 @app.route('/no_result')
