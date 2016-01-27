@@ -7,8 +7,12 @@ h3              { font-size: 1.0em; }
 p.ad_search     { position:absolute; left:660px; top:270px; color: #4682B4;}
 .search         { position:absolute; left:580px; top:280px;}
 
-p.all_books     { position:absolute; left:360px; top:320px;}
-p.book_cate     { position:absolute; left:360px; top:360px;}
+div.text        { font-size: 1.0em;
+                  color: #4682B4;
+                  position:absolute;
+                  left:360px;
+                  top:320px;
+                  line-height:200%}
 
 div.ad_search   { clear: both;
                   margin-bottom: 5px;

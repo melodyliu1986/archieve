@@ -1,10 +1,14 @@
 import os
 import sqlite3
+import sys
 from flask import g, Flask, render_template, flash, redirect, url_for, request
 from flask.ext.bootstrap import Bootstrap
 
 
 import forms
+
+reload(sys)
+sys.setdefaultencoding('UTF-8')
 
 DATABASE = '{0}/database/book_owner.db'.format(os.getcwd())
 DEBUG = True
