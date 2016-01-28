@@ -29,19 +29,23 @@ def teardown_request(exception):
 
 @app.route('/', methods=['GET', 'POST'])
 def main_page():
-    borrow_form = forms.BorrowButton(csrf_enabled=False)
-
     search_form = forms.SearchForm(csrf_enabled=False)
+    print search_form, "+"*20
+    print search_form.validate_on_submit()
     if search_form.validate_on_submit():
         search_data = search_form.text.data
         db = connect_db()
         search_str = 'select * from book_owner where book like "%{0}%";'.format(search_data)
         items = db.execute(search_str).fetchall()
+        print "="*20
+        print items
         if len(items) == 0:
-            return render_template("no_result.html")
+            return redirect(url_for("search_no_result"))
         else:
-            return render_template("result.html", items=items, borrow_form=borrow_form)
-    return render_template("main_page.html", search_form=search_form, borrow_form=borrow_form)
+            return render_template("result.html", items=items)
+
+        # Borrow the book.
+    return render_template("main_page.html", search_form=search_form)
 
 
 @app.route('/advanced_search', methods=['GET', 'POST'])
@@ -118,20 +122,6 @@ def book_category():
                            famous_person_items=famous_person_items)
 
 
-@app.route('/search')
-def search(data):
-    borrow_form = forms.BorrowButton(csrf_enabled=False)
-
-    db = connect_db()
-    search_str = 'select * from book_owner where book like "%{0}%";'.format(data)
-    items = db.execute(search_str).fetchall()
-
-    if len(items) == 0:
-        return render_template("no_result.html")
-    else:
-        return render_template("result.html", items=items, borrow_form=borrow_form)
-
-
 @app.route('/no_result')
 def search_no_result():
     db = connect_db()
@@ -141,6 +131,10 @@ def search_no_result():
         return render_template("no_result.html")
     else:
         return render_template("result.html", items=items)
+
+@app.route('/borrow')
+def borrow_page():
+    return render_template("test_mail.html")
 
 
 if __name__ == "__main__":
