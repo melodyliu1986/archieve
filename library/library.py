@@ -46,8 +46,6 @@ def main_page():
 
 @app.route('/advanced_search', methods=['GET', 'POST'])
 def advanced_search():
-    borrow_form = forms.BorrowButton(csrf_enabled=False)
-
     advanced_search_form = forms.AdvancedSearchForm(csrf_enabled=False)
     if advanced_search_form.validate_on_submit():
         name_data = advanced_search_form.book_name.data
@@ -65,17 +63,16 @@ def advanced_search():
         if len(items) == 0:
             return render_template("no_result.html")
         else:
-            return render_template("result.html", items=items, borrow_form=borrow_form)
+            return render_template("result.html", items=items)
     return render_template("advanced_search.html", advanced_search_form=advanced_search_form)
 
 
 @app.route('/all_books')
 def all_books():
     db = connect_db()
-    borrow_form = forms.BorrowButton(csrf_enabled=False)
     items = db.execute("select * from book_owner;").fetchall()
     len_items = len(items)
-    return render_template("show_books.html", items=items, len_items=len_items, borrow_form=borrow_form)
+    return render_template("show_books.html", items=items, len_items=len_items)
 
 
 @app.route('/book_category')
