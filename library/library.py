@@ -30,15 +30,11 @@ def teardown_request(exception):
 @app.route('/', methods=['GET', 'POST'])
 def main_page():
     search_form = forms.SearchForm(csrf_enabled=False)
-    print search_form, "+"*20
-    print search_form.validate_on_submit()
     if search_form.validate_on_submit():
         search_data = search_form.text.data
         db = connect_db()
         search_str = 'select * from book_owner where book like "%{0}%";'.format(search_data)
         items = db.execute(search_str).fetchall()
-        print "="*20
-        print items
         if len(items) == 0:
             return redirect(url_for("search_no_result"))
         else:
@@ -65,8 +61,6 @@ def advanced_search():
                      'owner like "%{1}%" and ' \
                      'category like "%{2}%" and ' \
                      'buytime like "%{3}%";'.format(name_data, owner_data, cate_data, bought_time_data)
-        print "="*20
-        print search_str
         items = db.execute(search_str).fetchall()
         if len(items) == 0:
             return render_template("no_result.html")
@@ -81,9 +75,6 @@ def all_books():
     borrow_form = forms.BorrowButton(csrf_enabled=False)
     items = db.execute("select * from book_owner;").fetchall()
     len_items = len(items)
-    print "*"*20
-    print items
-    print len(items)
     return render_template("show_books.html", items=items, len_items=len_items, borrow_form=borrow_form)
 
 
@@ -131,10 +122,6 @@ def search_no_result():
         return render_template("no_result.html")
     else:
         return render_template("result.html", items=items)
-
-@app.route('/borrow')
-def borrow_page():
-    return render_template("test_mail.html")
 
 
 if __name__ == "__main__":

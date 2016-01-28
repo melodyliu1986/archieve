@@ -5,7 +5,7 @@ from wtforms import StringField, SubmitField, SelectField, validators
 
 
 class SearchForm(Form):
-    text = StringField("Search", validators=[validators.DataRequired()])
+    text = StringField("Search")
     submit_button = SubmitField("Search")
 
 
@@ -15,8 +15,3 @@ class AdvancedSearchForm(Form):
     book_owner = StringField(label="Owner:")
     book_bought_time = StringField(label="Bought time:")
     submit_button = SubmitField("Submit")
-
-
-class BorrowButton(Form):
-    submit_button = SubmitField("Borrow it")
-
