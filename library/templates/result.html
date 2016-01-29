@@ -8,8 +8,8 @@
                <tr>
                 <td align="left"><a href="{{ item[3] }}"> {{ item[1] }}</a></td>
                 <td align="left">{{ item[2] }}</td>
-                <td align="left"><a href="mailto: {{ item[2] }}?cc=soliu@redhat.com&subject=Borrow%20Book
-                                            &body=Hi%20{{ item[2] }},%20I%20want%20borrow%20the%20book%20'{{ item[1] }}'%20from%20you.%20Thank%20you!"><button>Borrow it</button></a></td>
+                <td align="left"><a href="mailto: {{ item[2] }}@redhat.com?cc=soliu@redhat.com&subject=Borrow%20Book
+                                            &body=Hi%20{{ item[2] }},%0d%0a%0d%0a%20%20I%20want%20to%20borrow%20the%20book%20'{{ item[1] }}'%20from%20you.%20Thank%20you!%0d%0a%0d%0aBest%20Regards"><button>Borrow it</button></a></td>
                </tr>
             {% endfor %}
         </table>
