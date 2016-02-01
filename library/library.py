@@ -72,7 +72,7 @@ def all_books():
     db = connect_db()
     items = db.execute("select * from book_owner;").fetchall()
     len_items = len(items)
-    return render_template("show_books.html", items=items, len_items=len_items)
+    return render_template("show_books.html", items=items)
 
 
 @app.route('/book_category')
