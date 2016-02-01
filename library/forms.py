@@ -10,7 +10,7 @@ class SearchForm(Form):
 
 
 class AdvancedSearchForm(Form):
-    book_name = StringField(label="Name:")
+    book_name = StringField(label="Book Name:")
     book_cate = SelectField(label="Category:", choices=[('All Books', 'All Books'), ('Skill', 'Skill'), ('Management', 'Management'), ('Communication', 'Communication'), ('Leadership', 'Leadership'), ('Famous Person', 'Famous Person')])
     book_owner = StringField(label="Owner:")
     book_bought_time = StringField(label="Bought time:")
