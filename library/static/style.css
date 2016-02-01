@@ -5,22 +5,23 @@ h1              { border-bottom: 2px solid #eee; font-size: 2.0em; }
 h2              { font-size: 1.5em; color: #4682B4; }
 h3              { font-size: 1.2em; }
 h4              { font-size: 1.0em; color: #66B3FF}
-p.ad_search     { position:absolute; left:660px; top:270px; color: #4682B4;}
-.search         { position:absolute; left:580px; top:280px;}
+
+div.main        { align:center;
+                  position:relative;
+                  top: 40px;}
+
+div.search      { align:center;}
 
 div.text        { font-size: 1.0em;
+                  font-weight: bold;
                   color: #4682B4;
-                  position:absolute;
-                  left:360px;
-                  top:320px;
-                  line-height:200%}
+                 }
 
 div.ad_search   { clear: both;
                   margin-bottom: 5px;
                   padding-top:2px;
                   font-size: 0.8em;
                   color: #4682B4;
-                  position:absolute;
-                  left:450px;
-                  top:100px;
-                  line-height:200%}
+                  position:relative;
+                  top:50px;
+                  line-height:200%;}

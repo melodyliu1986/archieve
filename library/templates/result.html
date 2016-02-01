@@ -2,9 +2,10 @@
 {% import "bootstrap/wtf.html" as wtf %}
 {% block body %}
     <br>
-    <h2>Searched Books:</h2>
     <br>
-    <div>
+    <div class="main">
+        <h2>Searched Books:</h2>
+        <br>
         <table>
             {% for item in items %}
                <tr>
@@ -15,5 +16,6 @@
                </tr>
             {% endfor %}
         </table>
+        <h4>Total Number: {{ items|length }}</h4>
     </div>
 {% endblock %}
