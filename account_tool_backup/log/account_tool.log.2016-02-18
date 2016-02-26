@@ -1,0 +1,1063 @@
+2016-02-18 09:58:24,700  INFO|          index.py:725|MainThread|: ====== Start/Reload Account Tool APP ======
+2016-02-18 09:58:24,759  INFO|      _internal.py: 87|MainThread|:  * Running on http://0.0.0.0:80/ (Press CTRL+C to quit)
+2016-02-18 09:58:24,761  INFO|      _internal.py: 87|MainThread|:  * Restarting with stat
+2016-02-18 10:06:32,524  INFO|      _internal.py: 87|MainThread|:  * Restarting with stat
+unt Tool APP ======
+2016-02-18 09:58:32,641 WARNING|      _internal.py: 87|MainThread|:  * Debugger is active!
+2016-02-18 09:58:32,641  INFO|      _internal.py: 87|MainThread|:  * Debugger pin code: 929-475-441
+2016-02-18 10:03:16,853  INFO|      _internal.py: 87|Thread-4|: 127.0.0.1 - - [18/Feb/2016 10:03:16] "GET / HTTP/1.1" 200 -
+2016-02-18 10:03:17,081  INFO|      _internal.py: 87|Thread-10|: 127.0.0.1 - - [18/Feb/2016 10:03:17] "GET /static/css/rcue.css HTTP/1.1" 200 -
+2016-02-18 10:03:17,084  INFO|      _internal.py: 87|Thread-9|: 127.0.0.1 - - [18/Feb/2016 10:03:17] "GET /static/css/bootstrap.min.css HTTP/1.1" 200 -
+2016-02-18 10:03:17,265  INFO|      _internal.py: 87|Thread-13|: 127.0.0.1 - - [18/Feb/2016 10:03:17] "GET /static/img/redhat-lg.png HTTP/1.1" 200 -
+2016-02-18 10:03:17,265  INFO|      _internal.py: 87|Thread-12|: 127.0.0.1 - - [18/Feb/2016 10:03:17] "GET /static/js/jquery.stickytabs.js HTTP/1.1" 200 -
+2016-02-18 10:03:17,273  INFO|      _internal.py: 87|Thread-11|: 127.0.0.1 - - [18/Feb/2016 10:03:17] "GET /static/js/bootstrap.min.js HTTP/1.1" 200 -
+2016-02-18 10:03:17,364  INFO|      _internal.py: 87|Thread-16|: 127.0.0.1 - - [18/Feb/2016 10:03:17] "GET /static/font/OpenSans-Regular-webfont.woff HTTP/1.1" 200 -
+2016-02-18 10:03:17,364  INFO|      _internal.py: 87|Thread-17|: 127.0.0.1 - - [18/Feb/2016 10:03:17] "GET /static/font/OpenSans-Semibold-webfont.woff HTTP/1.1" 200 -
+2016-02-18 10:03:18,239  INFO|      _internal.py: 87|Thread-18|: 127.0.0.1 - - [18/Feb/2016 10:03:18] "GET /static/img/favicon.ico HTTP/1.1" 200 -
+2016-02-18 10:06:32,507  INFO|      _internal.py: 87|MainThread|:  * Detected change in '/home/liusong/code/content_sku_test/content-sku-tests/account_tool/index.py', reloading
+2016-02-18 10:34:06,403  INFO|          index.py:723|MainThread|: ====== Start/Reload Account Tool APP ======
+2016-02-18 10:34:06,405  INFO|      _internal.py: 87|MainThread|:  * Running on http://0.0.0.0:80/ (Press CTRL+C to quit)
+2016-02-18 10:34:06,406  INFO|      _internal.py: 87|MainThread|:  * Restarting with stat
+2016-02-18 10:34:14,987  INFO|          index.py:723|MainThread|: ====== Start/Reload Account Tool APP ======
+2016-02-18 10:34:14,990 WARNING|      _internal.py: 87|MainThread|:  * Debugger is active!
+2016-02-18 10:34:14,990  INFO|      _internal.py: 87|MainThread|:  * Debugger pin code: 929-475-441
+2016-02-18 10:34:20,741  INFO|      _internal.py: 87|Thread-2|: 127.0.0.1 - - [18/Feb/2016 10:34:20] "GET / HTTP/1.1" 200 -
+2016-02-18 10:34:20,987  INFO|      _internal.py: 87|Thread-6|: 127.0.0.1 - - [18/Feb/2016 10:34:20] "GET /static/css/bootstrap.min.css HTTP/1.1" 304 -
+2016-02-18 10:34:20,987  INFO|      _internal.py: 87|Thread-7|: 127.0.0.1 - - [18/Feb/2016 10:34:20] "GET /static/css/rcue.css HTTP/1.1" 304 -
+2016-02-18 10:34:20,990  INFO|      _internal.py: 87|Thread-8|: 127.0.0.1 - - [18/Feb/2016 10:34:20] "GET /static/img/redhat-lg.png HTTP/1.1" 304 -
+2016-02-18 10:34:21,114  INFO|      _internal.py: 87|Thread-9|: 127.0.0.1 - - [18/Feb/2016 10:34:21] "GET /static/js/bootstrap.min.js HTTP/1.1" 304 -
+2016-02-18 10:34:21,115  INFO|      _internal.py: 87|Thread-10|: 127.0.0.1 - - [18/Feb/2016 10:34:21] "GET /static/js/jquery.stickytabs.js HTTP/1.1" 304 -
+2016-02-18 10:34:27,897  INFO|          index.py:554|Thread-11|: ====== Search Subscription SKUs - Search by Eng Product Id(s) ======
+2016-02-18 10:34:27,935  INFO|      _internal.py: 87|Thread-11|: 127.0.0.1 - - [18/Feb/2016 10:34:27] "POST / HTTP/1.1" 500 -
+2016-02-18 10:34:28,096  INFO|      _internal.py: 87|Thread-15|: 127.0.0.1 - - [18/Feb/2016 10:34:28] "GET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2016-02-18 10:34:28,097  INFO|      _internal.py: 87|Thread-17|: 127.0.0.1 - - [18/Feb/2016 10:34:28] "GET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2016-02-18 10:34:28,116  INFO|      _internal.py: 87|Thread-16|: 127.0.0.1 - - [18/Feb/2016 10:34:28] "GET /?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+2016-02-18 10:34:28,144  INFO|      _internal.py: 87|Thread-19|: 127.0.0.1 - - [18/Feb/2016 10:34:28] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2016-02-18 10:34:28,418  INFO|      _internal.py: 87|Thread-23|: 127.0.0.1 - - [18/Feb/2016 10:34:28] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2016-02-18 10:34:28,418  INFO|      _internal.py: 87|Thread-22|: 127.0.0.1 - - [18/Feb/2016 10:34:28] "GET /?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+2016-02-18 10:36:04,642  INFO|      _internal.py: 87|MainThread|:  * Detected change in '/home/liusong/code/content_sku_test/content-sku-tests/account_tool/index.py', reloading
+2016-02-18 10:36:04,663  INFO|      _internal.py: 87|MainThread|:  * Restarting with stat
+2016-02-18 10:36:13,744  INFO|          index.py:725|MainThread|: ====== Start/Reload Account Tool APP ======
+2016-02-18 10:36:13,747 WARNING|      _internal.py: 87|MainThread|:  * Debugger is active!
+2016-02-18 10:36:13,747  INFO|      _internal.py: 87|MainThread|:  * Debugger pin code: 929-475-441
+2016-02-18 10:36:13,877  INFO|      _internal.py: 87|Thread-2|: 127.0.0.1 - - [18/Feb/2016 10:36:13] "GET / HTTP/1.1" 200 -
+2016-02-18 10:36:16,418  INFO|          index.py:554|Thread-8|: ====== Search Subscription SKUs - Search by Eng Product Id(s) ======
+2016-02-18 10:36:16,427  INFO|      _internal.py: 87|Thread-8|: 127.0.0.1 - - [18/Feb/2016 10:36:16] "POST / HTTP/1.1" 500 -
+2016-02-18 10:36:16,633  INFO|      _internal.py: 87|Thread-13|: 127.0.0.1 - - [18/Feb/2016 10:36:16] "GET /?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+2016-02-18 10:36:16,637  INFO|      _internal.py: 87|Thread-14|: 127.0.0.1 - - [18/Feb/2016 10:36:16] "GET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2016-02-18 10:36:16,637  INFO|      _internal.py: 87|Thread-12|: 127.0.0.1 - - [18/Feb/2016 10:36:16] "GET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2016-02-18 10:36:16,663  INFO|      _internal.py: 87|Thread-16|: 127.0.0.1 - - [18/Feb/2016 10:36:16] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2016-02-18 10:36:16,837  INFO|      _internal.py: 87|Thread-18|: 127.0.0.1 - - [18/Feb/2016 10:36:16] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2016-02-18 10:38:54,723  INFO|      _internal.py: 87|MainThread|:  * Detected change in '/home/liusong/code/content_sku_test/content-sku-tests/account_tool/index.py', reloading
+2016-02-18 10:38:54,745  INFO|      _internal.py: 87|MainThread|:  * Restarting with stat
+2016-02-18 10:39:06,980  INFO|          index.py:725|MainThread|: ====== Start/Reload Account Tool APP ======
+2016-02-18 10:39:06,983 WARNING|      _internal.py: 87|MainThread|:  * Debugger is active!
+2016-02-18 10:39:06,983  INFO|      _internal.py: 87|MainThread|:  * Debugger pin code: 929-475-441
+2016-02-18 10:39:07,113  INFO|      _internal.py: 87|Thread-2|: 127.0.0.1 - - [18/Feb/2016 10:39:07] "GET / HTTP/1.1" 200 -
+2016-02-18 10:39:08,863  INFO|          index.py:554|Thread-7|: ====== Search Subscription SKUs - Search by Eng Product Id(s) ======
+2016-02-18 10:39:08,864 DEBUG|         peewee.py:2851|Thread-7|: ('SELECT `t1`.`id`, `t1`.`arch`, `t1`.`cloud_access_enabled`, `t1`.`cores`, `t1`.`derived_sku`, `t1`.`enabled_consumer_types`, `t1`.`eng_product_ids`, `t1`.`host_limited`, `t1`.`instance_multiplier`, `t1`.`jon_management`, `t1`.`management_enabled`, `t1`.`multi-entitlement`, `t1`.`multiplier`, `t1`.`name`, `t1`.`ph_category`, `t1`.`ph_product_line`, `t1`.`ph_product_name`, `t1`.`product_family`, `t1`.`ram`, `t1`.`requires_consumer_type`, `t1`.`sockets`, `t1`.`stacking_id`, `t1`.`support_level`, `t1`.`support_type`, `t1`.`unlimited_product`, `t1`.`username`, `t1`.`variant`, `t1`.`vcpu`, `t1`.`virt_limit`, `t1`.`virt_only` FROM `sku_attributes` AS t1 WHERE (((Lower(`t1`.`eng_product_ids`) LIKE BINARY %s) OR (Lower(`t1`.`eng_product_ids`) LIKE BINARY %s)) OR (Lower(`t1`.`eng_product_ids`) LIKE BINARY %s))', ['271,%', '%,271,%', '%,271'])
+2016-02-18 10:39:18,317  INFO|          index.py:613|Thread-7|: ====== End: Search Subscription SKUs - Search by Eng Product Id(s) ======
+2016-02-18 10:39:18,353  INFO|      _internal.py: 87|Thread-7|: 127.0.0.1 - - [18/Feb/2016 10:39:18] "POST / HTTP/1.1" 200 -
+2016-02-18 10:39:18,483  INFO|      _internal.py: 87|Thread-13|: 127.0.0.1 - - [18/Feb/2016 10:39:18] "GET /static/css/jquery.dataTables.min.css HTTP/1.1" 200 -
+2016-02-18 10:39:18,489  INFO|      _internal.py: 87|Thread-15|: 127.0.0.1 - - [18/Feb/2016 10:39:18] "GET /static/js/jquery.dataTables.min.js HTTP/1.1" 200 -
+2016-02-18 10:39:18,495  INFO|      _internal.py: 87|Thread-14|: 127.0.0.1 - - [18/Feb/2016 10:39:18] "GET /static/js/jquery-1.12.0/jquery-1.12.0.min.js HTTP/1.1" 200 -
+2016-02-18 10:39:19,535  INFO|      _internal.py: 87|Thread-19|: 127.0.0.1 - - [18/Feb/2016 10:39:19] "GET /static/images/sort_asc.png HTTP/1.1" 404 -
+2016-02-18 10:39:19,538  INFO|      _internal.py: 87|Thread-18|: 127.0.0.1 - - [18/Feb/2016 10:39:19] "GET /static/images/sort_both.png HTTP/1.1" 404 -
+2016-02-18 10:39:19,588  INFO|      _internal.py: 87|Thread-20|: 127.0.0.1 - - [18/Feb/2016 10:39:19] "GET /favicon.ico HTTP/1.1" 404 -
+2016-02-18 10:39:19,595  INFO|      _internal.py: 87|Thread-21|: 127.0.0.1 - - [18/Feb/2016 10:39:19] "GET /favicon.ico HTTP/1.1" 404 -
+2016-02-18 10:44:49,032  INFO|      _internal.py: 87|MainThread|:  * Detected change in '/home/liusong/code/content_sku_test/content-sku-tests/account_tool/index.py', reloading
+2016-02-18 10:44:49,054  INFO|      _internal.py: 87|MainThread|:  * Restarting with stat
+2016-02-18 10:44:57,839  INFO|          index.py:726|MainThread|: ====== Start/Reload Account Tool APP ======
+2016-02-18 10:44:57,841 WARNING|      _internal.py: 87|MainThread|:  * Debugger is active!
+2016-02-18 10:44:57,842  INFO|      _internal.py: 87|MainThread|:  * Debugger pin code: 929-475-441
+2016-02-18 10:44:58,613  INFO|      _internal.py: 87|Thread-2|: 127.0.0.1 - - [18/Feb/2016 10:44:58] "GET / HTTP/1.1" 200 -
+2016-02-18 10:45:00,732  INFO|          index.py:554|Thread-6|: ====== Search Subscription SKUs - Search by Eng Product Id(s) ======
+2016-02-18 10:45:00,734 DEBUG|         peewee.py:2851|Thread-6|: ('SELECT `t1`.`id`, `t1`.`arch`, `t1`.`cloud_access_enabled`, `t1`.`cores`, `t1`.`derived_sku`, `t1`.`enabled_consumer_types`, `t1`.`eng_product_ids`, `t1`.`host_limited`, `t1`.`instance_multiplier`, `t1`.`jon_management`, `t1`.`management_enabled`, `t1`.`multi-entitlement`, `t1`.`multiplier`, `t1`.`name`, `t1`.`ph_category`, `t1`.`ph_product_line`, `t1`.`ph_product_name`, `t1`.`product_family`, `t1`.`ram`, `t1`.`requires_consumer_type`, `t1`.`sockets`, `t1`.`stacking_id`, `t1`.`support_level`, `t1`.`support_type`, `t1`.`unlimited_product`, `t1`.`username`, `t1`.`variant`, `t1`.`vcpu`, `t1`.`virt_limit`, `t1`.`virt_only` FROM `sku_attributes` AS t1 WHERE ((((Lower(`t1`.`eng_product_ids`) LIKE BINARY %s) OR (Lower(`t1`.`eng_product_ids`) LIKE BINARY %s)) OR (Lower(`t1`.`eng_product_ids`) LIKE BINARY %s)) AND (((Lower(`t1`.`eng_product_ids`) LIKE BINARY %s) OR (Lower(`t1`.`eng_product_ids`) LIKE BINARY %s)) OR (Lower(`t1`.`eng_product_ids`) LIKE BINARY %s)))', ['271,%', '%,271,%', '%,271', '272,%', '%,272,%', '%,272'])
+2016-02-18 10:45:05,762  INFO|          index.py:614|Thread-6|: ====== End: Search Subscription SKUs - Search by Eng Product Id(s) ======
+2016-02-18 10:45:05,789  INFO|      _internal.py: 87|Thread-6|: 127.0.0.1 - - [18/Feb/2016 10:45:05] "POST / HTTP/1.1" 200 -
+2016-02-18 10:45:06,845  INFO|      _internal.py: 87|Thread-14|: 127.0.0.1 - - [18/Feb/2016 10:45:06] "GET /static/images/sort_both.png HTTP/1.1" 404 -
+2016-02-18 10:45:06,847  INFO|      _internal.py: 87|Thread-15|: 127.0.0.1 - - [18/Feb/2016 10:45:06] "GET /static/images/sort_asc.png HTTP/1.1" 404 -
+2016-02-18 10:47:18,873  INFO|      _internal.py: 87|Thread-17|: 127.0.0.1 - - [18/Feb/2016 10:47:18] "GET / HTTP/1.1" 200 -
+2016-02-18 10:47:24,923  INFO|          index.py:554|Thread-23|: ====== Search Subscription SKUs - Search by Eng Product Id(s) ======
+2016-02-18 10:47:24,924 DEBUG|         peewee.py:2851|Thread-23|: ('SELECT `t1`.`id`, `t1`.`arch`, `t1`.`cloud_access_enabled`, `t1`.`cores`, `t1`.`derived_sku`, `t1`.`enabled_consumer_types`, `t1`.`eng_product_ids`, `t1`.`host_limited`, `t1`.`instance_multiplier`, `t1`.`jon_management`, `t1`.`management_enabled`, `t1`.`multi-entitlement`, `t1`.`multiplier`, `t1`.`name`, `t1`.`ph_category`, `t1`.`ph_product_line`, `t1`.`ph_product_name`, `t1`.`product_family`, `t1`.`ram`, `t1`.`requires_consumer_type`, `t1`.`sockets`, `t1`.`stacking_id`, `t1`.`support_level`, `t1`.`support_type`, `t1`.`unlimited_product`, `t1`.`username`, `t1`.`variant`, `t1`.`vcpu`, `t1`.`virt_limit`, `t1`.`virt_only` FROM `sku_attributes` AS t1 WHERE ((((Lower(`t1`.`eng_product_ids`) LIKE BINARY %s) OR (Lower(`t1`.`eng_product_ids`) LIKE BINARY %s)) OR (Lower(`t1`.`eng_product_ids`) LIKE BINARY %s)) AND (((Lower(`t1`.`eng_product_ids`) LIKE BINARY %s) OR (Lower(`t1`.`eng_product_ids`) LIKE BINARY %s)) OR (Lower(`t1`.`eng_product_ids`) LIKE BINARY %s)))', ['271,%', '%,271,%', '%,271', '272,%', '%,272,%', '%,272'])
+2016-02-18 10:47:29,882  INFO|          index.py:614|Thread-23|: ====== End: Search Subscription SKUs - Search by Eng Product Id(s) ======
+2016-02-18 10:47:29,889  INFO|      _internal.py: 87|Thread-23|: 127.0.0.1 - - [18/Feb/2016 10:47:29] "POST / HTTP/1.1" 200 -
+2016-02-18 10:47:30,842  INFO|      _internal.py: 87|Thread-31|: 127.0.0.1 - - [18/Feb/2016 10:47:30] "GET /static/images/sort_both.png HTTP/1.1" 404 -
+2016-02-18 10:47:30,846  INFO|      _internal.py: 87|Thread-32|: 127.0.0.1 - - [18/Feb/2016 10:47:30] "GET /static/images/sort_asc.png HTTP/1.1" 404 -
+2016-02-18 10:48:53,288  INFO|      _internal.py: 87|MainThread|:  * Detected change in '/home/liusong/code/content_sku_test/content-sku-tests/account_tool/index.py', reloading
+2016-02-18 10:48:53,309  INFO|      _internal.py: 87|MainThread|:  * Restarting with stat
+2016-02-18 10:49:08,988  INFO|          index.py:726|MainThread|: ====== Start/Reload Account Tool APP ======
+2016-02-18 10:49:08,990 WARNING|      _internal.py: 87|MainThread|:  * Debugger is active!
+2016-02-18 10:49:08,991  INFO|      _internal.py: 87|MainThread|:  * Debugger pin code: 929-475-441
+2016-02-18 10:49:09,122  INFO|      _internal.py: 87|Thread-2|: 127.0.0.1 - - [18/Feb/2016 10:49:09] "GET / HTTP/1.1" 200 -
+2016-02-18 10:49:11,280  INFO|          index.py:554|Thread-6|: ====== Search Subscription SKUs - Search by Eng Product Id(s) ======
+2016-02-18 10:49:11,281 DEBUG|         peewee.py:2851|Thread-6|: ('SELECT `t1`.`id`, `t1`.`arch`, `t1`.`cloud_access_enabled`, `t1`.`cores`, `t1`.`derived_sku`, `t1`.`enabled_consumer_types`, `t1`.`eng_product_ids`, `t1`.`host_limited`, `t1`.`instance_multiplier`, `t1`.`jon_management`, `t1`.`management_enabled`, `t1`.`multi-entitlement`, `t1`.`multiplier`, `t1`.`name`, `t1`.`ph_category`, `t1`.`ph_product_line`, `t1`.`ph_product_name`, `t1`.`product_family`, `t1`.`ram`, `t1`.`requires_consumer_type`, `t1`.`sockets`, `t1`.`stacking_id`, `t1`.`support_level`, `t1`.`support_type`, `t1`.`unlimited_product`, `t1`.`username`, `t1`.`variant`, `t1`.`vcpu`, `t1`.`virt_limit`, `t1`.`virt_only` FROM `sku_attributes` AS t1 WHERE ((((Lower(`t1`.`eng_product_ids`) LIKE BINARY %s) OR (Lower(`t1`.`eng_product_ids`) LIKE BINARY %s)) OR (Lower(`t1`.`eng_product_ids`) LIKE BINARY %s)) AND (((Lower(`t1`.`eng_product_ids`) LIKE BINARY %s) OR (Lower(`t1`.`eng_product_ids`) LIKE BINARY %s)) OR (Lower(`t1`.`eng_product_ids`) LIKE BINARY %s)))', ['271,%', '%,271,%', '%,271', '272,%', '%,272,%', '%,272'])
+2016-02-18 10:49:16,958  INFO|          index.py:614|Thread-6|: ====== End: Search Subscription SKUs - Search by Eng Product Id(s) ======
+2016-02-18 10:49:16,982  INFO|      _internal.py: 87|Thread-6|: 127.0.0.1 - - [18/Feb/2016 10:49:16] "POST / HTTP/1.1" 200 -
+2016-02-18 10:49:18,055  INFO|      _internal.py: 87|Thread-14|: 127.0.0.1 - - [18/Feb/2016 10:49:18] "GET /static/images/sort_both.png HTTP/1.1" 404 -
+2016-02-18 10:49:18,057  INFO|      _internal.py: 87|Thread-15|: 127.0.0.1 - - [18/Feb/2016 10:49:18] "GET /static/images/sort_asc.png HTTP/1.1" 404 -
+2016-02-18 10:50:20,438  INFO|      _internal.py: 87|MainThread|:  * Detected change in '/home/liusong/code/content_sku_test/content-sku-tests/account_tool/index.py', reloading
+2016-02-18 10:50:20,458  INFO|      _internal.py: 87|MainThread|:  * Restarting with stat
+2016-02-18 10:50:33,896  INFO|          index.py:725|MainThread|: ====== Start/Reload Account Tool APP ======
+2016-02-18 10:50:33,899 WARNING|      _internal.py: 87|MainThread|:  * Debugger is active!
+2016-02-18 10:50:33,899  INFO|      _internal.py: 87|MainThread|:  * Debugger pin code: 929-475-441
+2016-02-18 10:50:34,026  INFO|      _internal.py: 87|Thread-2|: 127.0.0.1 - - [18/Feb/2016 10:50:34] "GET / HTTP/1.1" 200 -
+2016-02-18 10:50:35,982  INFO|          index.py:554|Thread-6|: ====== Search Subscription SKUs - Search by Eng Product Id(s) ======
+2016-02-18 10:50:35,984 DEBUG|         peewee.py:2851|Thread-6|: ('SELECT `t1`.`id`, `t1`.`arch`, `t1`.`cloud_access_enabled`, `t1`.`cores`, `t1`.`derived_sku`, `t1`.`enabled_consumer_types`, `t1`.`eng_product_ids`, `t1`.`host_limited`, `t1`.`instance_multiplier`, `t1`.`jon_management`, `t1`.`management_enabled`, `t1`.`multi-entitlement`, `t1`.`multiplier`, `t1`.`name`, `t1`.`ph_category`, `t1`.`ph_product_line`, `t1`.`ph_product_name`, `t1`.`product_family`, `t1`.`ram`, `t1`.`requires_consumer_type`, `t1`.`sockets`, `t1`.`stacking_id`, `t1`.`support_level`, `t1`.`support_type`, `t1`.`unlimited_product`, `t1`.`username`, `t1`.`variant`, `t1`.`vcpu`, `t1`.`virt_limit`, `t1`.`virt_only` FROM `sku_attributes` AS t1 WHERE ((((Lower(`t1`.`eng_product_ids`) LIKE BINARY %s) OR (Lower(`t1`.`eng_product_ids`) LIKE BINARY %s)) OR (Lower(`t1`.`eng_product_ids`) LIKE BINARY %s)) AND (((Lower(`t1`.`eng_product_ids`) LIKE BINARY %s) OR (Lower(`t1`.`eng_product_ids`) LIKE BINARY %s)) OR (Lower(`t1`.`eng_product_ids`) LIKE BINARY %s)))', ['271,%', '%,271,%', '%,271', '272,%', '%,272,%', '%,272'])
+2016-02-18 10:50:41,437  INFO|          index.py:613|Thread-6|: ====== End: Search Subscription SKUs - Search by Eng Product Id(s) ======
+2016-02-18 10:50:41,461  INFO|      _internal.py: 87|Thread-6|: 127.0.0.1 - - [18/Feb/2016 10:50:41] "POST / HTTP/1.1" 200 -
+2016-02-18 10:50:42,445  INFO|      _internal.py: 87|Thread-14|: 127.0.0.1 - - [18/Feb/2016 10:50:42] "GET /static/images/sort_both.png HTTP/1.1" 404 -
+2016-02-18 10:50:42,447  INFO|      _internal.py: 87|Thread-15|: 127.0.0.1 - - [18/Feb/2016 10:50:42] "GET /static/images/sort_asc.png HTTP/1.1" 404 -
+2016-02-18 10:50:45,721  INFO|      _internal.py: 87|Thread-16|: 127.0.0.1 - - [18/Feb/2016 10:50:45] "GET / HTTP/1.1" 200 -
+2016-02-18 10:50:50,723  INFO|          index.py:554|Thread-22|: ====== Search Subscription SKUs - Search by Eng Product Id(s) ======
+2016-02-18 10:50:50,725 DEBUG|         peewee.py:2851|Thread-22|: ('SELECT `t1`.`id`, `t1`.`arch`, `t1`.`cloud_access_enabled`, `t1`.`cores`, `t1`.`derived_sku`, `t1`.`enabled_consumer_types`, `t1`.`eng_product_ids`, `t1`.`host_limited`, `t1`.`instance_multiplier`, `t1`.`jon_management`, `t1`.`management_enabled`, `t1`.`multi-entitlement`, `t1`.`multiplier`, `t1`.`name`, `t1`.`ph_category`, `t1`.`ph_product_line`, `t1`.`ph_product_name`, `t1`.`product_family`, `t1`.`ram`, `t1`.`requires_consumer_type`, `t1`.`sockets`, `t1`.`stacking_id`, `t1`.`support_level`, `t1`.`support_type`, `t1`.`unlimited_product`, `t1`.`username`, `t1`.`variant`, `t1`.`vcpu`, `t1`.`virt_limit`, `t1`.`virt_only` FROM `sku_attributes` AS t1 WHERE (((((Lower(`t1`.`eng_product_ids`) LIKE BINARY %s) OR (Lower(`t1`.`eng_product_ids`) LIKE BINARY %s)) OR (Lower(`t1`.`eng_product_ids`) LIKE BINARY %s)) AND (((Lower(`t1`.`eng_product_ids`) LIKE BINARY %s) OR (Lower(`t1`.`eng_product_ids`) LIKE BINARY %s)) OR (Lower(`t1`.`eng_product_ids`) LIKE BINARY %s))) AND (((Lower(`t1`.`eng_product_ids`) LIKE BINARY %s) OR (Lower(`t1`.`eng_product_ids`) LIKE BINARY %s)) OR (Lower(`t1`.`eng_product_ids`) LIKE BINARY %s)))', ['271,%', '%,271,%', '%,271', '272,%', '%,272,%', '%,272', '273,%', '%,273,%', '%,273'])
+2016-02-18 10:50:55,634  INFO|          index.py:613|Thread-22|: ====== End: Search Subscription SKUs - Search by Eng Product Id(s) ======
+2016-02-18 10:50:55,644  INFO|      _internal.py: 87|Thread-22|: 127.0.0.1 - - [18/Feb/2016 10:50:55] "POST / HTTP/1.1" 200 -
+2016-02-18 10:50:56,622  INFO|      _internal.py: 87|Thread-30|: 127.0.0.1 - - [18/Feb/2016 10:50:56] "GET /static/images/sort_asc.png HTTP/1.1" 404 -
+2016-02-18 10:51:18,373  INFO|      _internal.py: 87|Thread-32|: 127.0.0.1 - - [18/Feb/2016 10:51:18] "GET / HTTP/1.1" 200 -
+2016-02-18 10:51:23,280  INFO|          index.py:554|Thread-38|: ====== Search Subscription SKUs - Search by Eng Product Id(s) ======
+2016-02-18 10:51:23,281 DEBUG|         peewee.py:2851|Thread-38|: ('SELECT `t1`.`id`, `t1`.`arch`, `t1`.`cloud_access_enabled`, `t1`.`cores`, `t1`.`derived_sku`, `t1`.`enabled_consumer_types`, `t1`.`eng_product_ids`, `t1`.`host_limited`, `t1`.`instance_multiplier`, `t1`.`jon_management`, `t1`.`management_enabled`, `t1`.`multi-entitlement`, `t1`.`multiplier`, `t1`.`name`, `t1`.`ph_category`, `t1`.`ph_product_line`, `t1`.`ph_product_name`, `t1`.`product_family`, `t1`.`ram`, `t1`.`requires_consumer_type`, `t1`.`sockets`, `t1`.`stacking_id`, `t1`.`support_level`, `t1`.`support_type`, `t1`.`unlimited_product`, `t1`.`username`, `t1`.`variant`, `t1`.`vcpu`, `t1`.`virt_limit`, `t1`.`virt_only` FROM `sku_attributes` AS t1 WHERE ((((((Lower(`t1`.`eng_product_ids`) LIKE BINARY %s) OR (Lower(`t1`.`eng_product_ids`) LIKE BINARY %s)) OR (Lower(`t1`.`eng_product_ids`) LIKE BINARY %s)) AND (((Lower(`t1`.`eng_product_ids`) LIKE BINARY %s) OR (Lower(`t1`.`eng_product_ids`) LIKE BINARY %s)) OR (Lower(`t1`.`eng_product_ids`) LIKE BINARY %s))) AND (((Lower(`t1`.`eng_product_ids`) LIKE BINARY %s) OR (Lower(`t1`.`eng_product_ids`) LIKE BINARY %s)) OR (Lower(`t1`.`eng_product_ids`) LIKE BINARY %s))) AND (((Lower(`t1`.`eng_product_ids`) LIKE BINARY %s) OR (Lower(`t1`.`eng_product_ids`) LIKE BINARY %s)) OR (Lower(`t1`.`eng_product_ids`) LIKE BINARY %s)))', ['271,%', '%,271,%', '%,271', '272,%', '%,272,%', '%,272', '273,%', '%,273,%', '%,273', '175,%', '%,175,%', '%,175'])
+2016-02-18 10:51:27,529  INFO|          index.py:613|Thread-38|: ====== End: Search Subscription SKUs - Search by Eng Product Id(s) ======
+2016-02-18 10:51:27,531  INFO|      _internal.py: 87|Thread-38|: 127.0.0.1 - - [18/Feb/2016 10:51:27] "POST / HTTP/1.1" 200 -
+2016-02-18 10:51:28,191  INFO|      _internal.py: 87|Thread-45|: 127.0.0.1 - - [18/Feb/2016 10:51:28] "GET /static/images/sort_both.png HTTP/1.1" 404 -
+2016-02-18 10:51:28,202  INFO|      _internal.py: 87|Thread-46|: 127.0.0.1 - - [18/Feb/2016 10:51:28] "GET /static/images/sort_asc.png HTTP/1.1" 404 -
+2016-02-18 10:51:40,620  INFO|      _internal.py: 87|Thread-48|: 127.0.0.1 - - [18/Feb/2016 10:51:40] "GET / HTTP/1.1" 200 -
+2016-02-18 10:51:45,142  INFO|          index.py:554|Thread-52|: ====== Search Subscription SKUs - Search by Eng Product Id(s) ======
+2016-02-18 10:51:45,144 DEBUG|         peewee.py:2851|Thread-52|: ('SELECT `t1`.`id`, `t1`.`arch`, `t1`.`cloud_access_enabled`, `t1`.`cores`, `t1`.`derived_sku`, `t1`.`enabled_consumer_types`, `t1`.`eng_product_ids`, `t1`.`host_limited`, `t1`.`instance_multiplier`, `t1`.`jon_management`, `t1`.`management_enabled`, `t1`.`multi-entitlement`, `t1`.`multiplier`, `t1`.`name`, `t1`.`ph_category`, `t1`.`ph_product_line`, `t1`.`ph_product_name`, `t1`.`product_family`, `t1`.`ram`, `t1`.`requires_consumer_type`, `t1`.`sockets`, `t1`.`stacking_id`, `t1`.`support_level`, `t1`.`support_type`, `t1`.`unlimited_product`, `t1`.`username`, `t1`.`variant`, `t1`.`vcpu`, `t1`.`virt_limit`, `t1`.`virt_only` FROM `sku_attributes` AS t1 WHERE (((((((Lower(`t1`.`eng_product_ids`) LIKE BINARY %s) OR (Lower(`t1`.`eng_product_ids`) LIKE BINARY %s)) OR (Lower(`t1`.`eng_product_ids`) LIKE BINARY %s)) AND (((Lower(`t1`.`eng_product_ids`) LIKE BINARY %s) OR (Lower(`t1`.`eng_product_ids`) LIKE BINARY %s)) OR (Lower(`t1`.`eng_product_ids`) LIKE BINARY %s))) AND (((Lower(`t1`.`eng_product_ids`) LIKE BINARY %s) OR (Lower(`t1`.`eng_product_ids`) LIKE BINARY %s)) OR (Lower(`t1`.`eng_product_ids`) LIKE BINARY %s))) AND (((Lower(`t1`.`eng_product_ids`) LIKE BINARY %s) OR (Lower(`t1`.`eng_product_ids`) LIKE BINARY %s)) OR (Lower(`t1`.`eng_product_ids`) LIKE BINARY %s))) AND (((Lower(`t1`.`eng_product_ids`) LIKE BINARY %s) OR (Lower(`t1`.`eng_product_ids`) LIKE BINARY %s)) OR (Lower(`t1`.`eng_product_ids`) LIKE BINARY %s)))', ['271,%', '%,271,%', '%,271', '272,%', '%,272,%', '%,272', '273,%', '%,273,%', '%,273', '175,%', '%,175,%', '%,175', '266,%', '%,266,%', '%,266'])
+2016-02-18 10:51:49,440  INFO|          index.py:613|Thread-52|: ====== End: Search Subscription SKUs - Search by Eng Product Id(s) ======
+2016-02-18 10:51:49,441  INFO|      _internal.py: 87|Thread-52|: 127.0.0.1 - - [18/Feb/2016 10:51:49] "POST / HTTP/1.1" 200 -
+2016-02-18 10:51:50,092  INFO|      _internal.py: 87|Thread-59|: 127.0.0.1 - - [18/Feb/2016 10:51:50] "GET /static/images/sort_both.png HTTP/1.1" 404 -
+2016-02-18 10:51:50,105  INFO|      _internal.py: 87|Thread-60|: 127.0.0.1 - - [18/Feb/2016 10:51:50] "GET /static/images/sort_asc.png HTTP/1.1" 404 -
+2016-02-18 10:51:52,927  INFO|      _internal.py: 87|Thread-61|: 127.0.0.1 - - [18/Feb/2016 10:51:52] "GET / HTTP/1.1" 200 -
+2016-02-18 10:51:58,659  INFO|          index.py:554|Thread-67|: ====== Search Subscription SKUs - Search by Eng Product Id(s) ======
+2016-02-18 10:51:58,660 DEBUG|         peewee.py:2851|Thread-67|: ('SELECT `t1`.`id`, `t1`.`arch`, `t1`.`cloud_access_enabled`, `t1`.`cores`, `t1`.`derived_sku`, `t1`.`enabled_consumer_types`, `t1`.`eng_product_ids`, `t1`.`host_limited`, `t1`.`instance_multiplier`, `t1`.`jon_management`, `t1`.`management_enabled`, `t1`.`multi-entitlement`, `t1`.`multiplier`, `t1`.`name`, `t1`.`ph_category`, `t1`.`ph_product_line`, `t1`.`ph_product_name`, `t1`.`product_family`, `t1`.`ram`, `t1`.`requires_consumer_type`, `t1`.`sockets`, `t1`.`stacking_id`, `t1`.`support_level`, `t1`.`support_type`, `t1`.`unlimited_product`, `t1`.`username`, `t1`.`variant`, `t1`.`vcpu`, `t1`.`virt_limit`, `t1`.`virt_only` FROM `sku_attributes` AS t1 WHERE (((Lower(`t1`.`eng_product_ids`) LIKE BINARY %s) OR (Lower(`t1`.`eng_product_ids`) LIKE BINARY %s)) OR (Lower(`t1`.`eng_product_ids`) LIKE BINARY %s))', ['71,%', '%,71,%', '%,71'])
+2016-02-18 10:52:06,081  INFO|          index.py:613|Thread-67|: ====== End: Search Subscription SKUs - Search by Eng Product Id(s) ======
+2016-02-18 10:52:06,087  INFO|      _internal.py: 87|Thread-67|: 127.0.0.1 - - [18/Feb/2016 10:52:06] "POST / HTTP/1.1" 200 -
+2016-02-18 10:52:06,946  INFO|      _internal.py: 87|Thread-73|: 127.0.0.1 - - [18/Feb/2016 10:52:06] "GET /static/images/sort_both.png HTTP/1.1" 404 -
+2016-02-18 10:52:06,976  INFO|      _internal.py: 87|Thread-74|: 127.0.0.1 - - [18/Feb/2016 10:52:06] "GET /static/images/sort_asc.png HTTP/1.1" 404 -
+2016-02-18 10:53:15,838  INFO|      _internal.py: 87|MainThread|:  * Detected change in '/home/liusong/code/content_sku_test/content-sku-tests/account_tool/index.py', reloading
+2016-02-18 10:53:15,857  INFO|      _internal.py: 87|MainThread|:  * Restarting with stat
+2016-02-18 10:53:30,604  INFO|          index.py:723|MainThread|: ====== Start/Reload Account Tool APP ======
+2016-02-18 10:53:30,607 WARNING|      _internal.py: 87|MainThread|:  * Debugger is active!
+2016-02-18 10:53:30,607  INFO|      _internal.py: 87|MainThread|:  * Debugger pin code: 929-475-441
+2016-02-18 10:53:30,740  INFO|      _internal.py: 87|Thread-2|: 127.0.0.1 - - [18/Feb/2016 10:53:30] "GET / HTTP/1.1" 200 -
+2016-02-18 10:53:41,181  INFO|          index.py:554|Thread-6|: ====== Search Subscription SKUs - Search by Eng Product Id(s) ======
+2016-02-18 10:53:41,182 DEBUG|         peewee.py:2851|Thread-6|: ('SELECT `t1`.`id`, `t1`.`arch`, `t1`.`cloud_access_enabled`, `t1`.`cores`, `t1`.`derived_sku`, `t1`.`enabled_consumer_types`, `t1`.`eng_product_ids`, `t1`.`host_limited`, `t1`.`instance_multiplier`, `t1`.`jon_management`, `t1`.`management_enabled`, `t1`.`multi-entitlement`, `t1`.`multiplier`, `t1`.`name`, `t1`.`ph_category`, `t1`.`ph_product_line`, `t1`.`ph_product_name`, `t1`.`product_family`, `t1`.`ram`, `t1`.`requires_consumer_type`, `t1`.`sockets`, `t1`.`stacking_id`, `t1`.`support_level`, `t1`.`support_type`, `t1`.`unlimited_product`, `t1`.`username`, `t1`.`variant`, `t1`.`vcpu`, `t1`.`virt_limit`, `t1`.`virt_only` FROM `sku_attributes` AS t1 WHERE ((((((Lower(`t1`.`eng_product_ids`) LIKE BINARY %s) OR (Lower(`t1`.`eng_product_ids`) LIKE BINARY %s)) OR (Lower(`t1`.`eng_product_ids`) LIKE BINARY %s)) AND (((Lower(`t1`.`eng_product_ids`) LIKE BINARY %s) OR (Lower(`t1`.`eng_product_ids`) LIKE BINARY %s)) OR (Lower(`t1`.`eng_product_ids`) LIKE BINARY %s))) AND (((Lower(`t1`.`eng_product_ids`) LIKE BINARY %s) OR (Lower(`t1`.`eng_product_ids`) LIKE BINARY %s)) OR (Lower(`t1`.`eng_product_ids`) LIKE BINARY %s))) AND (((Lower(`t1`.`eng_product_ids`) LIKE BINARY %s) OR (Lower(`t1`.`eng_product_ids`) LIKE BINARY %s)) OR (Lower(`t1`.`eng_product_ids`) LIKE BINARY %s)))', ['303,%', '%,303,%', '%,303', '201,%', '%,201,%', '%,201', '205,%', '%,205,%', '%,205', '269,%', '%,269,%', '%,269'])
+2016-02-18 10:53:47,019 ERROR|          index.py:609|Thread-6|: Failed to get sku Eng Product Id(s) 303,201,205,269
+2016-02-18 10:53:47,019  INFO|          index.py:611|Thread-6|: ====== End: Search Subscription SKUs - Search by Eng Product Id(s) ======
+2016-02-18 10:53:47,053  INFO|      _internal.py: 87|Thread-6|: 127.0.0.1 - - [18/Feb/2016 10:53:47] "POST / HTTP/1.1" 200 -
+2016-02-18 10:54:00,797  INFO|      _internal.py: 87|MainThread|:  * Detected change in '/home/liusong/code/content_sku_test/content-sku-tests/account_tool/database.py', reloading
+2016-02-18 10:54:00,818  INFO|      _internal.py: 87|MainThread|:  * Restarting with stat
+2016-02-18 10:55:17,969  INFO|          index.py:723|MainThread|: ====== Start/Reload Account Tool APP ======
+2016-02-18 10:55:17,971 WARNING|      _internal.py: 87|MainThread|:  * Debugger is active!
+2016-02-18 10:55:17,971  INFO|      _internal.py: 87|MainThread|:  * Debugger pin code: 929-475-441
+2016-02-18 10:55:18,696  INFO|      _internal.py: 87|Thread-2|: 127.0.0.1 - - [18/Feb/2016 10:55:18] "GET / HTTP/1.1" 200 -
+2016-02-18 10:55:25,864  INFO|          index.py:554|Thread-6|: ====== Search Subscription SKUs - Search by Eng Product Id(s) ======
+2016-02-18 10:55:25,866 DEBUG|         peewee.py:2851|Thread-6|: ('SELECT `t1`.`id`, `t1`.`arch`, `t1`.`cloud_access_enabled`, `t1`.`cores`, `t1`.`derived_sku`, `t1`.`enabled_consumer_types`, `t1`.`eng_product_ids`, `t1`.`host_limited`, `t1`.`instance_multiplier`, `t1`.`jon_management`, `t1`.`management_enabled`, `t1`.`multi-entitlement`, `t1`.`multiplier`, `t1`.`name`, `t1`.`ph_category`, `t1`.`ph_product_line`, `t1`.`ph_product_name`, `t1`.`product_family`, `t1`.`ram`, `t1`.`requires_consumer_type`, `t1`.`sockets`, `t1`.`stacking_id`, `t1`.`support_level`, `t1`.`support_type`, `t1`.`unlimited_product`, `t1`.`username`, `t1`.`variant`, `t1`.`vcpu`, `t1`.`virt_limit`, `t1`.`virt_only` FROM `sku_attributes_all` AS t1 WHERE ((((((Lower(`t1`.`eng_product_ids`) LIKE BINARY %s) OR (Lower(`t1`.`eng_product_ids`) LIKE BINARY %s)) OR (Lower(`t1`.`eng_product_ids`) LIKE BINARY %s)) AND (((Lower(`t1`.`eng_product_ids`) LIKE BINARY %s) OR (Lower(`t1`.`eng_product_ids`) LIKE BINARY %s)) OR (Lower(`t1`.`eng_product_ids`) LIKE BINARY %s))) AND (((Lower(`t1`.`eng_product_ids`) LIKE BINARY %s) OR (Lower(`t1`.`eng_product_ids`) LIKE BINARY %s)) OR (Lower(`t1`.`eng_product_ids`) LIKE BINARY %s))) AND (((Lower(`t1`.`eng_product_ids`) LIKE BINARY %s) OR (Lower(`t1`.`eng_product_ids`) LIKE BINARY %s)) OR (Lower(`t1`.`eng_product_ids`) LIKE BINARY %s)))', ['303,%', '%,303,%', '%,303', '201,%', '%,201,%', '%,201', '205,%', '%,205,%', '%,205', '269,%', '%,269,%', '%,269'])
+2016-02-18 10:55:30,858 ERROR|          index.py:609|Thread-6|: Failed to get sku Eng Product Id(s) 303,201,205,269
+2016-02-18 10:55:30,859  INFO|          index.py:611|Thread-6|: ====== End: Search Subscription SKUs - Search by Eng Product Id(s) ======
+2016-02-18 10:55:30,866  INFO|      _internal.py: 87|Thread-6|: 127.0.0.1 - - [18/Feb/2016 10:55:30] "POST / HTTP/1.1" 200 -
+2016-02-18 10:55:47,345  INFO|      _internal.py: 87|Thread-11|: 127.0.0.1 - - [18/Feb/2016 10:55:47] "GET / HTTP/1.1" 200 -
+2016-02-18 10:55:53,733  INFO|          index.py:554|Thread-16|: ====== Search Subscription SKUs - Search by Eng Product Id(s) ======
+2016-02-18 10:55:53,734 DEBUG|         peewee.py:2851|Thread-16|: ('SELECT `t1`.`id`, `t1`.`arch`, `t1`.`cloud_access_enabled`, `t1`.`cores`, `t1`.`derived_sku`, `t1`.`enabled_consumer_types`, `t1`.`eng_product_ids`, `t1`.`host_limited`, `t1`.`instance_multiplier`, `t1`.`jon_management`, `t1`.`management_enabled`, `t1`.`multi-entitlement`, `t1`.`multiplier`, `t1`.`name`, `t1`.`ph_category`, `t1`.`ph_product_line`, `t1`.`ph_product_name`, `t1`.`product_family`, `t1`.`ram`, `t1`.`requires_consumer_type`, `t1`.`sockets`, `t1`.`stacking_id`, `t1`.`support_level`, `t1`.`support_type`, `t1`.`unlimited_product`, `t1`.`username`, `t1`.`variant`, `t1`.`vcpu`, `t1`.`virt_limit`, `t1`.`virt_only` FROM `sku_attributes_all` AS t1 WHERE (((((Lower(`t1`.`eng_product_ids`) LIKE BINARY %s) OR (Lower(`t1`.`eng_product_ids`) LIKE BINARY %s)) OR (Lower(`t1`.`eng_product_ids`) LIKE BINARY %s)) AND (((Lower(`t1`.`eng_product_ids`) LIKE BINARY %s) OR (Lower(`t1`.`eng_product_ids`) LIKE BINARY %s)) OR (Lower(`t1`.`eng_product_ids`) LIKE BINARY %s))) AND (((Lower(`t1`.`eng_product_ids`) LIKE BINARY %s) OR (Lower(`t1`.`eng_product_ids`) LIKE BINARY %s)) OR (Lower(`t1`.`eng_product_ids`) LIKE BINARY %s)))', ['201,%', '%,201,%', '%,201', '205,%', '%,205,%', '%,205', '269,%', '%,269,%', '%,269'])
+2016-02-18 10:56:00,067  INFO|          index.py:611|Thread-16|: ====== End: Search Subscription SKUs - Search by Eng Product Id(s) ======
+2016-02-18 10:56:00,090  INFO|      _internal.py: 87|Thread-16|: 127.0.0.1 - - [18/Feb/2016 10:56:00] "POST / HTTP/1.1" 200 -
+2016-02-18 10:56:01,266  INFO|      _internal.py: 87|Thread-23|: 127.0.0.1 - - [18/Feb/2016 10:56:01] "GET /static/images/sort_both.png HTTP/1.1" 404 -
+2016-02-18 10:56:01,268  INFO|      _internal.py: 87|Thread-24|: 127.0.0.1 - - [18/Feb/2016 10:56:01] "GET /static/images/sort_asc.png HTTP/1.1" 404 -
+2016-02-18 11:14:44,188  INFO|      _internal.py: 87|Thread-26|: 127.0.0.1 - - [18/Feb/2016 11:14:44] "GET / HTTP/1.1" 200 -
+2016-02-18 11:15:11,876  INFO|          index.py:554|Thread-31|: ====== Search Subscription SKUs - Search by Eng Product Id(s) ======
+2016-02-18 11:15:11,877 DEBUG|         peewee.py:2851|Thread-31|: ('SELECT `t1`.`id`, `t1`.`arch`, `t1`.`cloud_access_enabled`, `t1`.`cores`, `t1`.`derived_sku`, `t1`.`enabled_consumer_types`, `t1`.`eng_product_ids`, `t1`.`host_limited`, `t1`.`instance_multiplier`, `t1`.`jon_management`, `t1`.`management_enabled`, `t1`.`multi-entitlement`, `t1`.`multiplier`, `t1`.`name`, `t1`.`ph_category`, `t1`.`ph_product_line`, `t1`.`ph_product_name`, `t1`.`product_family`, `t1`.`ram`, `t1`.`requires_consumer_type`, `t1`.`sockets`, `t1`.`stacking_id`, `t1`.`support_level`, `t1`.`support_type`, `t1`.`unlimited_product`, `t1`.`username`, `t1`.`variant`, `t1`.`vcpu`, `t1`.`virt_limit`, `t1`.`virt_only` FROM `sku_attributes_all` AS t1 WHERE (((((((Lower(`t1`.`eng_product_ids`) LIKE BINARY %s) OR (Lower(`t1`.`eng_product_ids`) LIKE BINARY %s)) OR (Lower(`t1`.`eng_product_ids`) LIKE BINARY %s)) AND (((Lower(`t1`.`eng_product_ids`) LIKE BINARY %s) OR (Lower(`t1`.`eng_product_ids`) LIKE BINARY %s)) OR (Lower(`t1`.`eng_product_ids`) LIKE BINARY %s))) AND (((Lower(`t1`.`eng_product_ids`) LIKE BINARY %s) OR (Lower(`t1`.`eng_product_ids`) LIKE BINARY %s)) OR (Lower(`t1`.`eng_product_ids`) LIKE BINARY %s))) AND (((Lower(`t1`.`eng_product_ids`) LIKE BINARY %s) OR (Lower(`t1`.`eng_product_ids`) LIKE BINARY %s)) OR (Lower(`t1`.`eng_product_ids`) LIKE BINARY %s))) AND (((Lower(`t1`.`eng_product_ids`) LIKE BINARY %s) OR (Lower(`t1`.`eng_product_ids`) LIKE BINARY %s)) OR (Lower(`t1`.`eng_product_ids`) LIKE BINARY %s)))', ['150,%', '%,150,%', '%,150', '167,%', '%,167,%', '%,167', '85,%', '%,85,%', '%,85', '86,%', '%,86,%', '%,86', '183,%', '%,183,%', '%,183'])
+2016-02-18 11:15:18,296  INFO|          index.py:611|Thread-31|: ====== End: Search Subscription SKUs - Search by Eng Product Id(s) ======
+2016-02-18 11:15:18,310  INFO|      _internal.py: 87|Thread-31|: 127.0.0.1 - - [18/Feb/2016 11:15:18] "POST / HTTP/1.1" 200 -
+2016-02-18 11:15:19,526  INFO|      _internal.py: 87|Thread-39|: 127.0.0.1 - - [18/Feb/2016 11:15:19] "GET /static/images/sort_both.png HTTP/1.1" 404 -
+2016-02-18 11:15:19,529  INFO|      _internal.py: 87|Thread-40|: 127.0.0.1 - - [18/Feb/2016 11:15:19] "GET /static/images/sort_asc.png HTTP/1.1" 404 -
+2016-02-18 11:17:54,977  INFO|      _internal.py: 87|Thread-41|: 127.0.0.1 - - [18/Feb/2016 11:17:54] "GET / HTTP/1.1" 200 -
+2016-02-18 11:18:00,794  INFO|          index.py:554|Thread-46|: ====== Search Subscription SKUs - Search by Eng Product Id(s) ======
+2016-02-18 11:18:00,796 DEBUG|         peewee.py:2851|Thread-46|: ('SELECT `t1`.`id`, `t1`.`arch`, `t1`.`cloud_access_enabled`, `t1`.`cores`, `t1`.`derived_sku`, `t1`.`enabled_consumer_types`, `t1`.`eng_product_ids`, `t1`.`host_limited`, `t1`.`instance_multiplier`, `t1`.`jon_management`, `t1`.`management_enabled`, `t1`.`multi-entitlement`, `t1`.`multiplier`, `t1`.`name`, `t1`.`ph_category`, `t1`.`ph_product_line`, `t1`.`ph_product_name`, `t1`.`product_family`, `t1`.`ram`, `t1`.`requires_consumer_type`, `t1`.`sockets`, `t1`.`stacking_id`, `t1`.`support_level`, `t1`.`support_type`, `t1`.`unlimited_product`, `t1`.`username`, `t1`.`variant`, `t1`.`vcpu`, `t1`.`virt_limit`, `t1`.`virt_only` FROM `sku_attributes_all` AS t1 WHERE ((((((((Lower(`t1`.`eng_product_ids`) LIKE BINARY %s) OR (Lower(`t1`.`eng_product_ids`) LIKE BINARY %s)) OR (Lower(`t1`.`eng_product_ids`) LIKE BINARY %s)) AND (((Lower(`t1`.`eng_product_ids`) LIKE BINARY %s) OR (Lower(`t1`.`eng_product_ids`) LIKE BINARY %s)) OR (Lower(`t1`.`eng_product_ids`) LIKE BINARY %s))) AND (((Lower(`t1`.`eng_product_ids`) LIKE BINARY %s) OR (Lower(`t1`.`eng_product_ids`) LIKE BINARY %s)) OR (Lower(`t1`.`eng_product_ids`) LIKE BINARY %s))) AND (((Lower(`t1`.`eng_product_ids`) LIKE BINARY %s) OR (Lower(`t1`.`eng_product_ids`) LIKE BINARY %s)) OR (Lower(`t1`.`eng_product_ids`) LIKE BINARY %s))) AND (((Lower(`t1`.`eng_product_ids`) LIKE BINARY %s) OR (Lower(`t1`.`eng_product_ids`) LIKE BINARY %s)) OR (Lower(`t1`.`eng_product_ids`) LIKE BINARY %s))) AND (((Lower(`t1`.`eng_product_ids`) LIKE BINARY %s) OR (Lower(`t1`.`eng_product_ids`) LIKE BINARY %s)) OR (Lower(`t1`.`eng_product_ids`) LIKE BINARY %s)))', ['150,%', '%,150,%', '%,150', '167,%', '%,167,%', '%,167', '85,%', '%,85,%', '%,85', '86,%', '%,86,%', '%,86', '183,%', '%,183,%', '%,183', '269,%', '%,269,%', '%,269'])
+2016-02-18 11:18:05,257  INFO|          index.py:611|Thread-46|: ====== End: Search Subscription SKUs - Search by Eng Product Id(s) ======
+2016-02-18 11:18:05,260  INFO|      _internal.py: 87|Thread-46|: 127.0.0.1 - - [18/Feb/2016 11:18:05] "POST / HTTP/1.1" 200 -
+2016-02-18 11:18:06,054  INFO|      _internal.py: 87|Thread-53|: 127.0.0.1 - - [18/Feb/2016 11:18:06] "GET /static/images/sort_both.png HTTP/1.1" 404 -
+2016-02-18 11:18:06,058  INFO|      _internal.py: 87|Thread-54|: 127.0.0.1 - - [18/Feb/2016 11:18:06] "GET /static/images/sort_asc.png HTTP/1.1" 404 -
+2016-02-18 11:18:28,282  INFO|      _internal.py: 87|Thread-55|: 127.0.0.1 - - [18/Feb/2016 11:18:28] "GET / HTTP/1.1" 200 -
+2016-02-18 11:18:33,899  INFO|          index.py:554|Thread-61|: ====== Search Subscription SKUs - Search by Eng Product Id(s) ======
+2016-02-18 11:18:33,901 DEBUG|         peewee.py:2851|Thread-61|: ('SELECT `t1`.`id`, `t1`.`arch`, `t1`.`cloud_access_enabled`, `t1`.`cores`, `t1`.`derived_sku`, `t1`.`enabled_consumer_types`, `t1`.`eng_product_ids`, `t1`.`host_limited`, `t1`.`instance_multiplier`, `t1`.`jon_management`, `t1`.`management_enabled`, `t1`.`multi-entitlement`, `t1`.`multiplier`, `t1`.`name`, `t1`.`ph_category`, `t1`.`ph_product_line`, `t1`.`ph_product_name`, `t1`.`product_family`, `t1`.`ram`, `t1`.`requires_consumer_type`, `t1`.`sockets`, `t1`.`stacking_id`, `t1`.`support_level`, `t1`.`support_type`, `t1`.`unlimited_product`, `t1`.`username`, `t1`.`variant`, `t1`.`vcpu`, `t1`.`virt_limit`, `t1`.`virt_only` FROM `sku_attributes_all` AS t1 WHERE (((((((((Lower(`t1`.`eng_product_ids`) LIKE BINARY %s) OR (Lower(`t1`.`eng_product_ids`) LIKE BINARY %s)) OR (Lower(`t1`.`eng_product_ids`) LIKE BINARY %s)) AND (((Lower(`t1`.`eng_product_ids`) LIKE BINARY %s) OR (Lower(`t1`.`eng_product_ids`) LIKE BINARY %s)) OR (Lower(`t1`.`eng_product_ids`) LIKE BINARY %s))) AND (((Lower(`t1`.`eng_product_ids`) LIKE BINARY %s) OR (Lower(`t1`.`eng_product_ids`) LIKE BINARY %s)) OR (Lower(`t1`.`eng_product_ids`) LIKE BINARY %s))) AND (((Lower(`t1`.`eng_product_ids`) LIKE BINARY %s) OR (Lower(`t1`.`eng_product_ids`) LIKE BINARY %s)) OR (Lower(`t1`.`eng_product_ids`) LIKE BINARY %s))) AND (((Lower(`t1`.`eng_product_ids`) LIKE BINARY %s) OR (Lower(`t1`.`eng_product_ids`) LIKE BINARY %s)) OR (Lower(`t1`.`eng_product_ids`) LIKE BINARY %s))) AND (((Lower(`t1`.`eng_product_ids`) LIKE BINARY %s) OR (Lower(`t1`.`eng_product_ids`) LIKE BINARY %s)) OR (Lower(`t1`.`eng_product_ids`) LIKE BINARY %s))) AND (((Lower(`t1`.`eng_product_ids`) LIKE BINARY %s) OR (Lower(`t1`.`eng_product_ids`) LIKE BINARY %s)) OR (Lower(`t1`.`eng_product_ids`) LIKE BINARY %s)))', ['150,%', '%,150,%', '%,150', '167,%', '%,167,%', '%,167', '85,%', '%,85,%', '%,85', '86,%', '%,86,%', '%,86', '183,%', '%,183,%', '%,183', '269,%', '%,269,%', '%,269', '11111111,%', '%,11111111,%', '%,11111111'])
+2016-02-18 11:18:38,318 ERROR|          index.py:609|Thread-61|: Failed to get sku Eng Product Id(s) 150,167,85,86,183,269,11111111
+2016-02-18 11:18:38,319  INFO|          index.py:611|Thread-61|: ====== End: Search Subscription SKUs - Search by Eng Product Id(s) ======
+2016-02-18 11:18:38,320  INFO|      _internal.py: 87|Thread-61|: 127.0.0.1 - - [18/Feb/2016 11:18:38] "POST / HTTP/1.1" 200 -
+2016-02-18 11:35:54,125  INFO|          index.py:723|MainThread|: ====== Start/Reload Account Tool APP ======
+2016-02-18 11:35:54,128  INFO|      _internal.py: 87|MainThread|:  * Running on http://0.0.0.0:80/ (Press CTRL+C to quit)
+2016-02-18 11:35:54,128  INFO|      _internal.py: 87|MainThread|:  * Restarting with stat
+2016-02-18 11:37:25,141  INFO|          index.py:723|MainThread|: ====== Start/Reload Account Tool APP ======
+2016-02-18 11:37:25,143 WARNING|      _internal.py: 87|MainThread|:  * Debugger is active!
+2016-02-18 11:37:25,143  INFO|      _internal.py: 87|MainThread|:  * Debugger pin code: 929-475-441
+2016-02-18 11:41:54,463  INFO|      _internal.py: 87|Thread-2|: 127.0.0.1 - - [18/Feb/2016 11:41:54] "GET / HTTP/1.1" 200 -
+2016-02-18 11:41:54,659  INFO|      _internal.py: 87|Thread-9|: 127.0.0.1 - - [18/Feb/2016 11:41:54] "GET /static/css/rcue.css HTTP/1.1" 304 -
+2016-02-18 11:41:54,660  INFO|      _internal.py: 87|Thread-8|: 127.0.0.1 - - [18/Feb/2016 11:41:54] "GET /static/css/bootstrap.min.css HTTP/1.1" 304 -
+2016-02-18 11:41:54,770  INFO|      _internal.py: 87|Thread-10|: 127.0.0.1 - - [18/Feb/2016 11:41:54] "GET /static/js/bootstrap.min.js HTTP/1.1" 304 -
+2016-02-18 11:41:54,771  INFO|      _internal.py: 87|Thread-11|: 127.0.0.1 - - [18/Feb/2016 11:41:54] "GET /static/js/jquery.stickytabs.js HTTP/1.1" 304 -
+2016-02-18 11:41:54,772  INFO|      _internal.py: 87|Thread-12|: 127.0.0.1 - - [18/Feb/2016 11:41:54] "GET /static/img/redhat-lg.png HTTP/1.1" 304 -
+2016-02-18 11:41:54,855  INFO|      _internal.py: 87|Thread-14|: 127.0.0.1 - - [18/Feb/2016 11:41:54] "GET /static/font/OpenSans-Semibold-webfont.woff HTTP/1.1" 304 -
+2016-02-18 13:14:04,354  INFO|      _internal.py: 87|Thread-15|: 127.0.0.1 - - [18/Feb/2016 13:14:04] "GET / HTTP/1.1" 200 -
+2016-02-18 13:14:04,507  INFO|      _internal.py: 87|Thread-19|: 127.0.0.1 - - [18/Feb/2016 13:14:04] "GET /static/css/bootstrap.min.css HTTP/1.1" 304 -
+2016-02-18 13:14:04,508  INFO|      _internal.py: 87|Thread-20|: 127.0.0.1 - - [18/Feb/2016 13:14:04] "GET /static/css/rcue.css HTTP/1.1" 304 -
+2016-02-18 13:14:04,509  INFO|      _internal.py: 87|Thread-21|: 127.0.0.1 - - [18/Feb/2016 13:14:04] "GET /static/img/redhat-lg.png HTTP/1.1" 304 -
+2016-02-18 13:14:04,706  INFO|      _internal.py: 87|Thread-22|: 127.0.0.1 - - [18/Feb/2016 13:14:04] "GET /static/js/bootstrap.min.js HTTP/1.1" 304 -
+2016-02-18 13:14:04,707  INFO|      _internal.py: 87|Thread-23|: 127.0.0.1 - - [18/Feb/2016 13:14:04] "GET /static/js/jquery.stickytabs.js HTTP/1.1" 304 -
+2016-02-18 13:18:07,566  INFO|      _internal.py: 87|Thread-25|: 127.0.0.1 - - [18/Feb/2016 13:18:07] "GET / HTTP/1.1" 200 -
+2016-02-18 13:18:07,703  INFO|      _internal.py: 87|Thread-30|: 127.0.0.1 - - [18/Feb/2016 13:18:07] "GET /static/css/bootstrap.min.css HTTP/1.1" 304 -
+2016-02-18 13:18:07,703  INFO|      _internal.py: 87|Thread-31|: 127.0.0.1 - - [18/Feb/2016 13:18:07] "GET /static/css/rcue.css HTTP/1.1" 304 -
+2016-02-18 13:18:07,705  INFO|      _internal.py: 87|Thread-32|: 127.0.0.1 - - [18/Feb/2016 13:18:07] "GET /static/img/redhat-lg.png HTTP/1.1" 304 -
+2016-02-18 13:18:07,898  INFO|      _internal.py: 87|Thread-33|: 127.0.0.1 - - [18/Feb/2016 13:18:07] "GET /static/js/bootstrap.min.js HTTP/1.1" 304 -
+2016-02-18 13:18:07,899  INFO|      _internal.py: 87|Thread-34|: 127.0.0.1 - - [18/Feb/2016 13:18:07] "GET /static/js/jquery.stickytabs.js HTTP/1.1" 304 -
+2016-02-18 13:22:14,572  INFO|      _internal.py: 87|Thread-35|: 127.0.0.1 - - [18/Feb/2016 13:22:14] "GET / HTTP/1.1" 200 -
+2016-02-18 13:22:14,769  INFO|      _internal.py: 87|Thread-40|: 127.0.0.1 - - [18/Feb/2016 13:22:14] "GET /static/css/rcue.css HTTP/1.1" 304 -
+2016-02-18 13:22:14,769  INFO|      _internal.py: 87|Thread-41|: 127.0.0.1 - - [18/Feb/2016 13:22:14] "GET /static/img/redhat-lg.png HTTP/1.1" 304 -
+2016-02-18 13:22:14,996  INFO|      _internal.py: 87|Thread-42|: 127.0.0.1 - - [18/Feb/2016 13:22:14] "GET /static/js/bootstrap.min.js HTTP/1.1" 304 -
+2016-02-18 13:22:14,996  INFO|      _internal.py: 87|Thread-43|: 127.0.0.1 - - [18/Feb/2016 13:22:14] "GET /static/js/jquery.stickytabs.js HTTP/1.1" 304 -
+2016-02-18 13:24:58,542  INFO|      _internal.py: 87|Thread-44|: 127.0.0.1 - - [18/Feb/2016 13:24:58] "GET / HTTP/1.1" 200 -
+2016-02-18 13:24:58,706  INFO|      _internal.py: 87|Thread-50|: 127.0.0.1 - - [18/Feb/2016 13:24:58] "GET /static/css/bootstrap.min.css HTTP/1.1" 304 -
+2016-02-18 13:24:58,709  INFO|      _internal.py: 87|Thread-51|: 127.0.0.1 - - [18/Feb/2016 13:24:58] "GET /static/css/rcue.css HTTP/1.1" 304 -
+2016-02-18 13:24:58,709  INFO|      _internal.py: 87|Thread-52|: 127.0.0.1 - - [18/Feb/2016 13:24:58] "GET /static/img/redhat-lg.png HTTP/1.1" 304 -
+2016-02-18 13:24:58,756  INFO|      _internal.py: 87|Thread-53|: 127.0.0.1 - - [18/Feb/2016 13:24:58] "GET /static/js/bootstrap.min.js HTTP/1.1" 304 -
+2016-02-18 13:24:58,756  INFO|      _internal.py: 87|Thread-54|: 127.0.0.1 - - [18/Feb/2016 13:24:58] "GET /static/js/jquery.stickytabs.js HTTP/1.1" 304 -
+2016-02-18 13:25:49,154  INFO|      _internal.py: 87|Thread-55|: 127.0.0.1 - - [18/Feb/2016 13:25:49] "GET / HTTP/1.1" 200 -
+2016-02-18 13:25:49,310  INFO|      _internal.py: 87|Thread-59|: 127.0.0.1 - - [18/Feb/2016 13:25:49] "GET /static/css/bootstrap.min.css HTTP/1.1" 304 -
+2016-02-18 13:25:49,311  INFO|      _internal.py: 87|Thread-60|: 127.0.0.1 - - [18/Feb/2016 13:25:49] "GET /static/css/rcue.css HTTP/1.1" 304 -
+2016-02-18 13:25:49,312  INFO|      _internal.py: 87|Thread-61|: 127.0.0.1 - - [18/Feb/2016 13:25:49] "GET /static/img/redhat-lg.png HTTP/1.1" 304 -
+2016-02-18 13:25:49,447  INFO|      _internal.py: 87|Thread-62|: 127.0.0.1 - - [18/Feb/2016 13:25:49] "GET /static/js/bootstrap.min.js HTTP/1.1" 304 -
+2016-02-18 13:25:49,448  INFO|      _internal.py: 87|Thread-63|: 127.0.0.1 - - [18/Feb/2016 13:25:49] "GET /static/js/jquery.stickytabs.js HTTP/1.1" 304 -
+2016-02-18 13:28:42,348  INFO|      _internal.py: 87|Thread-64|: 127.0.0.1 - - [18/Feb/2016 13:28:42] "GET / HTTP/1.1" 200 -
+2016-02-18 13:28:42,576  INFO|      _internal.py: 87|Thread-69|: 127.0.0.1 - - [18/Feb/2016 13:28:42] "GET /static/css/bootstrap.min.css HTTP/1.1" 304 -
+2016-02-18 13:28:42,578  INFO|      _internal.py: 87|Thread-70|: 127.0.0.1 - - [18/Feb/2016 13:28:42] "GET /static/css/rcue.css HTTP/1.1" 304 -
+2016-02-18 13:28:42,579  INFO|      _internal.py: 87|Thread-71|: 127.0.0.1 - - [18/Feb/2016 13:28:42] "GET /static/img/redhat-lg.png HTTP/1.1" 304 -
+2016-02-18 13:28:42,655  INFO|      _internal.py: 87|Thread-72|: 127.0.0.1 - - [18/Feb/2016 13:28:42] "GET /static/js/bootstrap.min.js HTTP/1.1" 304 -
+2016-02-18 13:28:42,655  INFO|      _internal.py: 87|Thread-73|: 127.0.0.1 - - [18/Feb/2016 13:28:42] "GET /static/js/jquery.stickytabs.js HTTP/1.1" 304 -
+2016-02-18 13:30:16,881  INFO|      _internal.py: 87|Thread-74|: 127.0.0.1 - - [18/Feb/2016 13:30:16] "GET / HTTP/1.1" 200 -
+2016-02-18 13:30:17,077  INFO|      _internal.py: 87|Thread-80|: 127.0.0.1 - - [18/Feb/2016 13:30:17] "GET /static/css/rcue.css HTTP/1.1" 304 -
+2016-02-18 13:30:17,078  INFO|      _internal.py: 87|Thread-81|: 127.0.0.1 - - [18/Feb/2016 13:30:17] "GET /static/img/redhat-lg.png HTTP/1.1" 304 -
+2016-02-18 13:30:17,150  INFO|      _internal.py: 87|Thread-82|: 127.0.0.1 - - [18/Feb/2016 13:30:17] "GET /static/js/bootstrap.min.js HTTP/1.1" 304 -
+2016-02-18 13:30:17,151  INFO|      _internal.py: 87|Thread-83|: 127.0.0.1 - - [18/Feb/2016 13:30:17] "GET /static/js/jquery.stickytabs.js HTTP/1.1" 304 -
+2016-02-18 13:30:49,449  INFO|      _internal.py: 87|Thread-84|: 127.0.0.1 - - [18/Feb/2016 13:30:49] "GET / HTTP/1.1" 200 -
+2016-02-18 13:30:49,578  INFO|      _internal.py: 87|Thread-89|: 127.0.0.1 - - [18/Feb/2016 13:30:49] "GET /static/css/bootstrap.min.css HTTP/1.1" 304 -
+2016-02-18 13:30:49,579  INFO|      _internal.py: 87|Thread-90|: 127.0.0.1 - - [18/Feb/2016 13:30:49] "GET /static/css/rcue.css HTTP/1.1" 304 -
+2016-02-18 13:30:49,580  INFO|      _internal.py: 87|Thread-91|: 127.0.0.1 - - [18/Feb/2016 13:30:49] "GET /static/img/redhat-lg.png HTTP/1.1" 304 -
+2016-02-18 13:30:49,678  INFO|      _internal.py: 87|Thread-92|: 127.0.0.1 - - [18/Feb/2016 13:30:49] "GET /static/js/bootstrap.min.js HTTP/1.1" 304 -
+2016-02-18 13:30:49,679  INFO|      _internal.py: 87|Thread-93|: 127.0.0.1 - - [18/Feb/2016 13:30:49] "GET /static/js/jquery.stickytabs.js HTTP/1.1" 304 -
+2016-02-18 13:31:34,691  INFO|      _internal.py: 87|Thread-95|: 127.0.0.1 - - [18/Feb/2016 13:31:34] "GET / HTTP/1.1" 200 -
+2016-02-18 13:31:34,911  INFO|      _internal.py: 87|Thread-99|: 127.0.0.1 - - [18/Feb/2016 13:31:34] "GET /static/css/bootstrap.min.css HTTP/1.1" 304 -
+2016-02-18 13:31:34,913  INFO|      _internal.py: 87|Thread-100|: 127.0.0.1 - - [18/Feb/2016 13:31:34] "GET /static/css/rcue.css HTTP/1.1" 304 -
+2016-02-18 13:31:34,913  INFO|      _internal.py: 87|Thread-101|: 127.0.0.1 - - [18/Feb/2016 13:31:34] "GET /static/img/redhat-lg.png HTTP/1.1" 304 -
+2016-02-18 13:31:34,977  INFO|      _internal.py: 87|Thread-102|: 127.0.0.1 - - [18/Feb/2016 13:31:34] "GET /static/js/bootstrap.min.js HTTP/1.1" 304 -
+2016-02-18 13:31:34,977  INFO|      _internal.py: 87|Thread-103|: 127.0.0.1 - - [18/Feb/2016 13:31:34] "GET /static/js/jquery.stickytabs.js HTTP/1.1" 304 -
+2016-02-18 13:32:03,125  INFO|      _internal.py: 87|Thread-105|: 127.0.0.1 - - [18/Feb/2016 13:32:03] "GET / HTTP/1.1" 200 -
+2016-02-18 13:32:03,326  INFO|      _internal.py: 87|Thread-110|: 127.0.0.1 - - [18/Feb/2016 13:32:03] "GET /static/css/bootstrap.min.css HTTP/1.1" 304 -
+2016-02-18 13:32:03,327  INFO|      _internal.py: 87|Thread-111|: 127.0.0.1 - - [18/Feb/2016 13:32:03] "GET /static/css/rcue.css HTTP/1.1" 304 -
+2016-02-18 13:32:03,327  INFO|      _internal.py: 87|Thread-112|: 127.0.0.1 - - [18/Feb/2016 13:32:03] "GET /static/img/redhat-lg.png HTTP/1.1" 304 -
+2016-02-18 13:32:03,455  INFO|      _internal.py: 87|Thread-113|: 127.0.0.1 - - [18/Feb/2016 13:32:03] "GET /static/js/bootstrap.min.js HTTP/1.1" 304 -
+2016-02-18 13:32:03,456  INFO|      _internal.py: 87|Thread-114|: 127.0.0.1 - - [18/Feb/2016 13:32:03] "GET /static/js/jquery.stickytabs.js HTTP/1.1" 304 -
+2016-02-18 13:32:40,866  INFO|      _internal.py: 87|Thread-115|: 127.0.0.1 - - [18/Feb/2016 13:32:40] "GET / HTTP/1.1" 200 -
+2016-02-18 13:32:41,087  INFO|      _internal.py: 87|Thread-119|: 127.0.0.1 - - [18/Feb/2016 13:32:41] "GET /static/css/bootstrap.min.css HTTP/1.1" 304 -
+2016-02-18 13:32:41,087  INFO|      _internal.py: 87|Thread-120|: 127.0.0.1 - - [18/Feb/2016 13:32:41] "GET /static/css/rcue.css HTTP/1.1" 304 -
+2016-02-18 13:32:41,091  INFO|      _internal.py: 87|Thread-121|: 127.0.0.1 - - [18/Feb/2016 13:32:41] "GET /static/img/redhat-lg.png HTTP/1.1" 304 -
+2016-02-18 13:32:41,128  INFO|      _internal.py: 87|Thread-122|: 127.0.0.1 - - [18/Feb/2016 13:32:41] "GET /static/js/bootstrap.min.js HTTP/1.1" 304 -
+2016-02-18 13:32:41,129  INFO|      _internal.py: 87|Thread-123|: 127.0.0.1 - - [18/Feb/2016 13:32:41] "GET /static/js/jquery.stickytabs.js HTTP/1.1" 304 -
+2016-02-18 13:34:46,443  INFO|      _internal.py: 87|Thread-124|: 127.0.0.1 - - [18/Feb/2016 13:34:46] "GET / HTTP/1.1" 200 -
+2016-02-18 13:34:46,655  INFO|      _internal.py: 87|Thread-130|: 127.0.0.1 - - [18/Feb/2016 13:34:46] "GET /static/css/rcue.css HTTP/1.1" 304 -
+2016-02-18 13:34:46,655  INFO|      _internal.py: 87|Thread-131|: 127.0.0.1 - - [18/Feb/2016 13:34:46] "GET /static/img/redhat-lg.png HTTP/1.1" 304 -
+2016-02-18 13:34:46,727  INFO|      _internal.py: 87|Thread-132|: 127.0.0.1 - - [18/Feb/2016 13:34:46] "GET /static/js/bootstrap.min.js HTTP/1.1" 304 -
+2016-02-18 13:34:46,728  INFO|      _internal.py: 87|Thread-133|: 127.0.0.1 - - [18/Feb/2016 13:34:46] "GET /static/js/jquery.stickytabs.js HTTP/1.1" 304 -
+2016-02-18 13:36:51,585  INFO|      _internal.py: 87|MainThread|:  * Detected change in '/home/liusong/code/content_sku_test/content-sku-tests/account_tool/choices.py', reloading
+2016-02-18 13:36:51,605  INFO|      _internal.py: 87|MainThread|:  * Restarting with stat
+2016-02-18 13:37:45,454  INFO|          index.py:723|MainThread|: ====== Start/Reload Account Tool APP ======
+2016-02-18 13:37:45,456 WARNING|      _internal.py: 87|MainThread|:  * Debugger is active!
+2016-02-18 13:37:45,456  INFO|      _internal.py: 87|MainThread|:  * Debugger pin code: 929-475-441
+2016-02-18 13:37:46,415  INFO|      _internal.py: 87|Thread-2|: 127.0.0.1 - - [18/Feb/2016 13:37:46] "GET / HTTP/1.1" 200 -
+2016-02-18 13:37:46,633  INFO|      _internal.py: 87|Thread-6|: 127.0.0.1 - - [18/Feb/2016 13:37:46] "GET /static/css/bootstrap.min.css HTTP/1.1" 304 -
+2016-02-18 13:37:46,640  INFO|      _internal.py: 87|Thread-7|: 127.0.0.1 - - [18/Feb/2016 13:37:46] "GET /static/css/rcue.css HTTP/1.1" 304 -
+2016-02-18 13:37:46,641  INFO|      _internal.py: 87|Thread-8|: 127.0.0.1 - - [18/Feb/2016 13:37:46] "GET /static/img/redhat-lg.png HTTP/1.1" 304 -
+2016-02-18 13:37:46,669  INFO|      _internal.py: 87|Thread-9|: 127.0.0.1 - - [18/Feb/2016 13:37:46] "GET /static/js/bootstrap.min.js HTTP/1.1" 304 -
+2016-02-18 13:37:46,670  INFO|      _internal.py: 87|Thread-10|: 127.0.0.1 - - [18/Feb/2016 13:37:46] "GET /static/js/jquery.stickytabs.js HTTP/1.1" 304 -
+2016-02-18 13:38:15,912  INFO|      _internal.py: 87|Thread-11|: 127.0.0.1 - - [18/Feb/2016 13:38:15] "GET / HTTP/1.1" 200 -
+2016-02-18 13:38:47,825  INFO|      _internal.py: 87|MainThread|:  * Detected change in '/home/liusong/code/content_sku_test/content-sku-tests/account_tool/choices.py', reloading
+2016-02-18 13:38:47,851  INFO|      _internal.py: 87|MainThread|:  * Restarting with stat
+2016-02-18 13:40:00,217  INFO|          index.py:723|MainThread|: ====== Start/Reload Account Tool APP ======
+2016-02-18 13:40:00,219 WARNING|      _internal.py: 87|MainThread|:  * Debugger is active!
+2016-02-18 13:40:00,219  INFO|      _internal.py: 87|MainThread|:  * Debugger pin code: 929-475-441
+2016-02-18 13:40:00,374  INFO|      _internal.py: 87|Thread-2|: 127.0.0.1 - - [18/Feb/2016 13:40:00] "GET / HTTP/1.1" 200 -
+2016-02-18 13:40:00,376 ERROR|      _internal.py: 87|Thread-2|: Error on request:
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/site-packages/werkzeug/serving.py", line 194, in run_wsgi
+    execute(self.server.app)
+  File "/usr/lib/python2.7/site-packages/werkzeug/serving.py", line 185, in execute
+    write(data)
+  File "/usr/lib/python2.7/site-packages/werkzeug/serving.py", line 153, in write
+    self.send_header(key, value)
+  File "/usr/lib64/python2.7/BaseHTTPServer.py", line 401, in send_header
+    self.wfile.write("%s: %s\r\n" % (keyword, value))
+IOError: [Errno 32] Broken pipe
+2016-02-18 13:40:04,400  INFO|      _internal.py: 87|MainThread|:  * Detected change in '/home/liusong/code/content_sku_test/content-sku-tests/account_tool/choices.py', reloading
+2016-02-18 13:40:04,425  INFO|      _internal.py: 87|MainThread|:  * Restarting with stat
+2016-02-18 13:42:30,184  INFO|          index.py:723|MainThread|: ====== Start/Reload Account Tool APP ======
+2016-02-18 13:42:30,187  INFO|      _internal.py: 87|MainThread|:  * Running on http://0.0.0.0:80/ (Press CTRL+C to quit)
+2016-02-18 13:42:30,187  INFO|      _internal.py: 87|MainThread|:  * Restarting with stat
+2016-02-18 13:42:39,252  INFO|          index.py:723|MainThread|: ====== Start/Reload Account Tool APP ======
+2016-02-18 13:42:39,254 WARNING|      _internal.py: 87|MainThread|:  * Debugger is active!
+2016-02-18 13:42:39,255  INFO|      _internal.py: 87|MainThread|:  * Debugger pin code: 929-475-441
+2016-02-18 13:42:39,383  INFO|      _internal.py: 87|Thread-2|: 127.0.0.1 - - [18/Feb/2016 13:42:39] "GET / HTTP/1.1" 200 -
+2016-02-18 13:43:28,556  INFO|      _internal.py: 87|MainThread|:  * Detected change in '/home/liusong/code/content_sku_test/content-sku-tests/account_tool/choices.py', reloading
+2016-02-18 13:43:51,468  INFO|          index.py:723|MainThread|: ====== Start/Reload Account Tool APP ======
+2016-02-18 13:43:51,471  INFO|      _internal.py: 87|MainThread|:  * Running on http://0.0.0.0:80/ (Press CTRL+C to quit)
+2016-02-18 13:43:51,471  INFO|      _internal.py: 87|MainThread|:  * Restarting with stat
+2016-02-18 13:43:59,837  INFO|          index.py:723|MainThread|: ====== Start/Reload Account Tool APP ======
+2016-02-18 13:43:59,839 WARNING|      _internal.py: 87|MainThread|:  * Debugger is active!
+2016-02-18 13:43:59,840  INFO|      _internal.py: 87|MainThread|:  * Debugger pin code: 929-475-441
+2016-02-18 13:43:59,966  INFO|      _internal.py: 87|Thread-2|: 127.0.0.1 - - [18/Feb/2016 13:43:59] "GET / HTTP/1.1" 200 -
+2016-02-18 13:44:00,091  INFO|      _internal.py: 87|Thread-5|: 127.0.0.1 - - [18/Feb/2016 13:44:00] "GET /static/css/bootstrap.min.css HTTP/1.1" 304 -
+2016-02-18 13:44:00,092  INFO|      _internal.py: 87|Thread-6|: 127.0.0.1 - - [18/Feb/2016 13:44:00] "GET /static/css/rcue.css HTTP/1.1" 304 -
+2016-02-18 13:44:00,248  INFO|      _internal.py: 87|Thread-7|: 127.0.0.1 - - [18/Feb/2016 13:44:00] "GET /static/js/bootstrap.min.js HTTP/1.1" 304 -
+2016-02-18 13:44:00,249  INFO|      _internal.py: 87|Thread-8|: 127.0.0.1 - - [18/Feb/2016 13:44:00] "GET /static/js/jquery.stickytabs.js HTTP/1.1" 304 -
+2016-02-18 13:44:00,473  INFO|      _internal.py: 87|Thread-10|: 127.0.0.1 - - [18/Feb/2016 13:44:00] "GET /static/img/redhat-lg.png HTTP/1.1" 304 -
+2016-02-18 13:45:10,068  INFO|      _internal.py: 87|Thread-11|: 127.0.0.1 - - [18/Feb/2016 13:45:10] "GET / HTTP/1.1" 200 -
+2016-02-18 13:45:10,271  INFO|      _internal.py: 87|MainThread|:  * Detected change in '/home/liusong/code/content_sku_test/content-sku-tests/account_tool/forms.py', reloading
+2016-02-18 13:45:32,356  INFO|          index.py:718|MainThread|: ====== Start/Reload Account Tool APP ======
+2016-02-18 13:45:32,359  INFO|      _internal.py: 87|MainThread|:  * Running on http://0.0.0.0:80/ (Press CTRL+C to quit)
+2016-02-18 13:45:32,359  INFO|      _internal.py: 87|MainThread|:  * Restarting with stat
+2016-02-18 13:45:41,994  INFO|          index.py:718|MainThread|: ====== Start/Reload Account Tool APP ======
+2016-02-18 13:45:41,997 WARNING|      _internal.py: 87|MainThread|:  * Debugger is active!
+2016-02-18 13:45:41,997  INFO|      _internal.py: 87|MainThread|:  * Debugger pin code: 929-475-441
+2016-02-18 13:45:42,125  INFO|      _internal.py: 87|Thread-2|: 127.0.0.1 - - [18/Feb/2016 13:45:42] "GET / HTTP/1.1" 200 -
+2016-02-18 13:45:42,293  INFO|      _internal.py: 87|Thread-7|: 127.0.0.1 - - [18/Feb/2016 13:45:42] "GET /static/css/bootstrap.min.css HTTP/1.1" 304 -
+2016-02-18 13:45:42,295  INFO|      _internal.py: 87|Thread-8|: 127.0.0.1 - - [18/Feb/2016 13:45:42] "GET /static/css/rcue.css HTTP/1.1" 304 -
+2016-02-18 13:45:42,320  INFO|      _internal.py: 87|Thread-9|: 127.0.0.1 - - [18/Feb/2016 13:45:42] "GET /static/js/bootstrap.min.js HTTP/1.1" 304 -
+2016-02-18 13:45:42,321  INFO|      _internal.py: 87|Thread-10|: 127.0.0.1 - - [18/Feb/2016 13:45:42] "GET /static/js/jquery.stickytabs.js HTTP/1.1" 304 -
+2016-02-18 13:45:42,322  INFO|      _internal.py: 87|Thread-11|: 127.0.0.1 - - [18/Feb/2016 13:45:42] "GET /static/img/redhat-lg.png HTTP/1.1" 304 -
+2016-02-18 13:46:58,468  INFO|      _internal.py: 87|MainThread|:  * Detected change in '/home/liusong/code/content_sku_test/content-sku-tests/account_tool/index.py', reloading
+2016-02-18 13:46:58,489  INFO|      _internal.py: 87|MainThread|:  * Restarting with stat
+2016-02-18 13:47:07,978  INFO|          index.py:718|MainThread|: ====== Start/Reload Account Tool APP ======
+2016-02-18 13:47:07,981 WARNING|      _internal.py: 87|MainThread|:  * Debugger is active!
+2016-02-18 13:47:07,982  INFO|      _internal.py: 87|MainThread|:  * Debugger pin code: 929-475-441
+2016-02-18 13:47:15,109  INFO|      _internal.py: 87|Thread-2|: 127.0.0.1 - - [18/Feb/2016 13:47:15] "GET / HTTP/1.1" 200 -
+2016-02-18 13:47:15,326  INFO|      _internal.py: 87|Thread-8|: 127.0.0.1 - - [18/Feb/2016 13:47:15] "GET /static/img/redhat-lg.png HTTP/1.1" 304 -
+2016-02-18 13:47:15,330  INFO|      _internal.py: 87|Thread-6|: 127.0.0.1 - - [18/Feb/2016 13:47:15] "GET /static/css/bootstrap.min.css HTTP/1.1" 304 -
+2016-02-18 13:47:15,333  INFO|      _internal.py: 87|Thread-7|: 127.0.0.1 - - [18/Feb/2016 13:47:15] "GET /static/css/rcue.css HTTP/1.1" 304 -
+2016-02-18 13:47:15,363  INFO|      _internal.py: 87|Thread-10|: 127.0.0.1 - - [18/Feb/2016 13:47:15] "GET /static/js/jquery.stickytabs.js HTTP/1.1" 304 -
+2016-02-18 13:47:15,364  INFO|      _internal.py: 87|Thread-9|: 127.0.0.1 - - [18/Feb/2016 13:47:15] "GET /static/js/bootstrap.min.js HTTP/1.1" 304 -
+2016-02-18 13:48:47,706  INFO|      _internal.py: 87|Thread-11|: 127.0.0.1 - - [18/Feb/2016 13:48:47] "GET / HTTP/1.1" 200 -
+2016-02-18 13:48:47,930  INFO|      _internal.py: 87|Thread-17|: 127.0.0.1 - - [18/Feb/2016 13:48:47] "GET /static/css/rcue.css HTTP/1.1" 304 -
+2016-02-18 13:48:47,930  INFO|      _internal.py: 87|Thread-18|: 127.0.0.1 - - [18/Feb/2016 13:48:47] "GET /static/img/redhat-lg.png HTTP/1.1" 304 -
+2016-02-18 13:48:48,013  INFO|      _internal.py: 87|Thread-19|: 127.0.0.1 - - [18/Feb/2016 13:48:48] "GET /static/js/bootstrap.min.js HTTP/1.1" 304 -
+2016-02-18 13:48:48,014  INFO|      _internal.py: 87|Thread-20|: 127.0.0.1 - - [18/Feb/2016 13:48:48] "GET /static/js/jquery.stickytabs.js HTTP/1.1" 304 -
+2016-02-18 13:49:13,997  INFO|      _internal.py: 87|Thread-21|: 127.0.0.1 - - [18/Feb/2016 13:49:13] "GET / HTTP/1.1" 200 -
+2016-02-18 13:49:14,207  INFO|      _internal.py: 87|Thread-27|: 127.0.0.1 - - [18/Feb/2016 13:49:14] "GET /static/css/rcue.css HTTP/1.1" 304 -
+2016-02-18 13:49:14,207  INFO|      _internal.py: 87|Thread-28|: 127.0.0.1 - - [18/Feb/2016 13:49:14] "GET /static/img/redhat-lg.png HTTP/1.1" 304 -
+2016-02-18 13:49:14,263  INFO|      _internal.py: 87|Thread-29|: 127.0.0.1 - - [18/Feb/2016 13:49:14] "GET /static/js/bootstrap.min.js HTTP/1.1" 304 -
+2016-02-18 13:49:14,264  INFO|      _internal.py: 87|Thread-30|: 127.0.0.1 - - [18/Feb/2016 13:49:14] "GET /static/js/jquery.stickytabs.js HTTP/1.1" 304 -
+2016-02-18 13:49:36,477  INFO|      _internal.py: 87|Thread-31|: 127.0.0.1 - - [18/Feb/2016 13:49:36] "GET / HTTP/1.1" 200 -
+2016-02-18 13:49:36,666  INFO|      _internal.py: 87|Thread-36|: 127.0.0.1 - - [18/Feb/2016 13:49:36] "GET /static/css/bootstrap.min.css HTTP/1.1" 304 -
+2016-02-18 13:49:36,667  INFO|      _internal.py: 87|Thread-37|: 127.0.0.1 - - [18/Feb/2016 13:49:36] "GET /static/css/rcue.css HTTP/1.1" 304 -
+2016-02-18 13:49:36,668  INFO|      _internal.py: 87|Thread-38|: 127.0.0.1 - - [18/Feb/2016 13:49:36] "GET /static/img/redhat-lg.png HTTP/1.1" 304 -
+2016-02-18 13:49:36,705  INFO|      _internal.py: 87|Thread-39|: 127.0.0.1 - - [18/Feb/2016 13:49:36] "GET /static/js/bootstrap.min.js HTTP/1.1" 304 -
+2016-02-18 13:49:36,706  INFO|      _internal.py: 87|Thread-40|: 127.0.0.1 - - [18/Feb/2016 13:49:36] "GET /static/js/jquery.stickytabs.js HTTP/1.1" 304 -
+2016-02-18 13:49:52,071  INFO|      _internal.py: 87|Thread-42|: 127.0.0.1 - - [18/Feb/2016 13:49:52] "GET / HTTP/1.1" 200 -
+2016-02-18 13:49:52,254  INFO|      _internal.py: 87|Thread-47|: 127.0.0.1 - - [18/Feb/2016 13:49:52] "GET /static/css/bootstrap.min.css HTTP/1.1" 304 -
+2016-02-18 13:49:52,256  INFO|      _internal.py: 87|Thread-48|: 127.0.0.1 - - [18/Feb/2016 13:49:52] "GET /static/css/rcue.css HTTP/1.1" 304 -
+2016-02-18 13:49:52,256  INFO|      _internal.py: 87|Thread-49|: 127.0.0.1 - - [18/Feb/2016 13:49:52] "GET /static/img/redhat-lg.png HTTP/1.1" 304 -
+2016-02-18 13:49:52,293  INFO|      _internal.py: 87|Thread-50|: 127.0.0.1 - - [18/Feb/2016 13:49:52] "GET /static/js/bootstrap.min.js HTTP/1.1" 304 -
+2016-02-18 13:49:52,293  INFO|      _internal.py: 87|Thread-51|: 127.0.0.1 - - [18/Feb/2016 13:49:52] "GET /static/js/jquery.stickytabs.js HTTP/1.1" 304 -
+2016-02-18 13:50:03,444  INFO|      _internal.py: 87|Thread-52|: 127.0.0.1 - - [18/Feb/2016 13:50:03] "GET / HTTP/1.1" 200 -
+2016-02-18 13:50:03,633  INFO|      _internal.py: 87|Thread-57|: 127.0.0.1 - - [18/Feb/2016 13:50:03] "GET /static/css/bootstrap.min.css HTTP/1.1" 304 -
+2016-02-18 13:50:03,634  INFO|      _internal.py: 87|Thread-59|: 127.0.0.1 - - [18/Feb/2016 13:50:03] "GET /static/img/redhat-lg.png HTTP/1.1" 304 -
+2016-02-18 13:50:03,634  INFO|      _internal.py: 87|Thread-58|: 127.0.0.1 - - [18/Feb/2016 13:50:03] "GET /static/css/rcue.css HTTP/1.1" 304 -
+2016-02-18 13:50:03,679  INFO|      _internal.py: 87|Thread-60|: 127.0.0.1 - - [18/Feb/2016 13:50:03] "GET /static/js/bootstrap.min.js HTTP/1.1" 304 -
+2016-02-18 13:50:03,679  INFO|      _internal.py: 87|Thread-61|: 127.0.0.1 - - [18/Feb/2016 13:50:03] "GET /static/js/jquery.stickytabs.js HTTP/1.1" 304 -
+2016-02-18 13:50:09,981  INFO|      _internal.py: 87|Thread-62|: 127.0.0.1 - - [18/Feb/2016 13:50:09] "GET / HTTP/1.1" 200 -
+2016-02-18 13:50:10,142  INFO|      _internal.py: 87|Thread-66|: 127.0.0.1 - - [18/Feb/2016 13:50:10] "GET /static/css/bootstrap.min.css HTTP/1.1" 304 -
+2016-02-18 13:50:10,144  INFO|      _internal.py: 87|Thread-67|: 127.0.0.1 - - [18/Feb/2016 13:50:10] "GET /static/css/rcue.css HTTP/1.1" 304 -
+2016-02-18 13:50:10,144  INFO|      _internal.py: 87|Thread-68|: 127.0.0.1 - - [18/Feb/2016 13:50:10] "GET /static/img/redhat-lg.png HTTP/1.1" 304 -
+2016-02-18 13:50:10,181  INFO|      _internal.py: 87|Thread-69|: 127.0.0.1 - - [18/Feb/2016 13:50:10] "GET /static/js/bootstrap.min.js HTTP/1.1" 304 -
+2016-02-18 13:50:10,182  INFO|      _internal.py: 87|Thread-70|: 127.0.0.1 - - [18/Feb/2016 13:50:10] "GET /static/js/jquery.stickytabs.js HTTP/1.1" 304 -
+2016-02-18 13:50:20,097  INFO|      _internal.py: 87|Thread-72|: 127.0.0.1 - - [18/Feb/2016 13:50:20] "GET / HTTP/1.1" 200 -
+2016-02-18 13:50:20,304  INFO|      _internal.py: 87|Thread-77|: 127.0.0.1 - - [18/Feb/2016 13:50:20] "GET /static/css/bootstrap.min.css HTTP/1.1" 304 -
+2016-02-18 13:50:20,305  INFO|      _internal.py: 87|Thread-79|: 127.0.0.1 - - [18/Feb/2016 13:50:20] "GET /static/img/redhat-lg.png HTTP/1.1" 304 -
+2016-02-18 13:50:20,305  INFO|      _internal.py: 87|Thread-78|: 127.0.0.1 - - [18/Feb/2016 13:50:20] "GET /static/css/rcue.css HTTP/1.1" 304 -
+2016-02-18 13:50:20,342  INFO|      _internal.py: 87|Thread-80|: 127.0.0.1 - - [18/Feb/2016 13:50:20] "GET /static/js/bootstrap.min.js HTTP/1.1" 304 -
+2016-02-18 13:50:20,343  INFO|      _internal.py: 87|Thread-81|: 127.0.0.1 - - [18/Feb/2016 13:50:20] "GET /static/js/jquery.stickytabs.js HTTP/1.1" 304 -
+2016-02-18 13:50:38,976  INFO|      _internal.py: 87|Thread-82|: 127.0.0.1 - - [18/Feb/2016 13:50:38] "GET / HTTP/1.1" 200 -
+2016-02-18 13:50:39,247  INFO|      _internal.py: 87|Thread-88|: 127.0.0.1 - - [18/Feb/2016 13:50:39] "GET /static/css/bootstrap.min.css HTTP/1.1" 304 -
+2016-02-18 13:50:39,248  INFO|      _internal.py: 87|Thread-89|: 127.0.0.1 - - [18/Feb/2016 13:50:39] "GET /static/css/rcue.css HTTP/1.1" 304 -
+2016-02-18 13:50:39,249  INFO|      _internal.py: 87|Thread-90|: 127.0.0.1 - - [18/Feb/2016 13:50:39] "GET /static/img/redhat-lg.png HTTP/1.1" 304 -
+2016-02-18 13:50:39,287  INFO|      _internal.py: 87|Thread-91|: 127.0.0.1 - - [18/Feb/2016 13:50:39] "GET /static/js/bootstrap.min.js HTTP/1.1" 304 -
+2016-02-18 13:50:39,288  INFO|      _internal.py: 87|Thread-92|: 127.0.0.1 - - [18/Feb/2016 13:50:39] "GET /static/js/jquery.stickytabs.js HTTP/1.1" 304 -
+2016-02-18 13:50:44,306  INFO|      _internal.py: 87|Thread-93|: 127.0.0.1 - - [18/Feb/2016 13:50:44] "GET / HTTP/1.1" 200 -
+2016-02-18 13:50:44,516  INFO|      _internal.py: 87|Thread-98|: 127.0.0.1 - - [18/Feb/2016 13:50:44] "GET /static/css/rcue.css HTTP/1.1" 304 -
+2016-02-18 13:50:44,516  INFO|      _internal.py: 87|Thread-97|: 127.0.0.1 - - [18/Feb/2016 13:50:44] "GET /static/css/bootstrap.min.css HTTP/1.1" 304 -
+2016-02-18 13:50:44,517  INFO|      _internal.py: 87|Thread-99|: 127.0.0.1 - - [18/Feb/2016 13:50:44] "GET /static/img/redhat-lg.png HTTP/1.1" 304 -
+2016-02-18 13:50:44,558  INFO|      _internal.py: 87|Thread-100|: 127.0.0.1 - - [18/Feb/2016 13:50:44] "GET /static/js/bootstrap.min.js HTTP/1.1" 304 -
+2016-02-18 13:50:44,558  INFO|      _internal.py: 87|Thread-101|: 127.0.0.1 - - [18/Feb/2016 13:50:44] "GET /static/js/jquery.stickytabs.js HTTP/1.1" 304 -
+2016-02-18 13:51:07,059  INFO|      _internal.py: 87|Thread-102|: 127.0.0.1 - - [18/Feb/2016 13:51:07] "GET / HTTP/1.1" 200 -
+2016-02-18 13:51:07,250  INFO|      _internal.py: 87|Thread-107|: 127.0.0.1 - - [18/Feb/2016 13:51:07] "GET /static/css/bootstrap.min.css HTTP/1.1" 304 -
+2016-02-18 13:51:07,250  INFO|      _internal.py: 87|Thread-108|: 127.0.0.1 - - [18/Feb/2016 13:51:07] "GET /static/css/rcue.css HTTP/1.1" 304 -
+2016-02-18 13:51:07,251  INFO|      _internal.py: 87|Thread-109|: 127.0.0.1 - - [18/Feb/2016 13:51:07] "GET /static/img/redhat-lg.png HTTP/1.1" 304 -
+2016-02-18 13:51:07,289  INFO|      _internal.py: 87|Thread-110|: 127.0.0.1 - - [18/Feb/2016 13:51:07] "GET /static/js/bootstrap.min.js HTTP/1.1" 304 -
+2016-02-18 13:51:07,290  INFO|      _internal.py: 87|Thread-111|: 127.0.0.1 - - [18/Feb/2016 13:51:07] "GET /static/js/jquery.stickytabs.js HTTP/1.1" 304 -
+2016-02-18 13:51:11,139  INFO|      _internal.py: 87|Thread-112|: 127.0.0.1 - - [18/Feb/2016 13:51:11] "GET / HTTP/1.1" 200 -
+2016-02-18 13:51:11,279  INFO|      _internal.py: 87|Thread-118|: 127.0.0.1 - - [18/Feb/2016 13:51:11] "GET /static/css/bootstrap.min.css HTTP/1.1" 304 -
+2016-02-18 13:51:11,280  INFO|      _internal.py: 87|Thread-119|: 127.0.0.1 - - [18/Feb/2016 13:51:11] "GET /static/css/rcue.css HTTP/1.1" 304 -
+2016-02-18 13:51:11,281  INFO|      _internal.py: 87|Thread-120|: 127.0.0.1 - - [18/Feb/2016 13:51:11] "GET /static/img/redhat-lg.png HTTP/1.1" 304 -
+2016-02-18 13:51:11,318  INFO|      _internal.py: 87|Thread-121|: 127.0.0.1 - - [18/Feb/2016 13:51:11] "GET /static/js/bootstrap.min.js HTTP/1.1" 304 -
+2016-02-18 13:51:11,318  INFO|      _internal.py: 87|Thread-122|: 127.0.0.1 - - [18/Feb/2016 13:51:11] "GET /static/js/jquery.stickytabs.js HTTP/1.1" 304 -
+2016-02-18 13:52:04,336  INFO|      _internal.py: 87|Thread-123|: 127.0.0.1 - - [18/Feb/2016 13:52:04] "GET / HTTP/1.1" 200 -
+2016-02-18 13:52:04,531  INFO|      _internal.py: 87|Thread-128|: 127.0.0.1 - - [18/Feb/2016 13:52:04] "GET /static/css/bootstrap.min.css HTTP/1.1" 304 -
+2016-02-18 13:52:04,532  INFO|      _internal.py: 87|Thread-129|: 127.0.0.1 - - [18/Feb/2016 13:52:04] "GET /static/css/rcue.css HTTP/1.1" 304 -
+2016-02-18 13:52:04,533  INFO|      _internal.py: 87|Thread-130|: 127.0.0.1 - - [18/Feb/2016 13:52:04] "GET /static/img/redhat-lg.png HTTP/1.1" 304 -
+2016-02-18 13:52:04,599  INFO|      _internal.py: 87|Thread-131|: 127.0.0.1 - - [18/Feb/2016 13:52:04] "GET /static/js/bootstrap.min.js HTTP/1.1" 304 -
+2016-02-18 13:52:04,600  INFO|      _internal.py: 87|Thread-132|: 127.0.0.1 - - [18/Feb/2016 13:52:04] "GET /static/js/jquery.stickytabs.js HTTP/1.1" 304 -
+2016-02-18 13:52:19,734  INFO|      _internal.py: 87|Thread-134|: 127.0.0.1 - - [18/Feb/2016 13:52:19] "GET / HTTP/1.1" 200 -
+2016-02-18 13:52:19,955  INFO|      _internal.py: 87|Thread-139|: 127.0.0.1 - - [18/Feb/2016 13:52:19] "GET /static/css/bootstrap.min.css HTTP/1.1" 304 -
+2016-02-18 13:52:19,957  INFO|      _internal.py: 87|Thread-140|: 127.0.0.1 - - [18/Feb/2016 13:52:19] "GET /static/css/rcue.css HTTP/1.1" 304 -
+2016-02-18 13:52:19,957  INFO|      _internal.py: 87|Thread-141|: 127.0.0.1 - - [18/Feb/2016 13:52:19] "GET /static/img/redhat-lg.png HTTP/1.1" 304 -
+2016-02-18 13:52:19,992  INFO|      _internal.py: 87|Thread-142|: 127.0.0.1 - - [18/Feb/2016 13:52:19] "GET /static/js/bootstrap.min.js HTTP/1.1" 304 -
+2016-02-18 13:52:19,993  INFO|      _internal.py: 87|Thread-143|: 127.0.0.1 - - [18/Feb/2016 13:52:19] "GET /static/js/jquery.stickytabs.js HTTP/1.1" 304 -
+2016-02-18 13:52:35,694  INFO|      _internal.py: 87|Thread-144|: 127.0.0.1 - - [18/Feb/2016 13:52:35] "GET / HTTP/1.1" 200 -
+2016-02-18 13:52:35,881  INFO|      _internal.py: 87|Thread-148|: 127.0.0.1 - - [18/Feb/2016 13:52:35] "GET /static/css/bootstrap.min.css HTTP/1.1" 304 -
+2016-02-18 13:52:35,882  INFO|      _internal.py: 87|Thread-149|: 127.0.0.1 - - [18/Feb/2016 13:52:35] "GET /static/css/rcue.css HTTP/1.1" 304 -
+2016-02-18 13:52:35,883  INFO|      _internal.py: 87|Thread-150|: 127.0.0.1 - - [18/Feb/2016 13:52:35] "GET /static/img/redhat-lg.png HTTP/1.1" 304 -
+2016-02-18 13:52:35,942  INFO|      _internal.py: 87|Thread-151|: 127.0.0.1 - - [18/Feb/2016 13:52:35] "GET /static/js/bootstrap.min.js HTTP/1.1" 304 -
+2016-02-18 13:52:35,942  INFO|      _internal.py: 87|Thread-152|: 127.0.0.1 - - [18/Feb/2016 13:52:35] "GET /static/js/jquery.stickytabs.js HTTP/1.1" 304 -
+2016-02-18 13:57:01,179  INFO|      _internal.py: 87|Thread-153|: 127.0.0.1 - - [18/Feb/2016 13:57:01] "GET / HTTP/1.1" 200 -
+2016-02-18 13:57:01,399  INFO|      _internal.py: 87|Thread-158|: 127.0.0.1 - - [18/Feb/2016 13:57:01] "GET /static/css/bootstrap.min.css HTTP/1.1" 304 -
+2016-02-18 13:57:01,400  INFO|      _internal.py: 87|Thread-159|: 127.0.0.1 - - [18/Feb/2016 13:57:01] "GET /static/css/rcue.css HTTP/1.1" 304 -
+2016-02-18 13:57:01,401  INFO|      _internal.py: 87|Thread-160|: 127.0.0.1 - - [18/Feb/2016 13:57:01] "GET /static/img/redhat-lg.png HTTP/1.1" 304 -
+2016-02-18 13:57:01,467  INFO|      _internal.py: 87|Thread-161|: 127.0.0.1 - - [18/Feb/2016 13:57:01] "GET /static/js/bootstrap.min.js HTTP/1.1" 304 -
+2016-02-18 13:57:01,467  INFO|      _internal.py: 87|Thread-162|: 127.0.0.1 - - [18/Feb/2016 13:57:01] "GET /static/js/jquery.stickytabs.js HTTP/1.1" 304 -
+2016-02-18 13:58:21,562  INFO|      _internal.py: 87|Thread-163|: 127.0.0.1 - - [18/Feb/2016 13:58:21] "GET / HTTP/1.1" 200 -
+2016-02-18 13:58:21,782  INFO|      _internal.py: 87|Thread-168|: 127.0.0.1 - - [18/Feb/2016 13:58:21] "GET /static/css/bootstrap.min.css HTTP/1.1" 304 -
+2016-02-18 13:58:21,784  INFO|      _internal.py: 87|Thread-170|: 127.0.0.1 - - [18/Feb/2016 13:58:21] "GET /static/img/redhat-lg.png HTTP/1.1" 304 -
+2016-02-18 13:58:21,784  INFO|      _internal.py: 87|Thread-169|: 127.0.0.1 - - [18/Feb/2016 13:58:21] "GET /static/css/rcue.css HTTP/1.1" 304 -
+2016-02-18 13:58:21,854  INFO|      _internal.py: 87|Thread-171|: 127.0.0.1 - - [18/Feb/2016 13:58:21] "GET /static/js/bootstrap.min.js HTTP/1.1" 304 -
+2016-02-18 13:58:21,855  INFO|      _internal.py: 87|Thread-172|: 127.0.0.1 - - [18/Feb/2016 13:58:21] "GET /static/js/jquery.stickytabs.js HTTP/1.1" 304 -
+2016-02-18 13:59:02,463  INFO|      _internal.py: 87|Thread-174|: 127.0.0.1 - - [18/Feb/2016 13:59:02] "GET / HTTP/1.1" 200 -
+2016-02-18 13:59:02,635  INFO|      _internal.py: 87|Thread-178|: 127.0.0.1 - - [18/Feb/2016 13:59:02] "GET /static/css/bootstrap.min.css HTTP/1.1" 304 -
+2016-02-18 13:59:02,635  INFO|      _internal.py: 87|Thread-179|: 127.0.0.1 - - [18/Feb/2016 13:59:02] "GET /static/css/rcue.css HTTP/1.1" 304 -
+2016-02-18 13:59:02,636  INFO|      _internal.py: 87|Thread-180|: 127.0.0.1 - - [18/Feb/2016 13:59:02] "GET /static/img/redhat-lg.png HTTP/1.1" 304 -
+2016-02-18 13:59:02,676  INFO|      _internal.py: 87|Thread-181|: 127.0.0.1 - - [18/Feb/2016 13:59:02] "GET /static/js/bootstrap.min.js HTTP/1.1" 304 -
+2016-02-18 13:59:02,677  INFO|      _internal.py: 87|Thread-182|: 127.0.0.1 - - [18/Feb/2016 13:59:02] "GET /static/js/jquery.stickytabs.js HTTP/1.1" 304 -
+2016-02-18 14:00:01,090  INFO|      _internal.py: 87|Thread-183|: 127.0.0.1 - - [18/Feb/2016 14:00:01] "GET / HTTP/1.1" 200 -
+2016-02-18 14:00:01,302  INFO|      _internal.py: 87|Thread-189|: 127.0.0.1 - - [18/Feb/2016 14:00:01] "GET /static/css/bootstrap.min.css HTTP/1.1" 304 -
+2016-02-18 14:00:01,303  INFO|      _internal.py: 87|Thread-190|: 127.0.0.1 - - [18/Feb/2016 14:00:01] "GET /static/css/rcue.css HTTP/1.1" 304 -
+2016-02-18 14:00:01,304  INFO|      _internal.py: 87|Thread-191|: 127.0.0.1 - - [18/Feb/2016 14:00:01] "GET /static/img/redhat-lg.png HTTP/1.1" 304 -
+2016-02-18 14:00:01,412  INFO|      _internal.py: 87|Thread-192|: 127.0.0.1 - - [18/Feb/2016 14:00:01] "GET /static/js/bootstrap.min.js HTTP/1.1" 304 -
+2016-02-18 14:00:01,413  INFO|      _internal.py: 87|Thread-193|: 127.0.0.1 - - [18/Feb/2016 14:00:01] "GET /static/js/jquery.stickytabs.js HTTP/1.1" 304 -
+2016-02-18 14:00:47,135  INFO|      _internal.py: 87|Thread-194|: 127.0.0.1 - - [18/Feb/2016 14:00:47] "GET / HTTP/1.1" 200 -
+2016-02-18 14:00:47,343  INFO|      _internal.py: 87|Thread-199|: 127.0.0.1 - - [18/Feb/2016 14:00:47] "GET /static/css/bootstrap.min.css HTTP/1.1" 304 -
+2016-02-18 14:00:47,345  INFO|      _internal.py: 87|Thread-201|: 127.0.0.1 - - [18/Feb/2016 14:00:47] "GET /static/img/redhat-lg.png HTTP/1.1" 304 -
+2016-02-18 14:00:47,346  INFO|      _internal.py: 87|Thread-200|: 127.0.0.1 - - [18/Feb/2016 14:00:47] "GET /static/css/rcue.css HTTP/1.1" 304 -
+2016-02-18 14:00:47,406  INFO|      _internal.py: 87|Thread-202|: 127.0.0.1 - - [18/Feb/2016 14:00:47] "GET /static/js/bootstrap.min.js HTTP/1.1" 304 -
+2016-02-18 14:00:47,407  INFO|      _internal.py: 87|Thread-203|: 127.0.0.1 - - [18/Feb/2016 14:00:47] "GET /static/js/jquery.stickytabs.js HTTP/1.1" 304 -
+2016-02-18 14:06:08,542  INFO|      _internal.py: 87|Thread-204|: 127.0.0.1 - - [18/Feb/2016 14:06:08] "GET / HTTP/1.1" 200 -
+2016-02-18 14:06:08,760  INFO|      _internal.py: 87|Thread-208|: 127.0.0.1 - - [18/Feb/2016 14:06:08] "GET /static/css/bootstrap.min.css HTTP/1.1" 304 -
+2016-02-18 14:06:08,761  INFO|      _internal.py: 87|Thread-209|: 127.0.0.1 - - [18/Feb/2016 14:06:08] "GET /static/css/rcue.css HTTP/1.1" 304 -
+2016-02-18 14:06:08,762  INFO|      _internal.py: 87|Thread-210|: 127.0.0.1 - - [18/Feb/2016 14:06:08] "GET /static/img/redhat-lg.png HTTP/1.1" 304 -
+2016-02-18 14:06:08,907  INFO|      _internal.py: 87|Thread-212|: 127.0.0.1 - - [18/Feb/2016 14:06:08] "GET /static/js/jquery.stickytabs.js HTTP/1.1" 304 -
+2016-02-18 14:06:08,907  INFO|      _internal.py: 87|Thread-211|: 127.0.0.1 - - [18/Feb/2016 14:06:08] "GET /static/js/bootstrap.min.js HTTP/1.1" 304 -
+2016-02-18 14:06:16,057  INFO|      _internal.py: 87|Thread-213|: 127.0.0.1 - - [18/Feb/2016 14:06:16] "GET / HTTP/1.1" 200 -
+2016-02-18 14:06:16,263  INFO|      _internal.py: 87|Thread-219|: 127.0.0.1 - - [18/Feb/2016 14:06:16] "GET /static/css/rcue.css HTTP/1.1" 304 -
+2016-02-18 14:06:16,263  INFO|      _internal.py: 87|Thread-220|: 127.0.0.1 - - [18/Feb/2016 14:06:16] "GET /static/img/redhat-lg.png HTTP/1.1" 304 -
+2016-02-18 14:06:16,325  INFO|      _internal.py: 87|Thread-221|: 127.0.0.1 - - [18/Feb/2016 14:06:16] "GET /static/js/bootstrap.min.js HTTP/1.1" 304 -
+2016-02-18 14:06:16,326  INFO|      _internal.py: 87|Thread-222|: 127.0.0.1 - - [18/Feb/2016 14:06:16] "GET /static/js/jquery.stickytabs.js HTTP/1.1" 304 -
+2016-02-18 14:06:24,043  INFO|      _internal.py: 87|Thread-223|: 127.0.0.1 - - [18/Feb/2016 14:06:24] "GET / HTTP/1.1" 200 -
+2016-02-18 14:06:24,263  INFO|      _internal.py: 87|Thread-229|: 127.0.0.1 - - [18/Feb/2016 14:06:24] "GET /static/css/rcue.css HTTP/1.1" 304 -
+2016-02-18 14:06:24,264  INFO|      _internal.py: 87|Thread-230|: 127.0.0.1 - - [18/Feb/2016 14:06:24] "GET /static/img/redhat-lg.png HTTP/1.1" 304 -
+2016-02-18 14:06:24,366  INFO|      _internal.py: 87|Thread-231|: 127.0.0.1 - - [18/Feb/2016 14:06:24] "GET /static/js/bootstrap.min.js HTTP/1.1" 304 -
+2016-02-18 14:06:24,367  INFO|      _internal.py: 87|Thread-232|: 127.0.0.1 - - [18/Feb/2016 14:06:24] "GET /static/js/jquery.stickytabs.js HTTP/1.1" 304 -
+2016-02-18 14:06:44,510  INFO|      _internal.py: 87|Thread-233|: 127.0.0.1 - - [18/Feb/2016 14:06:44] "GET / HTTP/1.1" 200 -
+2016-02-18 14:06:44,698  INFO|      _internal.py: 87|Thread-236|: 127.0.0.1 - - [18/Feb/2016 14:06:44] "GET /static/css/bootstrap.min.css HTTP/1.1" 304 -
+2016-02-18 14:06:44,701  INFO|      _internal.py: 87|Thread-237|: 127.0.0.1 - - [18/Feb/2016 14:06:44] "GET /static/css/rcue.css HTTP/1.1" 304 -
+2016-02-18 14:06:44,701  INFO|      _internal.py: 87|Thread-238|: 127.0.0.1 - - [18/Feb/2016 14:06:44] "GET /static/img/redhat-lg.png HTTP/1.1" 304 -
+2016-02-18 14:06:44,763  INFO|      _internal.py: 87|Thread-239|: 127.0.0.1 - - [18/Feb/2016 14:06:44] "GET /static/js/bootstrap.min.js HTTP/1.1" 304 -
+2016-02-18 14:06:44,763  INFO|      _internal.py: 87|Thread-240|: 127.0.0.1 - - [18/Feb/2016 14:06:44] "GET /static/js/jquery.stickytabs.js HTTP/1.1" 304 -
+2016-02-18 14:06:52,980  INFO|      _internal.py: 87|Thread-241|: 127.0.0.1 - - [18/Feb/2016 14:06:52] "GET / HTTP/1.1" 200 -
+2016-02-18 14:06:53,262  INFO|      _internal.py: 87|Thread-248|: 127.0.0.1 - - [18/Feb/2016 14:06:53] "GET /static/css/rcue.css HTTP/1.1" 304 -
+2016-02-18 14:06:53,263  INFO|      _internal.py: 87|Thread-247|: 127.0.0.1 - - [18/Feb/2016 14:06:53] "GET /static/css/bootstrap.min.css HTTP/1.1" 304 -
+2016-02-18 14:06:53,263  INFO|      _internal.py: 87|Thread-249|: 127.0.0.1 - - [18/Feb/2016 14:06:53] "GET /static/img/redhat-lg.png HTTP/1.1" 304 -
+2016-02-18 14:06:53,338  INFO|      _internal.py: 87|Thread-251|: 127.0.0.1 - - [18/Feb/2016 14:06:53] "GET /static/js/jquery.stickytabs.js HTTP/1.1" 304 -
+2016-02-18 14:06:53,338  INFO|      _internal.py: 87|Thread-250|: 127.0.0.1 - - [18/Feb/2016 14:06:53] "GET /static/js/bootstrap.min.js HTTP/1.1" 304 -
+2016-02-18 14:07:40,929  INFO|          index.py:549|Thread-253|: ====== Search Subscription SKUs - Search by Eng Product Id(s) ======
+2016-02-18 14:07:40,930 DEBUG|         peewee.py:2851|Thread-253|: ('SELECT `t1`.`id`, `t1`.`arch`, `t1`.`cloud_access_enabled`, `t1`.`cores`, `t1`.`derived_sku`, `t1`.`enabled_consumer_types`, `t1`.`eng_product_ids`, `t1`.`host_limited`, `t1`.`instance_multiplier`, `t1`.`jon_management`, `t1`.`management_enabled`, `t1`.`multi-entitlement`, `t1`.`multiplier`, `t1`.`name`, `t1`.`ph_category`, `t1`.`ph_product_line`, `t1`.`ph_product_name`, `t1`.`product_family`, `t1`.`ram`, `t1`.`requires_consumer_type`, `t1`.`sockets`, `t1`.`stacking_id`, `t1`.`support_level`, `t1`.`support_type`, `t1`.`unlimited_product`, `t1`.`username`, `t1`.`variant`, `t1`.`vcpu`, `t1`.`virt_limit`, `t1`.`virt_only` FROM `sku_attributes` AS t1 WHERE ((((Lower(`t1`.`eng_product_ids`) LIKE BINARY %s) OR (Lower(`t1`.`eng_product_ids`) LIKE BINARY %s)) OR (Lower(`t1`.`eng_product_ids`) LIKE BINARY %s)) AND (((Lower(`t1`.`eng_product_ids`) LIKE BINARY %s) OR (Lower(`t1`.`eng_product_ids`) LIKE BINARY %s)) OR (Lower(`t1`.`eng_product_ids`) LIKE BINARY %s)))', ['71,%', '%,71,%', '%,71', '271,%', '%,271,%', '%,271'])
+2016-02-18 14:07:46,216  INFO|          index.py:606|Thread-253|: ====== End: Search Subscription SKUs - Search by Eng Product Id(s) ======
+2016-02-18 14:07:46,238  INFO|      _internal.py: 87|Thread-253|: 127.0.0.1 - - [18/Feb/2016 14:07:46] "POST / HTTP/1.1" 200 -
+2016-02-18 14:07:47,000  INFO|      _internal.py: 87|Thread-260|: 127.0.0.1 - - [18/Feb/2016 14:07:47] "GET /static/images/sort_both.png HTTP/1.1" 404 -
+2016-02-18 14:07:47,003  INFO|      _internal.py: 87|Thread-261|: 127.0.0.1 - - [18/Feb/2016 14:07:47] "GET /static/images/sort_asc.png HTTP/1.1" 404 -
+2016-02-18 14:07:53,854  INFO|      _internal.py: 87|Thread-263|: 127.0.0.1 - - [18/Feb/2016 14:07:53] "GET / HTTP/1.1" 200 -
+2016-02-18 14:17:31,911  INFO|      _internal.py: 87|Thread-268|: 127.0.0.1 - - [18/Feb/2016 14:17:31] "GET / HTTP/1.1" 200 -
+2016-02-18 14:17:32,071  INFO|      _internal.py: 87|Thread-274|: 127.0.0.1 - - [18/Feb/2016 14:17:32] "GET /static/css/rcue.css HTTP/1.1" 304 -
+2016-02-18 14:17:32,071  INFO|      _internal.py: 87|Thread-275|: 127.0.0.1 - - [18/Feb/2016 14:17:32] "GET /static/img/redhat-lg.png HTTP/1.1" 304 -
+2016-02-18 14:17:32,300  INFO|      _internal.py: 87|Thread-276|: 127.0.0.1 - - [18/Feb/2016 14:17:32] "GET /static/js/bootstrap.min.js HTTP/1.1" 304 -
+2016-02-18 14:17:32,302  INFO|      _internal.py: 87|Thread-277|: 127.0.0.1 - - [18/Feb/2016 14:17:32] "GET /static/js/jquery.stickytabs.js HTTP/1.1" 304 -
+2016-02-18 14:18:29,316  INFO|      _internal.py: 87|Thread-278|: 127.0.0.1 - - [18/Feb/2016 14:18:29] "GET / HTTP/1.1" 200 -
+2016-02-18 14:18:29,496  INFO|      _internal.py: 87|Thread-284|: 127.0.0.1 - - [18/Feb/2016 14:18:29] "GET /static/css/rcue.css HTTP/1.1" 304 -
+2016-02-18 14:18:29,496  INFO|      _internal.py: 87|Thread-285|: 127.0.0.1 - - [18/Feb/2016 14:18:29] "GET /static/img/redhat-lg.png HTTP/1.1" 304 -
+2016-02-18 14:18:29,668  INFO|      _internal.py: 87|Thread-286|: 127.0.0.1 - - [18/Feb/2016 14:18:29] "GET /static/js/bootstrap.min.js HTTP/1.1" 304 -
+2016-02-18 14:18:29,669  INFO|      _internal.py: 87|Thread-287|: 127.0.0.1 - - [18/Feb/2016 14:18:29] "GET /static/js/jquery.stickytabs.js HTTP/1.1" 304 -
+2016-02-18 14:19:18,666  INFO|      _internal.py: 87|Thread-288|: 127.0.0.1 - - [18/Feb/2016 14:19:18] "GET / HTTP/1.1" 200 -
+2016-02-18 14:19:18,828  INFO|      _internal.py: 87|Thread-293|: 127.0.0.1 - - [18/Feb/2016 14:19:18] "GET /static/css/bootstrap.min.css HTTP/1.1" 304 -
+2016-02-18 14:19:18,830  INFO|      _internal.py: 87|Thread-294|: 127.0.0.1 - - [18/Feb/2016 14:19:18] "GET /static/css/rcue.css HTTP/1.1" 304 -
+2016-02-18 14:19:18,830  INFO|      _internal.py: 87|Thread-295|: 127.0.0.1 - - [18/Feb/2016 14:19:18] "GET /static/img/redhat-lg.png HTTP/1.1" 304 -
+2016-02-18 14:19:19,023  INFO|      _internal.py: 87|Thread-296|: 127.0.0.1 - - [18/Feb/2016 14:19:19] "GET /static/js/bootstrap.min.js HTTP/1.1" 304 -
+2016-02-18 14:19:19,024  INFO|      _internal.py: 87|Thread-297|: 127.0.0.1 - - [18/Feb/2016 14:19:19] "GET /static/js/jquery.stickytabs.js HTTP/1.1" 304 -
+2016-02-18 14:19:50,604  INFO|      _internal.py: 87|Thread-299|: 127.0.0.1 - - [18/Feb/2016 14:19:50] "GET / HTTP/1.1" 200 -
+2016-02-18 14:19:50,796  INFO|      _internal.py: 87|Thread-303|: 127.0.0.1 - - [18/Feb/2016 14:19:50] "GET /static/css/bootstrap.min.css HTTP/1.1" 304 -
+2016-02-18 14:19:50,797  INFO|      _internal.py: 87|Thread-304|: 127.0.0.1 - - [18/Feb/2016 14:19:50] "GET /static/css/rcue.css HTTP/1.1" 304 -
+2016-02-18 14:19:50,798  INFO|      _internal.py: 87|Thread-305|: 127.0.0.1 - - [18/Feb/2016 14:19:50] "GET /static/img/redhat-lg.png HTTP/1.1" 304 -
+2016-02-18 14:19:50,921  INFO|      _internal.py: 87|Thread-306|: 127.0.0.1 - - [18/Feb/2016 14:19:50] "GET /static/js/bootstrap.min.js HTTP/1.1" 304 -
+2016-02-18 14:19:50,922  INFO|      _internal.py: 87|Thread-307|: 127.0.0.1 - - [18/Feb/2016 14:19:50] "GET /static/js/jquery.stickytabs.js HTTP/1.1" 304 -
+2016-02-18 14:28:20,778  INFO|      _internal.py: 87|Thread-308|: 127.0.0.1 - - [18/Feb/2016 14:28:20] "GET / HTTP/1.1" 200 -
+2016-02-18 14:28:21,001  INFO|      _internal.py: 87|Thread-313|: 127.0.0.1 - - [18/Feb/2016 14:28:21] "GET /static/css/bootstrap.min.css HTTP/1.1" 304 -
+2016-02-18 14:28:21,002  INFO|      _internal.py: 87|Thread-314|: 127.0.0.1 - - [18/Feb/2016 14:28:21] "GET /static/css/rcue.css HTTP/1.1" 304 -
+2016-02-18 14:28:21,003  INFO|      _internal.py: 87|Thread-315|: 127.0.0.1 - - [18/Feb/2016 14:28:21] "GET /static/img/redhat-lg.png HTTP/1.1" 304 -
+2016-02-18 14:28:21,186  INFO|      _internal.py: 87|Thread-316|: 127.0.0.1 - - [18/Feb/2016 14:28:21] "GET /static/js/bootstrap.min.js HTTP/1.1" 304 -
+2016-02-18 14:28:21,187  INFO|      _internal.py: 87|Thread-317|: 127.0.0.1 - - [18/Feb/2016 14:28:21] "GET /static/js/jquery.stickytabs.js HTTP/1.1" 304 -
+2016-02-18 14:28:27,202  INFO|      _internal.py: 87|Thread-319|: 127.0.0.1 - - [18/Feb/2016 14:28:27] "GET / HTTP/1.1" 200 -
+2016-02-18 14:28:27,389  INFO|      _internal.py: 87|Thread-325|: 127.0.0.1 - - [18/Feb/2016 14:28:27] "GET /static/css/rcue.css HTTP/1.1" 304 -
+2016-02-18 14:28:27,390  INFO|      _internal.py: 87|Thread-326|: 127.0.0.1 - - [18/Feb/2016 14:28:27] "GET /static/img/redhat-lg.png HTTP/1.1" 304 -
+2016-02-18 14:28:27,514  INFO|      _internal.py: 87|Thread-327|: 127.0.0.1 - - [18/Feb/2016 14:28:27] "GET /static/js/bootstrap.min.js HTTP/1.1" 304 -
+2016-02-18 14:28:27,515  INFO|      _internal.py: 87|Thread-328|: 127.0.0.1 - - [18/Feb/2016 14:28:27] "GET /static/js/jquery.stickytabs.js HTTP/1.1" 304 -
+2016-02-18 14:28:33,832  INFO|      _internal.py: 87|Thread-330|: 127.0.0.1 - - [18/Feb/2016 14:28:33] "GET / HTTP/1.1" 200 -
+2016-02-18 14:28:34,053  INFO|      _internal.py: 87|Thread-336|: 127.0.0.1 - - [18/Feb/2016 14:28:34] "GET /static/css/bootstrap.min.css HTTP/1.1" 304 -
+2016-02-18 14:28:34,055  INFO|      _internal.py: 87|Thread-337|: 127.0.0.1 - - [18/Feb/2016 14:28:34] "GET /static/css/rcue.css HTTP/1.1" 304 -
+2016-02-18 14:28:34,056  INFO|      _internal.py: 87|Thread-338|: 127.0.0.1 - - [18/Feb/2016 14:28:34] "GET /static/img/redhat-lg.png HTTP/1.1" 304 -
+2016-02-18 14:28:34,156  INFO|      _internal.py: 87|Thread-339|: 127.0.0.1 - - [18/Feb/2016 14:28:34] "GET /static/js/bootstrap.min.js HTTP/1.1" 304 -
+2016-02-18 14:28:34,156  INFO|      _internal.py: 87|Thread-340|: 127.0.0.1 - - [18/Feb/2016 14:28:34] "GET /static/js/jquery.stickytabs.js HTTP/1.1" 304 -
+2016-02-18 14:29:56,259  INFO|      _internal.py: 87|Thread-341|: 127.0.0.1 - - [18/Feb/2016 14:29:56] "GET / HTTP/1.1" 200 -
+2016-02-18 14:29:56,491  INFO|      _internal.py: 87|Thread-347|: 127.0.0.1 - - [18/Feb/2016 14:29:56] "GET /static/css/rcue.css HTTP/1.1" 304 -
+2016-02-18 14:29:56,491  INFO|      _internal.py: 87|Thread-348|: 127.0.0.1 - - [18/Feb/2016 14:29:56] "GET /static/img/redhat-lg.png HTTP/1.1" 304 -
+2016-02-18 14:29:56,712  INFO|      _internal.py: 87|Thread-349|: 127.0.0.1 - - [18/Feb/2016 14:29:56] "GET /static/js/bootstrap.min.js HTTP/1.1" 304 -
+2016-02-18 14:29:56,714  INFO|      _internal.py: 87|Thread-350|: 127.0.0.1 - - [18/Feb/2016 14:29:56] "GET /static/js/jquery.stickytabs.js HTTP/1.1" 304 -
+2016-02-18 14:30:49,590  INFO|          index.py:549|Thread-351|: ====== Search Subscription SKUs - Search by Eng Product Id(s) ======
+2016-02-18 14:30:49,591 DEBUG|         peewee.py:2851|Thread-351|: ('SELECT `t1`.`id`, `t1`.`arch`, `t1`.`cloud_access_enabled`, `t1`.`cores`, `t1`.`derived_sku`, `t1`.`enabled_consumer_types`, `t1`.`eng_product_ids`, `t1`.`host_limited`, `t1`.`instance_multiplier`, `t1`.`jon_management`, `t1`.`management_enabled`, `t1`.`multi-entitlement`, `t1`.`multiplier`, `t1`.`name`, `t1`.`ph_category`, `t1`.`ph_product_line`, `t1`.`ph_product_name`, `t1`.`product_family`, `t1`.`ram`, `t1`.`requires_consumer_type`, `t1`.`sockets`, `t1`.`stacking_id`, `t1`.`support_level`, `t1`.`support_type`, `t1`.`unlimited_product`, `t1`.`username`, `t1`.`variant`, `t1`.`vcpu`, `t1`.`virt_limit`, `t1`.`virt_only` FROM `sku_attributes` AS t1 WHERE ((((Lower(`t1`.`eng_product_ids`) LIKE BINARY %s) OR (Lower(`t1`.`eng_product_ids`) LIKE BINARY %s)) OR (Lower(`t1`.`eng_product_ids`) LIKE BINARY %s)) AND (((Lower(`t1`.`eng_product_ids`) LIKE BINARY %s) OR (Lower(`t1`.`eng_product_ids`) LIKE BINARY %s)) OR (Lower(`t1`.`eng_product_ids`) LIKE BINARY %s)))', ['71,%', '%,71,%', '%,71', '271,%', '%,271,%', '%,271'])
+2016-02-18 14:30:54,029  INFO|          index.py:606|Thread-351|: ====== End: Search Subscription SKUs - Search by Eng Product Id(s) ======
+2016-02-18 14:30:54,033  INFO|      _internal.py: 87|Thread-351|: 127.0.0.1 - - [18/Feb/2016 14:30:54] "POST / HTTP/1.1" 200 -
+2016-02-18 14:30:54,780  INFO|      _internal.py: 87|Thread-359|: 127.0.0.1 - - [18/Feb/2016 14:30:54] "GET /static/images/sort_both.png HTTP/1.1" 404 -
+2016-02-18 14:30:54,783  INFO|      _internal.py: 87|Thread-360|: 127.0.0.1 - - [18/Feb/2016 14:30:54] "GET /static/images/sort_asc.png HTTP/1.1" 404 -
+2016-02-18 14:31:21,149  INFO|      _internal.py: 87|Thread-361|: 127.0.0.1 - - [18/Feb/2016 14:31:21] "GET / HTTP/1.1" 200 -
+2016-02-18 14:31:28,519  INFO|          index.py:549|Thread-367|: ====== Search Subscription SKUs - Search by Eng Product Id(s) ======
+2016-02-18 14:31:28,521 DEBUG|         peewee.py:2851|Thread-367|: ('SELECT `t1`.`id`, `t1`.`arch`, `t1`.`cloud_access_enabled`, `t1`.`cores`, `t1`.`derived_sku`, `t1`.`enabled_consumer_types`, `t1`.`eng_product_ids`, `t1`.`host_limited`, `t1`.`instance_multiplier`, `t1`.`jon_management`, `t1`.`management_enabled`, `t1`.`multi-entitlement`, `t1`.`multiplier`, `t1`.`name`, `t1`.`ph_category`, `t1`.`ph_product_line`, `t1`.`ph_product_name`, `t1`.`product_family`, `t1`.`ram`, `t1`.`requires_consumer_type`, `t1`.`sockets`, `t1`.`stacking_id`, `t1`.`support_level`, `t1`.`support_type`, `t1`.`unlimited_product`, `t1`.`username`, `t1`.`variant`, `t1`.`vcpu`, `t1`.`virt_limit`, `t1`.`virt_only` FROM `sku_attributes` AS t1 WHERE ((((Lower(`t1`.`eng_product_ids`) LIKE BINARY %s) OR (Lower(`t1`.`eng_product_ids`) LIKE BINARY %s)) OR (Lower(`t1`.`eng_product_ids`) LIKE BINARY %s)) AND (((Lower(`t1`.`eng_product_ids`) LIKE BINARY %s) OR (Lower(`t1`.`eng_product_ids`) LIKE BINARY %s)) OR (Lower(`t1`.`eng_product_ids`) LIKE BINARY %s)))', ['71,%', '%,71,%', '%,71', '11111,%', '%,11111,%', '%,11111'])
+2016-02-18 14:31:34,618 ERROR|          index.py:604|Thread-367|: Failed to get sku Eng Product Id(s) 71,11111
+2016-02-18 14:31:34,618  INFO|          index.py:606|Thread-367|: ====== End: Search Subscription SKUs - Search by Eng Product Id(s) ======
+2016-02-18 14:31:34,625  INFO|      _internal.py: 87|Thread-367|: 127.0.0.1 - - [18/Feb/2016 14:31:34] "POST / HTTP/1.1" 200 -
+2016-02-18 14:31:51,108  INFO|      _internal.py: 87|Thread-372|: 127.0.0.1 - - [18/Feb/2016 14:31:51] "GET / HTTP/1.1" 200 -
+2016-02-18 14:32:15,055  INFO|      _internal.py: 87|Thread-376|: 127.0.0.1 - - [18/Feb/2016 14:32:15] "GET / HTTP/1.1" 200 -
+2016-02-18 14:32:15,281  INFO|      _internal.py: 87|Thread-381|: 127.0.0.1 - - [18/Feb/2016 14:32:15] "GET /static/css/bootstrap.min.css HTTP/1.1" 304 -
+2016-02-18 14:32:15,281  INFO|      _internal.py: 87|Thread-382|: 127.0.0.1 - - [18/Feb/2016 14:32:15] "GET /static/css/rcue.css HTTP/1.1" 304 -
+2016-02-18 14:32:15,283  INFO|      _internal.py: 87|Thread-383|: 127.0.0.1 - - [18/Feb/2016 14:32:15] "GET /static/img/redhat-lg.png HTTP/1.1" 304 -
+2016-02-18 14:32:15,440  INFO|      _internal.py: 87|Thread-384|: 127.0.0.1 - - [18/Feb/2016 14:32:15] "GET /static/js/bootstrap.min.js HTTP/1.1" 304 -
+2016-02-18 14:32:15,442  INFO|      _internal.py: 87|Thread-385|: 127.0.0.1 - - [18/Feb/2016 14:32:15] "GET /static/js/jquery.stickytabs.js HTTP/1.1" 304 -
+2016-02-18 14:32:18,730  INFO|          index.py:549|Thread-386|: ====== Search Subscription SKUs - Search by Eng Product Id(s) ======
+2016-02-18 14:32:18,732 DEBUG|         peewee.py:2851|Thread-386|: ('SELECT `t1`.`id`, `t1`.`arch`, `t1`.`cloud_access_enabled`, `t1`.`cores`, `t1`.`derived_sku`, `t1`.`enabled_consumer_types`, `t1`.`eng_product_ids`, `t1`.`host_limited`, `t1`.`instance_multiplier`, `t1`.`jon_management`, `t1`.`management_enabled`, `t1`.`multi-entitlement`, `t1`.`multiplier`, `t1`.`name`, `t1`.`ph_category`, `t1`.`ph_product_line`, `t1`.`ph_product_name`, `t1`.`product_family`, `t1`.`ram`, `t1`.`requires_consumer_type`, `t1`.`sockets`, `t1`.`stacking_id`, `t1`.`support_level`, `t1`.`support_type`, `t1`.`unlimited_product`, `t1`.`username`, `t1`.`variant`, `t1`.`vcpu`, `t1`.`virt_limit`, `t1`.`virt_only` FROM `sku_attributes` AS t1 WHERE ((((Lower(`t1`.`eng_product_ids`) LIKE BINARY %s) OR (Lower(`t1`.`eng_product_ids`) LIKE BINARY %s)) OR (Lower(`t1`.`eng_product_ids`) LIKE BINARY %s)) AND (((Lower(`t1`.`eng_product_ids`) LIKE BINARY %s) OR (Lower(`t1`.`eng_product_ids`) LIKE BINARY %s)) OR (Lower(`t1`.`eng_product_ids`) LIKE BINARY %s)))', ['71,%', '%,71,%', '%,71', '11111,%', '%,11111,%', '%,11111'])
+2016-02-18 14:32:25,107 ERROR|          index.py:604|Thread-386|: Failed to get sku Eng Product Id(s) 71,11111
+2016-02-18 14:32:25,107  INFO|          index.py:606|Thread-386|: ====== End: Search Subscription SKUs - Search by Eng Product Id(s) ======
+2016-02-18 14:32:25,111  INFO|      _internal.py: 87|Thread-386|: 127.0.0.1 - - [18/Feb/2016 14:32:25] "POST / HTTP/1.1" 200 -
+2016-02-18 14:32:28,252  INFO|      _internal.py: 87|Thread-391|: 127.0.0.1 - - [18/Feb/2016 14:32:28] "GET / HTTP/1.1" 200 -
+2016-02-18 14:32:48,840  INFO|          index.py:549|Thread-397|: ====== Search Subscription SKUs - Search by Eng Product Id(s) ======
+2016-02-18 14:32:48,841 DEBUG|         peewee.py:2851|Thread-397|: ('SELECT `t1`.`id`, `t1`.`arch`, `t1`.`cloud_access_enabled`, `t1`.`cores`, `t1`.`derived_sku`, `t1`.`enabled_consumer_types`, `t1`.`eng_product_ids`, `t1`.`host_limited`, `t1`.`instance_multiplier`, `t1`.`jon_management`, `t1`.`management_enabled`, `t1`.`multi-entitlement`, `t1`.`multiplier`, `t1`.`name`, `t1`.`ph_category`, `t1`.`ph_product_line`, `t1`.`ph_product_name`, `t1`.`product_family`, `t1`.`ram`, `t1`.`requires_consumer_type`, `t1`.`sockets`, `t1`.`stacking_id`, `t1`.`support_level`, `t1`.`support_type`, `t1`.`unlimited_product`, `t1`.`username`, `t1`.`variant`, `t1`.`vcpu`, `t1`.`virt_limit`, `t1`.`virt_only` FROM `sku_attributes` AS t1 WHERE (((Lower(`t1`.`eng_product_ids`) LIKE BINARY %s) OR (Lower(`t1`.`eng_product_ids`) LIKE BINARY %s)) OR (Lower(`t1`.`eng_product_ids`) LIKE BINARY %s))', ['71,%', '%,71,%', '%,71'])
+2016-02-18 14:32:55,339  INFO|          index.py:606|Thread-397|: ====== End: Search Subscription SKUs - Search by Eng Product Id(s) ======
+2016-02-18 14:32:55,345  INFO|      _internal.py: 87|Thread-397|: 127.0.0.1 - - [18/Feb/2016 14:32:55] "POST / HTTP/1.1" 200 -
+2016-02-18 14:32:56,208  INFO|      _internal.py: 87|Thread-405|: 127.0.0.1 - - [18/Feb/2016 14:32:56] "GET /static/images/sort_both.png HTTP/1.1" 404 -
+2016-02-18 14:32:56,212  INFO|      _internal.py: 87|Thread-406|: 127.0.0.1 - - [18/Feb/2016 14:32:56] "GET /static/images/sort_asc.png HTTP/1.1" 404 -
+2016-02-18 14:33:09,071  INFO|      _internal.py: 87|Thread-407|: 127.0.0.1 - - [18/Feb/2016 14:33:09] "GET / HTTP/1.1" 200 -
+2016-02-18 14:33:14,101  INFO|          index.py:549|Thread-412|: ====== Search Subscription SKUs - Search by Eng Product Id(s) ======
+2016-02-18 14:33:14,101 DEBUG|         peewee.py:2851|Thread-412|: ('SELECT `t1`.`id`, `t1`.`arch`, `t1`.`cloud_access_enabled`, `t1`.`cores`, `t1`.`derived_sku`, `t1`.`enabled_consumer_types`, `t1`.`eng_product_ids`, `t1`.`host_limited`, `t1`.`instance_multiplier`, `t1`.`jon_management`, `t1`.`management_enabled`, `t1`.`multi-entitlement`, `t1`.`multiplier`, `t1`.`name`, `t1`.`ph_category`, `t1`.`ph_product_line`, `t1`.`ph_product_name`, `t1`.`product_family`, `t1`.`ram`, `t1`.`requires_consumer_type`, `t1`.`sockets`, `t1`.`stacking_id`, `t1`.`support_level`, `t1`.`support_type`, `t1`.`unlimited_product`, `t1`.`username`, `t1`.`variant`, `t1`.`vcpu`, `t1`.`virt_limit`, `t1`.`virt_only` FROM `sku_attributes` AS t1 WHERE (((Lower(`t1`.`eng_product_ids`) LIKE BINARY %s) OR (Lower(`t1`.`eng_product_ids`) LIKE BINARY %s)) OR (Lower(`t1`.`eng_product_ids`) LIKE BINARY %s))', ['271,%', '%,271,%', '%,271'])
+2016-02-18 14:33:19,863  INFO|          index.py:606|Thread-412|: ====== End: Search Subscription SKUs - Search by Eng Product Id(s) ======
+2016-02-18 14:33:19,878  INFO|      _internal.py: 87|Thread-412|: 127.0.0.1 - - [18/Feb/2016 14:33:19] "POST / HTTP/1.1" 200 -
+2016-02-18 14:33:21,166  INFO|      _internal.py: 87|Thread-419|: 127.0.0.1 - - [18/Feb/2016 14:33:21] "GET /static/images/sort_both.png HTTP/1.1" 404 -
+2016-02-18 14:33:21,170  INFO|      _internal.py: 87|Thread-420|: 127.0.0.1 - - [18/Feb/2016 14:33:21] "GET /static/images/sort_asc.png HTTP/1.1" 404 -
+2016-02-18 14:34:02,723  INFO|      _internal.py: 87|Thread-421|: 127.0.0.1 - - [18/Feb/2016 14:34:02] "GET / HTTP/1.1" 200 -
+2016-02-18 14:37:06,605  INFO|          index.py:718|MainThread|: ====== Start/Reload Account Tool APP ======
+2016-02-18 14:37:06,607  INFO|      _internal.py: 87|MainThread|:  * Running on http://0.0.0.0:80/ (Press CTRL+C to quit)
+2016-02-18 14:37:06,608  INFO|      _internal.py: 87|MainThread|:  * Restarting with stat
+2016-02-18 14:37:22,776  INFO|          index.py:718|MainThread|: ====== Start/Reload Account Tool APP ======
+2016-02-18 14:37:22,779 WARNING|      _internal.py: 87|MainThread|:  * Debugger is active!
+2016-02-18 14:37:22,779  INFO|      _internal.py: 87|MainThread|:  * Debugger pin code: 929-475-441
+2016-02-18 14:37:23,564  INFO|      _internal.py: 87|Thread-2|: 127.0.0.1 - - [18/Feb/2016 14:37:23] "GET / HTTP/1.1" 200 -
+2016-02-18 14:38:11,934  INFO|          index.py:549|Thread-7|: ====== Search Subscription SKUs - Search by Eng Product Id(s) ======
+2016-02-18 14:38:11,936 DEBUG|         peewee.py:2851|Thread-7|: ('SELECT `t1`.`id`, `t1`.`arch`, `t1`.`cloud_access_enabled`, `t1`.`cores`, `t1`.`derived_sku`, `t1`.`enabled_consumer_types`, `t1`.`eng_product_ids`, `t1`.`host_limited`, `t1`.`instance_multiplier`, `t1`.`jon_management`, `t1`.`management_enabled`, `t1`.`multi-entitlement`, `t1`.`multiplier`, `t1`.`name`, `t1`.`ph_category`, `t1`.`ph_product_line`, `t1`.`ph_product_name`, `t1`.`product_family`, `t1`.`ram`, `t1`.`requires_consumer_type`, `t1`.`sockets`, `t1`.`stacking_id`, `t1`.`support_level`, `t1`.`support_type`, `t1`.`unlimited_product`, `t1`.`username`, `t1`.`variant`, `t1`.`vcpu`, `t1`.`virt_limit`, `t1`.`virt_only` FROM `sku_attributes` AS t1 WHERE ((((Lower(`t1`.`eng_product_ids`) LIKE BINARY %s) OR (Lower(`t1`.`eng_product_ids`) LIKE BINARY %s)) OR (Lower(`t1`.`eng_product_ids`) LIKE BINARY %s)) AND (((Lower(`t1`.`eng_product_ids`) LIKE BINARY %s) OR (Lower(`t1`.`eng_product_ids`) LIKE BINARY %s)) OR (Lower(`t1`.`eng_product_ids`) LIKE BINARY %s)))', ['71,%', '%,71,%', '%,71', ' 271,%', '%, 271,%', '%, 271'])
+2016-02-18 14:38:16,415 ERROR|          index.py:604|Thread-7|: Failed to get sku Eng Product Id(s) 71, 271
+2016-02-18 14:38:16,416  INFO|          index.py:606|Thread-7|: ====== End: Search Subscription SKUs - Search by Eng Product Id(s) ======
+2016-02-18 14:38:16,423  INFO|      _internal.py: 87|Thread-7|: 127.0.0.1 - - [18/Feb/2016 14:38:16] "POST / HTTP/1.1" 200 -
+2016-02-18 14:38:18,946  INFO|      _internal.py: 87|Thread-13|: 127.0.0.1 - - [18/Feb/2016 14:38:18] "GET / HTTP/1.1" 200 -
+2016-02-18 14:40:41,007  INFO|      _internal.py: 87|MainThread|:  * Detected change in '/home/liusong/code/content_sku_test/content-sku-tests/account_tool/index.py', reloading
+2016-02-18 14:40:41,027  INFO|      _internal.py: 87|MainThread|:  * Restarting with stat
+2016-02-18 14:40:49,391  INFO|          index.py:718|MainThread|: ====== Start/Reload Account Tool APP ======
+2016-02-18 14:40:49,394 WARNING|      _internal.py: 87|MainThread|:  * Debugger is active!
+2016-02-18 14:40:49,394  INFO|      _internal.py: 87|MainThread|:  * Debugger pin code: 929-475-441
+2016-02-18 14:41:07,514  INFO|      _internal.py: 87|MainThread|:  * Detected change in '/home/liusong/code/content_sku_test/content-sku-tests/account_tool/index.py', reloading
+2016-02-18 14:41:07,535  INFO|      _internal.py: 87|MainThread|:  * Restarting with stat
+2016-02-18 14:41:17,458  INFO|          index.py:718|MainThread|: ====== Start/Reload Account Tool APP ======
+2016-02-18 14:41:17,460 WARNING|      _internal.py: 87|MainThread|:  * Debugger is active!
+2016-02-18 14:41:17,461  INFO|      _internal.py: 87|MainThread|:  * Debugger pin code: 929-475-441
+2016-02-18 14:41:47,091  INFO|          index.py:548|Thread-3|: ====== Search Subscription SKUs - Search by Eng Product Id(s) ======
+2016-02-18 14:41:47,092 DEBUG|         peewee.py:2851|Thread-3|: ('SELECT `t1`.`id`, `t1`.`arch`, `t1`.`cloud_access_enabled`, `t1`.`cores`, `t1`.`derived_sku`, `t1`.`enabled_consumer_types`, `t1`.`eng_product_ids`, `t1`.`host_limited`, `t1`.`instance_multiplier`, `t1`.`jon_management`, `t1`.`management_enabled`, `t1`.`multi-entitlement`, `t1`.`multiplier`, `t1`.`name`, `t1`.`ph_category`, `t1`.`ph_product_line`, `t1`.`ph_product_name`, `t1`.`product_family`, `t1`.`ram`, `t1`.`requires_consumer_type`, `t1`.`sockets`, `t1`.`stacking_id`, `t1`.`support_level`, `t1`.`support_type`, `t1`.`unlimited_product`, `t1`.`username`, `t1`.`variant`, `t1`.`vcpu`, `t1`.`virt_limit`, `t1`.`virt_only` FROM `sku_attributes` AS t1 WHERE ((((Lower(`t1`.`eng_product_ids`) LIKE BINARY %s) OR (Lower(`t1`.`eng_product_ids`) LIKE BINARY %s)) OR (Lower(`t1`.`eng_product_ids`) LIKE BINARY %s)) AND (((Lower(`t1`.`eng_product_ids`) LIKE BINARY %s) OR (Lower(`t1`.`eng_product_ids`) LIKE BINARY %s)) OR (Lower(`t1`.`eng_product_ids`) LIKE BINARY %s)))', ['71,%', '%,71,%', '%,71', '271,%', '%,271,%', '%,271'])
+2016-02-18 14:41:51,455  INFO|          index.py:606|Thread-3|: ====== End: Search Subscription SKUs - Search by Eng Product Id(s) ======
+2016-02-18 14:41:51,480  INFO|      _internal.py: 87|Thread-3|: 127.0.0.1 - - [18/Feb/2016 14:41:51] "POST / HTTP/1.1" 200 -
+2016-02-18 14:41:52,342  INFO|      _internal.py: 87|Thread-11|: 127.0.0.1 - - [18/Feb/2016 14:41:52] "GET /static/images/sort_both.png HTTP/1.1" 404 -
+2016-02-18 14:41:52,343  INFO|      _internal.py: 87|Thread-12|: 127.0.0.1 - - [18/Feb/2016 14:41:52] "GET /static/images/sort_asc.png HTTP/1.1" 404 -
+2016-02-18 14:41:55,319  INFO|      _internal.py: 87|Thread-13|: 127.0.0.1 - - [18/Feb/2016 14:41:55] "GET / HTTP/1.1" 200 -
+2016-02-18 14:41:59,598  INFO|          index.py:548|Thread-17|: ====== Search Subscription SKUs - Search by Eng Product Id(s) ======
+2016-02-18 14:41:59,599 DEBUG|         peewee.py:2851|Thread-17|: ('SELECT `t1`.`id`, `t1`.`arch`, `t1`.`cloud_access_enabled`, `t1`.`cores`, `t1`.`derived_sku`, `t1`.`enabled_consumer_types`, `t1`.`eng_product_ids`, `t1`.`host_limited`, `t1`.`instance_multiplier`, `t1`.`jon_management`, `t1`.`management_enabled`, `t1`.`multi-entitlement`, `t1`.`multiplier`, `t1`.`name`, `t1`.`ph_category`, `t1`.`ph_product_line`, `t1`.`ph_product_name`, `t1`.`product_family`, `t1`.`ram`, `t1`.`requires_consumer_type`, `t1`.`sockets`, `t1`.`stacking_id`, `t1`.`support_level`, `t1`.`support_type`, `t1`.`unlimited_product`, `t1`.`username`, `t1`.`variant`, `t1`.`vcpu`, `t1`.`virt_limit`, `t1`.`virt_only` FROM `sku_attributes` AS t1 WHERE ((((Lower(`t1`.`eng_product_ids`) LIKE BINARY %s) OR (Lower(`t1`.`eng_product_ids`) LIKE BINARY %s)) OR (Lower(`t1`.`eng_product_ids`) LIKE BINARY %s)) AND (((Lower(`t1`.`eng_product_ids`) LIKE BINARY %s) OR (Lower(`t1`.`eng_product_ids`) LIKE BINARY %s)) OR (Lower(`t1`.`eng_product_ids`) LIKE BINARY %s)))', ['71,%', '%,71,%', '%,71', '271,%', '%,271,%', '%,271'])
+2016-02-18 14:42:04,066  INFO|          index.py:606|Thread-17|: ====== End: Search Subscription SKUs - Search by Eng Product Id(s) ======
+2016-02-18 14:42:04,071  INFO|      _internal.py: 87|Thread-17|: 127.0.0.1 - - [18/Feb/2016 14:42:04] "POST / HTTP/1.1" 200 -
+2016-02-18 14:42:04,923  INFO|      _internal.py: 87|Thread-24|: 127.0.0.1 - - [18/Feb/2016 14:42:04] "GET /static/images/sort_both.png HTTP/1.1" 404 -
+2016-02-18 14:42:04,929  INFO|      _internal.py: 87|Thread-25|: 127.0.0.1 - - [18/Feb/2016 14:42:04] "GET /static/images/sort_asc.png HTTP/1.1" 404 -
+2016-02-18 14:42:07,457  INFO|      _internal.py: 87|Thread-26|: 127.0.0.1 - - [18/Feb/2016 14:42:07] "GET / HTTP/1.1" 200 -
+2016-02-18 14:42:15,794  INFO|          index.py:548|Thread-32|: ====== Search Subscription SKUs - Search by Eng Product Id(s) ======
+2016-02-18 14:42:15,796 DEBUG|         peewee.py:2851|Thread-32|: ('SELECT `t1`.`id`, `t1`.`arch`, `t1`.`cloud_access_enabled`, `t1`.`cores`, `t1`.`derived_sku`, `t1`.`enabled_consumer_types`, `t1`.`eng_product_ids`, `t1`.`host_limited`, `t1`.`instance_multiplier`, `t1`.`jon_management`, `t1`.`management_enabled`, `t1`.`multi-entitlement`, `t1`.`multiplier`, `t1`.`name`, `t1`.`ph_category`, `t1`.`ph_product_line`, `t1`.`ph_product_name`, `t1`.`product_family`, `t1`.`ram`, `t1`.`requires_consumer_type`, `t1`.`sockets`, `t1`.`stacking_id`, `t1`.`support_level`, `t1`.`support_type`, `t1`.`unlimited_product`, `t1`.`username`, `t1`.`variant`, `t1`.`vcpu`, `t1`.`virt_limit`, `t1`.`virt_only` FROM `sku_attributes` AS t1 WHERE ((((Lower(`t1`.`eng_product_ids`) LIKE BINARY %s) OR (Lower(`t1`.`eng_product_ids`) LIKE BINARY %s)) OR (Lower(`t1`.`eng_product_ids`) LIKE BINARY %s)) AND (((Lower(`t1`.`eng_product_ids`) LIKE BINARY %s) OR (Lower(`t1`.`eng_product_ids`) LIKE BINARY %s)) OR (Lower(`t1`.`eng_product_ids`) LIKE BINARY %s)))', ['71,%', '%,71,%', '%,71', '271,%', '%,271,%', '%,271'])
+2016-02-18 14:42:20,104  INFO|          index.py:606|Thread-32|: ====== End: Search Subscription SKUs - Search by Eng Product Id(s) ======
+2016-02-18 14:42:20,108  INFO|      _internal.py: 87|Thread-32|: 127.0.0.1 - - [18/Feb/2016 14:42:20] "POST / HTTP/1.1" 200 -
+2016-02-18 14:42:20,263  INFO|      _internal.py: 87|Thread-38|: 127.0.0.1 - - [18/Feb/2016 14:42:20] "GET /static/css/rcue.css HTTP/1.1" 304 -
+2016-02-18 14:42:20,293  INFO|      _internal.py: 87|Thread-39|: 127.0.0.1 - - [18/Feb/2016 14:42:20] "GET /static/css/jquery.dataTables.min.css HTTP/1.1" 304 -
+2016-02-18 14:42:20,295  INFO|      _internal.py: 87|Thread-40|: 127.0.0.1 - - [18/Feb/2016 14:42:20] "GET /static/js/jquery-1.12.0/jquery-1.12.0.min.js HTTP/1.1" 304 -
+2016-02-18 14:42:20,298  INFO|      _internal.py: 87|Thread-41|: 127.0.0.1 - - [18/Feb/2016 14:42:20] "GET /static/js/jquery.dataTables.min.js HTTP/1.1" 304 -
+2016-02-18 14:42:20,831  INFO|      _internal.py: 87|Thread-43|: 127.0.0.1 - - [18/Feb/2016 14:42:20] "GET /static/img/redhat-lg.png HTTP/1.1" 304 -
+2016-02-18 14:42:20,902  INFO|      _internal.py: 87|Thread-46|: 127.0.0.1 - - [18/Feb/2016 14:42:20] "GET /static/images/sort_both.png HTTP/1.1" 404 -
+2016-02-18 14:42:20,910  INFO|      _internal.py: 87|Thread-47|: 127.0.0.1 - - [18/Feb/2016 14:42:20] "GET /static/images/sort_asc.png HTTP/1.1" 404 -
+2016-02-18 14:42:24,882  INFO|      _internal.py: 87|Thread-48|: 127.0.0.1 - - [18/Feb/2016 14:42:24] "GET / HTTP/1.1" 200 -
+2016-02-18 14:42:29,517  INFO|          index.py:548|Thread-53|: ====== Search Subscription SKUs - Search by Eng Product Id(s) ======
+2016-02-18 14:42:29,519 DEBUG|         peewee.py:2851|Thread-53|: ('SELECT `t1`.`id`, `t1`.`arch`, `t1`.`cloud_access_enabled`, `t1`.`cores`, `t1`.`derived_sku`, `t1`.`enabled_consumer_types`, `t1`.`eng_product_ids`, `t1`.`host_limited`, `t1`.`instance_multiplier`, `t1`.`jon_management`, `t1`.`management_enabled`, `t1`.`multi-entitlement`, `t1`.`multiplier`, `t1`.`name`, `t1`.`ph_category`, `t1`.`ph_product_line`, `t1`.`ph_product_name`, `t1`.`product_family`, `t1`.`ram`, `t1`.`requires_consumer_type`, `t1`.`sockets`, `t1`.`stacking_id`, `t1`.`support_level`, `t1`.`support_type`, `t1`.`unlimited_product`, `t1`.`username`, `t1`.`variant`, `t1`.`vcpu`, `t1`.`virt_limit`, `t1`.`virt_only` FROM `sku_attributes` AS t1 WHERE (((((Lower(`t1`.`eng_product_ids`) LIKE BINARY %s) OR (Lower(`t1`.`eng_product_ids`) LIKE BINARY %s)) OR (Lower(`t1`.`eng_product_ids`) LIKE BINARY %s)) AND (((Lower(`t1`.`eng_product_ids`) LIKE BINARY %s) OR (Lower(`t1`.`eng_product_ids`) LIKE BINARY %s)) OR (Lower(`t1`.`eng_product_ids`) LIKE BINARY %s))) AND (((Lower(`t1`.`eng_product_ids`) LIKE BINARY %s) OR (Lower(`t1`.`eng_product_ids`) LIKE BINARY %s)) OR (Lower(`t1`.`eng_product_ids`) LIKE BINARY %s)))', ['71,%', '%,71,%', '%,71', '271,%', '%,271,%', '%,271', ',%', '%,,%', '%,'])
+2016-02-18 14:42:33,874 ERROR|          index.py:604|Thread-53|: Failed to get sku Eng Product Id(s) 71 ,  271,
+2016-02-18 14:42:33,874  INFO|          index.py:606|Thread-53|: ====== End: Search Subscription SKUs - Search by Eng Product Id(s) ======
+2016-02-18 14:42:33,881  INFO|      _internal.py: 87|Thread-53|: 127.0.0.1 - - [18/Feb/2016 14:42:33] "POST / HTTP/1.1" 200 -
+2016-02-18 14:43:22,216  INFO|      _internal.py: 87|MainThread|:  * Detected change in '/home/liusong/code/content_sku_test/content-sku-tests/account_tool/index.py', reloading
+2016-02-18 14:43:22,239  INFO|      _internal.py: 87|MainThread|:  * Restarting with stat
+2016-02-18 14:43:35,781  INFO|          index.py:720|MainThread|: ====== Start/Reload Account Tool APP ======
+2016-02-18 14:43:35,784 WARNING|      _internal.py: 87|MainThread|:  * Debugger is active!
+2016-02-18 14:43:35,784  INFO|      _internal.py: 87|MainThread|:  * Debugger pin code: 929-475-441
+2016-02-18 14:43:35,913  INFO|      _internal.py: 87|Thread-2|: 127.0.0.1 - - [18/Feb/2016 14:43:35] "GET / HTTP/1.1" 200 -
+2016-02-18 14:43:38,293  INFO|          index.py:548|Thread-8|: ====== Search Subscription SKUs - Search by Eng Product Id(s) ======
+2016-02-18 14:43:38,295 DEBUG|         peewee.py:2851|Thread-8|: ('SELECT `t1`.`id`, `t1`.`arch`, `t1`.`cloud_access_enabled`, `t1`.`cores`, `t1`.`derived_sku`, `t1`.`enabled_consumer_types`, `t1`.`eng_product_ids`, `t1`.`host_limited`, `t1`.`instance_multiplier`, `t1`.`jon_management`, `t1`.`management_enabled`, `t1`.`multi-entitlement`, `t1`.`multiplier`, `t1`.`name`, `t1`.`ph_category`, `t1`.`ph_product_line`, `t1`.`ph_product_name`, `t1`.`product_family`, `t1`.`ram`, `t1`.`requires_consumer_type`, `t1`.`sockets`, `t1`.`stacking_id`, `t1`.`support_level`, `t1`.`support_type`, `t1`.`unlimited_product`, `t1`.`username`, `t1`.`variant`, `t1`.`vcpu`, `t1`.`virt_limit`, `t1`.`virt_only` FROM `sku_attributes` AS t1 WHERE (((((Lower(`t1`.`eng_product_ids`) LIKE BINARY %s) OR (Lower(`t1`.`eng_product_ids`) LIKE BINARY %s)) OR (Lower(`t1`.`eng_product_ids`) LIKE BINARY %s)) AND (((Lower(`t1`.`eng_product_ids`) LIKE BINARY %s) OR (Lower(`t1`.`eng_product_ids`) LIKE BINARY %s)) OR (Lower(`t1`.`eng_product_ids`) LIKE BINARY %s))) AND (((Lower(`t1`.`eng_product_ids`) LIKE BINARY %s) OR (Lower(`t1`.`eng_product_ids`) LIKE BINARY %s)) OR (Lower(`t1`.`eng_product_ids`) LIKE BINARY %s)))', ['71,%', '%,71,%', '%,71', '271,%', '%,271,%', '%,271', ',%', '%,,%', '%,'])
+2016-02-18 14:43:42,583 ERROR|          index.py:606|Thread-8|: Failed to get sku Eng Product Id(s) 71 ,  271,
+2016-02-18 14:43:42,584  INFO|          index.py:608|Thread-8|: ====== End: Search Subscription SKUs - Search by Eng Product Id(s) ======
+2016-02-18 14:43:42,591  INFO|      _internal.py: 87|Thread-8|: 127.0.0.1 - - [18/Feb/2016 14:43:42] "POST / HTTP/1.1" 200 -
+2016-02-18 14:47:33,225  INFO|      _internal.py: 87|MainThread|:  * Detected change in '/home/liusong/code/content_sku_test/content-sku-tests/account_tool/index.py', reloading
+2016-02-18 14:47:33,243  INFO|      _internal.py: 87|MainThread|:  * Restarting with stat
+2016-02-18 14:47:48,395  INFO|          index.py:721|MainThread|: ====== Start/Reload Account Tool APP ======
+2016-02-18 14:47:48,397 WARNING|      _internal.py: 87|MainThread|:  * Debugger is active!
+2016-02-18 14:47:48,397  INFO|      _internal.py: 87|MainThread|:  * Debugger pin code: 929-475-441
+2016-02-18 14:47:49,162  INFO|      _internal.py: 87|Thread-2|: 127.0.0.1 - - [18/Feb/2016 14:47:49] "GET / HTTP/1.1" 200 -
+2016-02-18 14:47:51,946  INFO|          index.py:548|Thread-7|: ====== Search Subscription SKUs - Search by Eng Product Id(s) ======
+2016-02-18 14:47:51,947 DEBUG|         peewee.py:2851|Thread-7|: ('SELECT `t1`.`id`, `t1`.`arch`, `t1`.`cloud_access_enabled`, `t1`.`cores`, `t1`.`derived_sku`, `t1`.`enabled_consumer_types`, `t1`.`eng_product_ids`, `t1`.`host_limited`, `t1`.`instance_multiplier`, `t1`.`jon_management`, `t1`.`management_enabled`, `t1`.`multi-entitlement`, `t1`.`multiplier`, `t1`.`name`, `t1`.`ph_category`, `t1`.`ph_product_line`, `t1`.`ph_product_name`, `t1`.`product_family`, `t1`.`ram`, `t1`.`requires_consumer_type`, `t1`.`sockets`, `t1`.`stacking_id`, `t1`.`support_level`, `t1`.`support_type`, `t1`.`unlimited_product`, `t1`.`username`, `t1`.`variant`, `t1`.`vcpu`, `t1`.`virt_limit`, `t1`.`virt_only` FROM `sku_attributes` AS t1 WHERE ((((Lower(`t1`.`eng_product_ids`) LIKE BINARY %s) OR (Lower(`t1`.`eng_product_ids`) LIKE BINARY %s)) OR (Lower(`t1`.`eng_product_ids`) LIKE BINARY %s)) AND (((Lower(`t1`.`eng_product_ids`) LIKE BINARY %s) OR (Lower(`t1`.`eng_product_ids`) LIKE BINARY %s)) OR (Lower(`t1`.`eng_product_ids`) LIKE BINARY %s)))', ['71,%', '%,71,%', '%,71', '271,%', '%,271,%', '%,271'])
+2016-02-18 14:47:56,402  INFO|          index.py:609|Thread-7|: ====== End: Search Subscription SKUs - Search by Eng Product Id(s) ======
+2016-02-18 14:47:56,421  INFO|      _internal.py: 87|Thread-7|: 127.0.0.1 - - [18/Feb/2016 14:47:56] "POST / HTTP/1.1" 200 -
+2016-02-18 14:47:57,245  INFO|      _internal.py: 87|Thread-13|: 127.0.0.1 - - [18/Feb/2016 14:47:57] "GET /static/images/sort_both.png HTTP/1.1" 404 -
+2016-02-18 14:47:57,271  INFO|      _internal.py: 87|Thread-14|: 127.0.0.1 - - [18/Feb/2016 14:47:57] "GET /static/images/sort_asc.png HTTP/1.1" 404 -
+2016-02-18 14:47:59,894  INFO|      _internal.py: 87|Thread-15|: 127.0.0.1 - - [18/Feb/2016 14:47:59] "GET / HTTP/1.1" 200 -
+2016-02-18 14:48:03,815  INFO|          index.py:548|Thread-19|: ====== Search Subscription SKUs - Search by Eng Product Id(s) ======
+2016-02-18 14:48:03,816 DEBUG|         peewee.py:2851|Thread-19|: ('SELECT `t1`.`id`, `t1`.`arch`, `t1`.`cloud_access_enabled`, `t1`.`cores`, `t1`.`derived_sku`, `t1`.`enabled_consumer_types`, `t1`.`eng_product_ids`, `t1`.`host_limited`, `t1`.`instance_multiplier`, `t1`.`jon_management`, `t1`.`management_enabled`, `t1`.`multi-entitlement`, `t1`.`multiplier`, `t1`.`name`, `t1`.`ph_category`, `t1`.`ph_product_line`, `t1`.`ph_product_name`, `t1`.`product_family`, `t1`.`ram`, `t1`.`requires_consumer_type`, `t1`.`sockets`, `t1`.`stacking_id`, `t1`.`support_level`, `t1`.`support_type`, `t1`.`unlimited_product`, `t1`.`username`, `t1`.`variant`, `t1`.`vcpu`, `t1`.`virt_limit`, `t1`.`virt_only` FROM `sku_attributes` AS t1 WHERE ((((Lower(`t1`.`eng_product_ids`) LIKE BINARY %s) OR (Lower(`t1`.`eng_product_ids`) LIKE BINARY %s)) OR (Lower(`t1`.`eng_product_ids`) LIKE BINARY %s)) AND (((Lower(`t1`.`eng_product_ids`) LIKE BINARY %s) OR (Lower(`t1`.`eng_product_ids`) LIKE BINARY %s)) OR (Lower(`t1`.`eng_product_ids`) LIKE BINARY %s)))', ['71,%', '%,71,%', '%,71', '271,%', '%,271,%', '%,271'])
+2016-02-18 14:48:08,211  INFO|          index.py:609|Thread-19|: ====== End: Search Subscription SKUs - Search by Eng Product Id(s) ======
+2016-02-18 14:48:08,215  INFO|      _internal.py: 87|Thread-19|: 127.0.0.1 - - [18/Feb/2016 14:48:08] "POST / HTTP/1.1" 200 -
+2016-02-18 14:48:09,065  INFO|      _internal.py: 87|Thread-26|: 127.0.0.1 - - [18/Feb/2016 14:48:09] "GET /static/images/sort_both.png HTTP/1.1" 404 -
+2016-02-18 14:48:09,083  INFO|      _internal.py: 87|Thread-27|: 127.0.0.1 - - [18/Feb/2016 14:48:09] "GET /static/images/sort_asc.png HTTP/1.1" 404 -
+2016-02-18 14:48:10,691  INFO|      _internal.py: 87|Thread-28|: 127.0.0.1 - - [18/Feb/2016 14:48:10] "GET / HTTP/1.1" 200 -
+2016-02-18 14:48:15,726  INFO|          index.py:548|Thread-32|: ====== Search Subscription SKUs - Search by Eng Product Id(s) ======
+2016-02-18 14:48:15,727 DEBUG|         peewee.py:2851|Thread-32|: ('SELECT `t1`.`id`, `t1`.`arch`, `t1`.`cloud_access_enabled`, `t1`.`cores`, `t1`.`derived_sku`, `t1`.`enabled_consumer_types`, `t1`.`eng_product_ids`, `t1`.`host_limited`, `t1`.`instance_multiplier`, `t1`.`jon_management`, `t1`.`management_enabled`, `t1`.`multi-entitlement`, `t1`.`multiplier`, `t1`.`name`, `t1`.`ph_category`, `t1`.`ph_product_line`, `t1`.`ph_product_name`, `t1`.`product_family`, `t1`.`ram`, `t1`.`requires_consumer_type`, `t1`.`sockets`, `t1`.`stacking_id`, `t1`.`support_level`, `t1`.`support_type`, `t1`.`unlimited_product`, `t1`.`username`, `t1`.`variant`, `t1`.`vcpu`, `t1`.`virt_limit`, `t1`.`virt_only` FROM `sku_attributes` AS t1 WHERE ((((Lower(`t1`.`eng_product_ids`) LIKE BINARY %s) OR (Lower(`t1`.`eng_product_ids`) LIKE BINARY %s)) OR (Lower(`t1`.`eng_product_ids`) LIKE BINARY %s)) AND (((Lower(`t1`.`eng_product_ids`) LIKE BINARY %s) OR (Lower(`t1`.`eng_product_ids`) LIKE BINARY %s)) OR (Lower(`t1`.`eng_product_ids`) LIKE BINARY %s)))', ['71,%', '%,71,%', '%,71', '271,%', '%,271,%', '%,271'])
+2016-02-18 14:48:20,085  INFO|          index.py:609|Thread-32|: ====== End: Search Subscription SKUs - Search by Eng Product Id(s) ======
+2016-02-18 14:48:20,089  INFO|      _internal.py: 87|Thread-32|: 127.0.0.1 - - [18/Feb/2016 14:48:20] "POST / HTTP/1.1" 200 -
+2016-02-18 14:48:21,039  INFO|      _internal.py: 87|Thread-40|: 127.0.0.1 - - [18/Feb/2016 14:48:21] "GET /static/images/sort_both.png HTTP/1.1" 404 -
+2016-02-18 14:48:21,046  INFO|      _internal.py: 87|Thread-41|: 127.0.0.1 - - [18/Feb/2016 14:48:21] "GET /static/images/sort_asc.png HTTP/1.1" 404 -
+2016-02-18 14:48:26,780  INFO|      _internal.py: 87|Thread-42|: 127.0.0.1 - - [18/Feb/2016 14:48:26] "GET / HTTP/1.1" 200 -
+2016-02-18 14:48:33,440  INFO|          index.py:548|Thread-48|: ====== Search Subscription SKUs - Search by Eng Product Id(s) ======
+2016-02-18 14:48:33,454  INFO|      _internal.py: 87|Thread-48|: 127.0.0.1 - - [18/Feb/2016 14:48:33] "POST / HTTP/1.1" 500 -
+2016-02-18 14:48:33,746  INFO|      _internal.py: 87|Thread-53|: 127.0.0.1 - - [18/Feb/2016 14:48:33] "GET /?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+2016-02-18 14:48:33,755  INFO|      _internal.py: 87|Thread-52|: 127.0.0.1 - - [18/Feb/2016 14:48:33] "GET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2016-02-18 14:48:33,759  INFO|      _internal.py: 87|Thread-54|: 127.0.0.1 - - [18/Feb/2016 14:48:33] "GET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2016-02-18 14:48:33,761  INFO|      _internal.py: 87|Thread-56|: 127.0.0.1 - - [18/Feb/2016 14:48:33] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2016-02-18 14:48:33,961  INFO|      _internal.py: 87|Thread-59|: 127.0.0.1 - - [18/Feb/2016 14:48:33] "GET /?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+2016-02-18 14:48:33,961  INFO|      _internal.py: 87|Thread-60|: 127.0.0.1 - - [18/Feb/2016 14:48:33] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2016-02-18 14:48:46,457  INFO|      _internal.py: 87|Thread-61|: 127.0.0.1 - - [18/Feb/2016 14:48:46] "GET / HTTP/1.1" 200 -
+2016-02-18 14:49:23,067  INFO|          index.py:548|Thread-67|: ====== Search Subscription SKUs - Search by Eng Product Id(s) ======
+2016-02-18 14:49:23,074  INFO|      _internal.py: 87|Thread-67|: 127.0.0.1 - - [18/Feb/2016 14:49:23] "POST / HTTP/1.1" 500 -
+2016-02-18 14:49:23,313  INFO|      _internal.py: 87|Thread-71|: 127.0.0.1 - - [18/Feb/2016 14:49:23] "GET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2016-02-18 14:49:23,316  INFO|      _internal.py: 87|Thread-72|: 127.0.0.1 - - [18/Feb/2016 14:49:23] "GET /?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+2016-02-18 14:49:23,316  INFO|      _internal.py: 87|Thread-73|: 127.0.0.1 - - [18/Feb/2016 14:49:23] "GET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2016-02-18 14:49:23,392  INFO|      _internal.py: 87|Thread-75|: 127.0.0.1 - - [18/Feb/2016 14:49:23] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2016-02-18 14:49:23,555  INFO|      _internal.py: 87|Thread-77|: 127.0.0.1 - - [18/Feb/2016 14:49:23] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2016-02-18 14:49:24,973  INFO|      _internal.py: 87|Thread-79|: 127.0.0.1 - - [18/Feb/2016 14:49:24] "GET / HTTP/1.1" 200 -
+2016-02-18 14:50:10,236  INFO|      _internal.py: 87|MainThread|:  * Detected change in '/home/liusong/code/content_sku_test/content-sku-tests/account_tool/index.py', reloading
+2016-02-18 14:50:10,259  INFO|      _internal.py: 87|MainThread|:  * Restarting with stat
+2016-02-18 14:50:20,600  INFO|          index.py:723|MainThread|: ====== Start/Reload Account Tool APP ======
+2016-02-18 14:50:20,603 WARNING|      _internal.py: 87|MainThread|:  * Debugger is active!
+2016-02-18 14:50:20,603  INFO|      _internal.py: 87|MainThread|:  * Debugger pin code: 929-475-441
+2016-02-18 14:50:20,618  INFO|          index.py:548|Thread-2|: ====== Search Subscription SKUs - Search by Eng Product Id(s) ======
+2016-02-18 14:50:20,629  INFO|      _internal.py: 87|Thread-2|: 127.0.0.1 - - [18/Feb/2016 14:50:20] "POST / HTTP/1.1" 500 -
+2016-02-18 14:50:20,950  INFO|      _internal.py: 87|Thread-7|: 127.0.0.1 - - [18/Feb/2016 14:50:20] "GET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2016-02-18 14:50:20,955  INFO|      _internal.py: 87|Thread-5|: 127.0.0.1 - - [18/Feb/2016 14:50:20] "GET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2016-02-18 14:50:20,955  INFO|      _internal.py: 87|Thread-6|: 127.0.0.1 - - [18/Feb/2016 14:50:20] "GET /?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+2016-02-18 14:50:20,960  INFO|      _internal.py: 87|Thread-9|: 127.0.0.1 - - [18/Feb/2016 14:50:20] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2016-02-18 14:50:21,203  INFO|      _internal.py: 87|Thread-11|: 127.0.0.1 - - [18/Feb/2016 14:50:21] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2016-02-18 14:50:31,676  INFO|      _internal.py: 87|MainThread|:  * Detected change in '/home/liusong/code/content_sku_test/content-sku-tests/account_tool/index.py', reloading
+2016-02-18 14:50:31,695  INFO|      _internal.py: 87|MainThread|:  * Restarting with stat
+2016-02-18 14:50:40,125  INFO|          index.py:723|MainThread|: ====== Start/Reload Account Tool APP ======
+2016-02-18 14:50:40,128 WARNING|      _internal.py: 87|MainThread|:  * Debugger is active!
+2016-02-18 14:50:40,128  INFO|      _internal.py: 87|MainThread|:  * Debugger pin code: 929-475-441
+2016-02-18 14:50:40,294  INFO|      _internal.py: 87|Thread-2|: 127.0.0.1 - - [18/Feb/2016 14:50:40] "GET / HTTP/1.1" 200 -
+2016-02-18 14:50:42,472  INFO|          index.py:548|Thread-7|: ====== Search Subscription SKUs - Search by Eng Product Id(s) ======
+2016-02-18 14:50:42,481  INFO|      _internal.py: 87|Thread-7|: 127.0.0.1 - - [18/Feb/2016 14:50:42] "POST / HTTP/1.1" 500 -
+2016-02-18 14:50:42,685  INFO|      _internal.py: 87|Thread-12|: 127.0.0.1 - - [18/Feb/2016 14:50:42] "GET /?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+2016-02-18 14:50:42,685  INFO|      _internal.py: 87|Thread-13|: 127.0.0.1 - - [18/Feb/2016 14:50:42] "GET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2016-02-18 14:50:42,688  INFO|      _internal.py: 87|Thread-11|: 127.0.0.1 - - [18/Feb/2016 14:50:42] "GET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2016-02-18 14:50:42,693  INFO|      _internal.py: 87|Thread-15|: 127.0.0.1 - - [18/Feb/2016 14:50:42] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2016-02-18 14:50:42,914  INFO|      _internal.py: 87|Thread-17|: 127.0.0.1 - - [18/Feb/2016 14:50:42] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2016-02-18 14:51:34,618  INFO|      _internal.py: 87|MainThread|:  * Detected change in '/home/liusong/code/content_sku_test/content-sku-tests/account_tool/index.py', reloading
+2016-02-18 14:51:34,642  INFO|      _internal.py: 87|MainThread|:  * Restarting with stat
+2016-02-18 14:51:46,309  INFO|          index.py:723|MainThread|: ====== Start/Reload Account Tool APP ======
+2016-02-18 14:51:46,312 WARNING|      _internal.py: 87|MainThread|:  * Debugger is active!
+2016-02-18 14:51:46,312  INFO|      _internal.py: 87|MainThread|:  * Debugger pin code: 929-475-441
+2016-02-18 14:51:46,438  INFO|      _internal.py: 87|Thread-2|: 127.0.0.1 - - [18/Feb/2016 14:51:46] "GET / HTTP/1.1" 200 -
+2016-02-18 14:51:50,443  INFO|          index.py:548|Thread-7|: ====== Search Subscription SKUs - Search by Eng Product Id(s) ======
+2016-02-18 14:51:50,457  INFO|      _internal.py: 87|Thread-7|: 127.0.0.1 - - [18/Feb/2016 14:51:50] "POST / HTTP/1.1" 500 -
+2016-02-18 14:51:50,716  INFO|      _internal.py: 87|Thread-13|: 127.0.0.1 - - [18/Feb/2016 14:51:50] "GET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2016-02-18 14:51:50,718  INFO|      _internal.py: 87|Thread-12|: 127.0.0.1 - - [18/Feb/2016 14:51:50] "GET /?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+2016-02-18 14:51:50,719  INFO|      _internal.py: 87|Thread-11|: 127.0.0.1 - - [18/Feb/2016 14:51:50] "GET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2016-02-18 14:51:50,938  INFO|      _internal.py: 87|Thread-16|: 127.0.0.1 - - [18/Feb/2016 14:51:50] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2016-02-18 14:52:17,492  INFO|      _internal.py: 87|MainThread|:  * Detected change in '/home/liusong/code/content_sku_test/content-sku-tests/account_tool/index.py', reloading
+2016-02-18 14:52:17,514  INFO|      _internal.py: 87|MainThread|:  * Restarting with stat
+2016-02-18 14:52:28,866  INFO|          index.py:723|MainThread|: ====== Start/Reload Account Tool APP ======
+2016-02-18 14:52:28,869 WARNING|      _internal.py: 87|MainThread|:  * Debugger is active!
+2016-02-18 14:52:28,869  INFO|      _internal.py: 87|MainThread|:  * Debugger pin code: 929-475-441
+2016-02-18 14:52:29,001  INFO|      _internal.py: 87|Thread-2|: 127.0.0.1 - - [18/Feb/2016 14:52:29] "GET / HTTP/1.1" 200 -
+2016-02-18 14:52:58,047  INFO|      _internal.py: 87|MainThread|:  * Detected change in '/home/liusong/code/content_sku_test/content-sku-tests/account_tool/index.py', reloading
+2016-02-18 14:52:58,065  INFO|      _internal.py: 87|MainThread|:  * Restarting with stat
+2016-02-18 14:53:14,937  INFO|          index.py:721|MainThread|: ====== Start/Reload Account Tool APP ======
+2016-02-18 14:53:14,939 WARNING|      _internal.py: 87|MainThread|:  * Debugger is active!
+2016-02-18 14:53:14,940  INFO|      _internal.py: 87|MainThread|:  * Debugger pin code: 929-475-441
+2016-02-18 14:53:14,957  INFO|          index.py:548|Thread-2|: ====== Search Subscription SKUs - Search by Eng Product Id(s) ======
+2016-02-18 14:53:14,964  INFO|      _internal.py: 87|Thread-2|: 127.0.0.1 - - [18/Feb/2016 14:53:14] "POST / HTTP/1.1" 500 -
+2016-02-18 14:53:15,253  INFO|      _internal.py: 87|Thread-7|: 127.0.0.1 - - [18/Feb/2016 14:53:15] "GET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2016-02-18 14:53:15,259  INFO|      _internal.py: 87|Thread-5|: 127.0.0.1 - - [18/Feb/2016 14:53:15] "GET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2016-02-18 14:53:15,259  INFO|      _internal.py: 87|Thread-6|: 127.0.0.1 - - [18/Feb/2016 14:53:15] "GET /?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+2016-02-18 14:53:15,490  INFO|      _internal.py: 87|Thread-9|: 127.0.0.1 - - [18/Feb/2016 14:53:15] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2016-02-18 14:55:04,623  INFO|      _internal.py: 87|MainThread|:  * Detected change in '/home/liusong/code/content_sku_test/content-sku-tests/account_tool/index.py', reloading
+2016-02-18 14:55:04,645  INFO|      _internal.py: 87|MainThread|:  * Restarting with stat
+2016-02-18 14:55:18,370  INFO|          index.py:722|MainThread|: ====== Start/Reload Account Tool APP ======
+2016-02-18 14:55:18,373 WARNING|      _internal.py: 87|MainThread|:  * Debugger is active!
+2016-02-18 14:55:18,373  INFO|      _internal.py: 87|MainThread|:  * Debugger pin code: 929-475-441
+2016-02-18 14:55:18,501  INFO|      _internal.py: 87|Thread-2|: 127.0.0.1 - - [18/Feb/2016 14:55:18] "GET / HTTP/1.1" 200 -
+2016-02-18 14:55:37,507  INFO|          index.py:548|Thread-10|: ====== Search Subscription SKUs - Search by Eng Product Id(s) ======
+2016-02-18 14:55:37,507 ERROR|          index.py:608|Thread-10|: Failed to get sku Eng Product Id(s) ,,,
+2016-02-18 14:55:37,508  INFO|          index.py:610|Thread-10|: ====== End: Search Subscription SKUs - Search by Eng Product Id(s) ======
+2016-02-18 14:55:37,511  INFO|      _internal.py: 87|Thread-10|: 127.0.0.1 - - [18/Feb/2016 14:55:37] "POST / HTTP/1.1" 200 -
+2016-02-18 14:55:37,698  INFO|      _internal.py: 87|Thread-16|: 127.0.0.1 - - [18/Feb/2016 14:55:37] "GET /static/css/rcue.css HTTP/1.1" 304 -
+2016-02-18 14:55:37,705  INFO|      _internal.py: 87|Thread-17|: 127.0.0.1 - - [18/Feb/2016 14:55:37] "GET /static/img/redhat-lg.png HTTP/1.1" 304 -
+2016-02-18 14:55:37,706  INFO|      _internal.py: 87|Thread-15|: 127.0.0.1 - - [18/Feb/2016 14:55:37] "GET /static/css/bootstrap.min.css HTTP/1.1" 304 -
+2016-02-18 14:55:37,844  INFO|      _internal.py: 87|Thread-18|: 127.0.0.1 - - [18/Feb/2016 14:55:37] "GET /static/js/bootstrap.min.js HTTP/1.1" 304 -
+2016-02-18 14:55:37,845  INFO|      _internal.py: 87|Thread-19|: 127.0.0.1 - - [18/Feb/2016 14:55:37] "GET /static/js/jquery.stickytabs.js HTTP/1.1" 304 -
+2016-02-18 14:55:41,897  INFO|      _internal.py: 87|Thread-21|: 127.0.0.1 - - [18/Feb/2016 14:55:41] "GET / HTTP/1.1" 200 -
+2016-02-18 14:55:52,734  INFO|          index.py:548|Thread-28|: ====== Search Subscription SKUs - Search by Eng Product Id(s) ======
+2016-02-18 14:55:52,735 DEBUG|         peewee.py:2851|Thread-28|: ('SELECT `t1`.`id`, `t1`.`arch`, `t1`.`cloud_access_enabled`, `t1`.`cores`, `t1`.`derived_sku`, `t1`.`enabled_consumer_types`, `t1`.`eng_product_ids`, `t1`.`host_limited`, `t1`.`instance_multiplier`, `t1`.`jon_management`, `t1`.`management_enabled`, `t1`.`multi-entitlement`, `t1`.`multiplier`, `t1`.`name`, `t1`.`ph_category`, `t1`.`ph_product_line`, `t1`.`ph_product_name`, `t1`.`product_family`, `t1`.`ram`, `t1`.`requires_consumer_type`, `t1`.`sockets`, `t1`.`stacking_id`, `t1`.`support_level`, `t1`.`support_type`, `t1`.`unlimited_product`, `t1`.`username`, `t1`.`variant`, `t1`.`vcpu`, `t1`.`virt_limit`, `t1`.`virt_only` FROM `sku_attributes` AS t1 WHERE ((((Lower(`t1`.`eng_product_ids`) LIKE BINARY %s) OR (Lower(`t1`.`eng_product_ids`) LIKE BINARY %s)) OR (Lower(`t1`.`eng_product_ids`) LIKE BINARY %s)) AND (((Lower(`t1`.`eng_product_ids`) LIKE BINARY %s) OR (Lower(`t1`.`eng_product_ids`) LIKE BINARY %s)) OR (Lower(`t1`.`eng_product_ids`) LIKE BINARY %s)))', ['71,%', '%,71,%', '%,71', '271,%', '%,271,%', '%,271'])
+2016-02-18 14:55:57,253  INFO|          index.py:610|Thread-28|: ====== End: Search Subscription SKUs - Search by Eng Product Id(s) ======
+2016-02-18 14:55:57,278  INFO|      _internal.py: 87|Thread-28|: 127.0.0.1 - - [18/Feb/2016 14:55:57] "POST / HTTP/1.1" 200 -
+2016-02-18 14:55:57,414  INFO|      _internal.py: 87|Thread-34|: 127.0.0.1 - - [18/Feb/2016 14:55:57] "GET /static/css/bootstrap.min.css HTTP/1.1" 304 -
+2016-02-18 14:55:57,415  INFO|      _internal.py: 87|Thread-35|: 127.0.0.1 - - [18/Feb/2016 14:55:57] "GET /static/css/rcue.css HTTP/1.1" 304 -
+2016-02-18 14:55:57,417  INFO|      _internal.py: 87|Thread-36|: 127.0.0.1 - - [18/Feb/2016 14:55:57] "GET /static/css/jquery.dataTables.min.css HTTP/1.1" 304 -
+2016-02-18 14:55:57,419  INFO|      _internal.py: 87|Thread-37|: 127.0.0.1 - - [18/Feb/2016 14:55:57] "GET /static/js/jquery-1.12.0/jquery-1.12.0.min.js HTTP/1.1" 304 -
+2016-02-18 14:55:57,420  INFO|      _internal.py: 87|Thread-38|: 127.0.0.1 - - [18/Feb/2016 14:55:57] "GET /static/js/jquery.dataTables.min.js HTTP/1.1" 304 -
+2016-02-18 14:55:58,005  INFO|      _internal.py: 87|Thread-40|: 127.0.0.1 - - [18/Feb/2016 14:55:58] "GET /static/img/redhat-lg.png HTTP/1.1" 304 -
+2016-02-18 14:55:58,076  INFO|      _internal.py: 87|Thread-43|: 127.0.0.1 - - [18/Feb/2016 14:55:58] "GET /static/images/sort_both.png HTTP/1.1" 404 -
+2016-02-18 14:55:58,081  INFO|      _internal.py: 87|Thread-44|: 127.0.0.1 - - [18/Feb/2016 14:55:58] "GET /static/images/sort_asc.png HTTP/1.1" 404 -
+2016-02-18 14:56:00,025  INFO|      _internal.py: 87|Thread-45|: 127.0.0.1 - - [18/Feb/2016 14:56:00] "GET / HTTP/1.1" 200 -
+2016-02-18 14:56:04,708  INFO|          index.py:548|Thread-51|: ====== Search Subscription SKUs - Search by Eng Product Id(s) ======
+2016-02-18 14:56:04,709 DEBUG|         peewee.py:2851|Thread-51|: ('SELECT `t1`.`id`, `t1`.`arch`, `t1`.`cloud_access_enabled`, `t1`.`cores`, `t1`.`derived_sku`, `t1`.`enabled_consumer_types`, `t1`.`eng_product_ids`, `t1`.`host_limited`, `t1`.`instance_multiplier`, `t1`.`jon_management`, `t1`.`management_enabled`, `t1`.`multi-entitlement`, `t1`.`multiplier`, `t1`.`name`, `t1`.`ph_category`, `t1`.`ph_product_line`, `t1`.`ph_product_name`, `t1`.`product_family`, `t1`.`ram`, `t1`.`requires_consumer_type`, `t1`.`sockets`, `t1`.`stacking_id`, `t1`.`support_level`, `t1`.`support_type`, `t1`.`unlimited_product`, `t1`.`username`, `t1`.`variant`, `t1`.`vcpu`, `t1`.`virt_limit`, `t1`.`virt_only` FROM `sku_attributes` AS t1 WHERE ((((Lower(`t1`.`eng_product_ids`) LIKE BINARY %s) OR (Lower(`t1`.`eng_product_ids`) LIKE BINARY %s)) OR (Lower(`t1`.`eng_product_ids`) LIKE BINARY %s)) AND (((Lower(`t1`.`eng_product_ids`) LIKE BINARY %s) OR (Lower(`t1`.`eng_product_ids`) LIKE BINARY %s)) OR (Lower(`t1`.`eng_product_ids`) LIKE BINARY %s)))', ['71,%', '%,71,%', '%,71', '271,%', '%,271,%', '%,271'])
+2016-02-18 14:56:09,552  INFO|          index.py:610|Thread-51|: ====== End: Search Subscription SKUs - Search by Eng Product Id(s) ======
+2016-02-18 14:56:09,555  INFO|      _internal.py: 87|Thread-51|: 127.0.0.1 - - [18/Feb/2016 14:56:09] "POST / HTTP/1.1" 200 -
+2016-02-18 14:56:10,428  INFO|      _internal.py: 87|Thread-57|: 127.0.0.1 - - [18/Feb/2016 14:56:10] "GET /static/images/sort_both.png HTTP/1.1" 404 -
+2016-02-18 14:56:10,434  INFO|      _internal.py: 87|Thread-58|: 127.0.0.1 - - [18/Feb/2016 14:56:10] "GET /static/images/sort_asc.png HTTP/1.1" 404 -
+2016-02-18 14:56:12,650  INFO|      _internal.py: 87|Thread-59|: 127.0.0.1 - - [18/Feb/2016 14:56:12] "GET / HTTP/1.1" 200 -
+2016-02-18 14:56:18,463  INFO|          index.py:548|Thread-65|: ====== Search Subscription SKUs - Search by Eng Product Id(s) ======
+2016-02-18 14:56:18,464 DEBUG|         peewee.py:2851|Thread-65|: ('SELECT `t1`.`id`, `t1`.`arch`, `t1`.`cloud_access_enabled`, `t1`.`cores`, `t1`.`derived_sku`, `t1`.`enabled_consumer_types`, `t1`.`eng_product_ids`, `t1`.`host_limited`, `t1`.`instance_multiplier`, `t1`.`jon_management`, `t1`.`management_enabled`, `t1`.`multi-entitlement`, `t1`.`multiplier`, `t1`.`name`, `t1`.`ph_category`, `t1`.`ph_product_line`, `t1`.`ph_product_name`, `t1`.`product_family`, `t1`.`ram`, `t1`.`requires_consumer_type`, `t1`.`sockets`, `t1`.`stacking_id`, `t1`.`support_level`, `t1`.`support_type`, `t1`.`unlimited_product`, `t1`.`username`, `t1`.`variant`, `t1`.`vcpu`, `t1`.`virt_limit`, `t1`.`virt_only` FROM `sku_attributes` AS t1 WHERE ((((Lower(`t1`.`eng_product_ids`) LIKE BINARY %s) OR (Lower(`t1`.`eng_product_ids`) LIKE BINARY %s)) OR (Lower(`t1`.`eng_product_ids`) LIKE BINARY %s)) AND (((Lower(`t1`.`eng_product_ids`) LIKE BINARY %s) OR (Lower(`t1`.`eng_product_ids`) LIKE BINARY %s)) OR (Lower(`t1`.`eng_product_ids`) LIKE BINARY %s)))', ['71,%', '%,71,%', '%,71', '271,%', '%,271,%', '%,271'])
+2016-02-18 14:56:22,913  INFO|          index.py:610|Thread-65|: ====== End: Search Subscription SKUs - Search by Eng Product Id(s) ======
+2016-02-18 14:56:22,917  INFO|      _internal.py: 87|Thread-65|: 127.0.0.1 - - [18/Feb/2016 14:56:22] "POST / HTTP/1.1" 200 -
+2016-02-18 14:56:23,860  INFO|      _internal.py: 87|Thread-73|: 127.0.0.1 - - [18/Feb/2016 14:56:23] "GET /static/images/sort_both.png HTTP/1.1" 404 -
+2016-02-18 14:56:23,864  INFO|      _internal.py: 87|Thread-74|: 127.0.0.1 - - [18/Feb/2016 14:56:23] "GET /static/images/sort_asc.png HTTP/1.1" 404 -
+2016-02-18 14:56:26,154  INFO|      _internal.py: 87|Thread-75|: 127.0.0.1 - - [18/Feb/2016 14:56:26] "GET / HTTP/1.1" 200 -
+2016-02-18 14:56:31,546  INFO|          index.py:548|Thread-81|: ====== Search Subscription SKUs - Search by Eng Product Id(s) ======
+2016-02-18 14:56:31,547 DEBUG|         peewee.py:2851|Thread-81|: ('SELECT `t1`.`id`, `t1`.`arch`, `t1`.`cloud_access_enabled`, `t1`.`cores`, `t1`.`derived_sku`, `t1`.`enabled_consumer_types`, `t1`.`eng_product_ids`, `t1`.`host_limited`, `t1`.`instance_multiplier`, `t1`.`jon_management`, `t1`.`management_enabled`, `t1`.`multi-entitlement`, `t1`.`multiplier`, `t1`.`name`, `t1`.`ph_category`, `t1`.`ph_product_line`, `t1`.`ph_product_name`, `t1`.`product_family`, `t1`.`ram`, `t1`.`requires_consumer_type`, `t1`.`sockets`, `t1`.`stacking_id`, `t1`.`support_level`, `t1`.`support_type`, `t1`.`unlimited_product`, `t1`.`username`, `t1`.`variant`, `t1`.`vcpu`, `t1`.`virt_limit`, `t1`.`virt_only` FROM `sku_attributes` AS t1 WHERE ((((Lower(`t1`.`eng_product_ids`) LIKE BINARY %s) OR (Lower(`t1`.`eng_product_ids`) LIKE BINARY %s)) OR (Lower(`t1`.`eng_product_ids`) LIKE BINARY %s)) AND (((Lower(`t1`.`eng_product_ids`) LIKE BINARY %s) OR (Lower(`t1`.`eng_product_ids`) LIKE BINARY %s)) OR (Lower(`t1`.`eng_product_ids`) LIKE BINARY %s)))', ['71,%', '%,71,%', '%,71', '271,%', '%,271,%', '%,271'])
+2016-02-18 14:56:36,362  INFO|          index.py:610|Thread-81|: ====== End: Search Subscription SKUs - Search by Eng Product Id(s) ======
+2016-02-18 14:56:36,366  INFO|      _internal.py: 87|Thread-81|: 127.0.0.1 - - [18/Feb/2016 14:56:36] "POST / HTTP/1.1" 200 -
+2016-02-18 14:56:37,319  INFO|      _internal.py: 87|Thread-89|: 127.0.0.1 - - [18/Feb/2016 14:56:37] "GET /static/images/sort_both.png HTTP/1.1" 404 -
+2016-02-18 14:56:37,326  INFO|      _internal.py: 87|Thread-90|: 127.0.0.1 - - [18/Feb/2016 14:56:37] "GET /static/images/sort_asc.png HTTP/1.1" 404 -
+2016-02-18 14:56:39,085  INFO|      _internal.py: 87|Thread-92|: 127.0.0.1 - - [18/Feb/2016 14:56:39] "GET / HTTP/1.1" 200 -
+2016-02-18 14:56:44,390  INFO|          index.py:548|Thread-96|: ====== Search Subscription SKUs - Search by Eng Product Id(s) ======
+2016-02-18 14:56:44,392 DEBUG|         peewee.py:2851|Thread-96|: ('SELECT `t1`.`id`, `t1`.`arch`, `t1`.`cloud_access_enabled`, `t1`.`cores`, `t1`.`derived_sku`, `t1`.`enabled_consumer_types`, `t1`.`eng_product_ids`, `t1`.`host_limited`, `t1`.`instance_multiplier`, `t1`.`jon_management`, `t1`.`management_enabled`, `t1`.`multi-entitlement`, `t1`.`multiplier`, `t1`.`name`, `t1`.`ph_category`, `t1`.`ph_product_line`, `t1`.`ph_product_name`, `t1`.`product_family`, `t1`.`ram`, `t1`.`requires_consumer_type`, `t1`.`sockets`, `t1`.`stacking_id`, `t1`.`support_level`, `t1`.`support_type`, `t1`.`unlimited_product`, `t1`.`username`, `t1`.`variant`, `t1`.`vcpu`, `t1`.`virt_limit`, `t1`.`virt_only` FROM `sku_attributes` AS t1 WHERE (((Lower(`t1`.`eng_product_ids`) LIKE BINARY %s) OR (Lower(`t1`.`eng_product_ids`) LIKE BINARY %s)) OR (Lower(`t1`.`eng_product_ids`) LIKE BINARY %s))', ['71,%', '%,71,%', '%,71'])
+2016-02-18 14:56:49,482  INFO|          index.py:610|Thread-96|: ====== End: Search Subscription SKUs - Search by Eng Product Id(s) ======
+2016-02-18 14:56:49,486  INFO|      _internal.py: 87|Thread-96|: 127.0.0.1 - - [18/Feb/2016 14:56:49] "POST / HTTP/1.1" 200 -
+2016-02-18 14:56:50,529  INFO|      _internal.py: 87|Thread-104|: 127.0.0.1 - - [18/Feb/2016 14:56:50] "GET /static/images/sort_both.png HTTP/1.1" 404 -
+2016-02-18 14:56:50,532  INFO|      _internal.py: 87|Thread-105|: 127.0.0.1 - - [18/Feb/2016 14:56:50] "GET /static/images/sort_asc.png HTTP/1.1" 404 -
+2016-02-18 14:56:54,025  INFO|      _internal.py: 87|Thread-106|: 127.0.0.1 - - [18/Feb/2016 14:56:54] "GET / HTTP/1.1" 200 -
+2016-02-18 14:57:02,724  INFO|          index.py:548|Thread-112|: ====== Search Subscription SKUs - Search by Eng Product Id(s) ======
+2016-02-18 14:57:02,725 DEBUG|         peewee.py:2851|Thread-112|: ('SELECT `t1`.`id`, `t1`.`arch`, `t1`.`cloud_access_enabled`, `t1`.`cores`, `t1`.`derived_sku`, `t1`.`enabled_consumer_types`, `t1`.`eng_product_ids`, `t1`.`host_limited`, `t1`.`instance_multiplier`, `t1`.`jon_management`, `t1`.`management_enabled`, `t1`.`multi-entitlement`, `t1`.`multiplier`, `t1`.`name`, `t1`.`ph_category`, `t1`.`ph_product_line`, `t1`.`ph_product_name`, `t1`.`product_family`, `t1`.`ram`, `t1`.`requires_consumer_type`, `t1`.`sockets`, `t1`.`stacking_id`, `t1`.`support_level`, `t1`.`support_type`, `t1`.`unlimited_product`, `t1`.`username`, `t1`.`variant`, `t1`.`vcpu`, `t1`.`virt_limit`, `t1`.`virt_only` FROM `sku_attributes` AS t1 WHERE (((Lower(`t1`.`eng_product_ids`) LIKE BINARY %s) OR (Lower(`t1`.`eng_product_ids`) LIKE BINARY %s)) OR (Lower(`t1`.`eng_product_ids`) LIKE BINARY %s))', ['271,%', '%,271,%', '%,271'])
+2016-02-18 14:57:09,153  INFO|          index.py:610|Thread-112|: ====== End: Search Subscription SKUs - Search by Eng Product Id(s) ======
+2016-02-18 14:57:09,163  INFO|      _internal.py: 87|Thread-112|: 127.0.0.1 - - [18/Feb/2016 14:57:09] "POST / HTTP/1.1" 200 -
+2016-02-18 14:57:09,310  INFO|      _internal.py: 87|Thread-118|: 127.0.0.1 - - [18/Feb/2016 14:57:09] "GET /static/css/bootstrap.min.css HTTP/1.1" 304 -
+2016-02-18 14:57:09,313  INFO|      _internal.py: 87|Thread-119|: 127.0.0.1 - - [18/Feb/2016 14:57:09] "GET /static/css/rcue.css HTTP/1.1" 304 -
+2016-02-18 14:57:09,315  INFO|      _internal.py: 87|Thread-120|: 127.0.0.1 - - [18/Feb/2016 14:57:09] "GET /static/css/jquery.dataTables.min.css HTTP/1.1" 304 -
+2016-02-18 14:57:09,317  INFO|      _internal.py: 87|Thread-121|: 127.0.0.1 - - [18/Feb/2016 14:57:09] "GET /static/js/jquery-1.12.0/jquery-1.12.0.min.js HTTP/1.1" 304 -
+2016-02-18 14:57:09,318  INFO|      _internal.py: 87|Thread-122|: 127.0.0.1 - - [18/Feb/2016 14:57:09] "GET /static/js/jquery.dataTables.min.js HTTP/1.1" 304 -
+2016-02-18 14:57:10,306  INFO|      _internal.py: 87|Thread-124|: 127.0.0.1 - - [18/Feb/2016 14:57:10] "GET /static/img/redhat-lg.png HTTP/1.1" 304 -
+2016-02-18 14:57:10,384  INFO|      _internal.py: 87|Thread-127|: 127.0.0.1 - - [18/Feb/2016 14:57:10] "GET /static/images/sort_both.png HTTP/1.1" 404 -
+2016-02-18 14:57:10,405  INFO|      _internal.py: 87|Thread-128|: 127.0.0.1 - - [18/Feb/2016 14:57:10] "GET /static/images/sort_asc.png HTTP/1.1" 404 -
+2016-02-18 14:57:15,704  INFO|      _internal.py: 87|Thread-130|: 127.0.0.1 - - [18/Feb/2016 14:57:15] "GET / HTTP/1.1" 200 -
+2016-02-18 14:57:15,823  INFO|      _internal.py: 87|Thread-136|: 127.0.0.1 - - [18/Feb/2016 14:57:15] "GET /static/css/bootstrap.min.css HTTP/1.1" 304 -
+2016-02-18 14:57:15,825  INFO|      _internal.py: 87|Thread-137|: 127.0.0.1 - - [18/Feb/2016 14:57:15] "GET /static/css/rcue.css HTTP/1.1" 304 -
+2016-02-18 14:57:15,826  INFO|      _internal.py: 87|Thread-138|: 127.0.0.1 - - [18/Feb/2016 14:57:15] "GET /static/img/redhat-lg.png HTTP/1.1" 304 -
+2016-02-18 14:57:16,004  INFO|      _internal.py: 87|Thread-139|: 127.0.0.1 - - [18/Feb/2016 14:57:16] "GET /static/js/bootstrap.min.js HTTP/1.1" 304 -
+2016-02-18 14:57:16,005  INFO|      _internal.py: 87|Thread-140|: 127.0.0.1 - - [18/Feb/2016 14:57:16] "GET /static/js/jquery.stickytabs.js HTTP/1.1" 304 -
+2016-02-18 14:57:20,717  INFO|          index.py:548|Thread-141|: ====== Search Subscription SKUs - Search by Eng Product Id(s) ======
+2016-02-18 14:57:20,719 DEBUG|         peewee.py:2851|Thread-141|: ('SELECT `t1`.`id`, `t1`.`arch`, `t1`.`cloud_access_enabled`, `t1`.`cores`, `t1`.`derived_sku`, `t1`.`enabled_consumer_types`, `t1`.`eng_product_ids`, `t1`.`host_limited`, `t1`.`instance_multiplier`, `t1`.`jon_management`, `t1`.`management_enabled`, `t1`.`multi-entitlement`, `t1`.`multiplier`, `t1`.`name`, `t1`.`ph_category`, `t1`.`ph_product_line`, `t1`.`ph_product_name`, `t1`.`product_family`, `t1`.`ram`, `t1`.`requires_consumer_type`, `t1`.`sockets`, `t1`.`stacking_id`, `t1`.`support_level`, `t1`.`support_type`, `t1`.`unlimited_product`, `t1`.`username`, `t1`.`variant`, `t1`.`vcpu`, `t1`.`virt_limit`, `t1`.`virt_only` FROM `sku_attributes` AS t1 WHERE (((Lower(`t1`.`eng_product_ids`) LIKE BINARY %s) OR (Lower(`t1`.`eng_product_ids`) LIKE BINARY %s)) OR (Lower(`t1`.`eng_product_ids`) LIKE BINARY %s))', ['71,%', '%,71,%', '%,71'])
+2016-02-18 14:57:25,850  INFO|          index.py:610|Thread-141|: ====== End: Search Subscription SKUs - Search by Eng Product Id(s) ======
+2016-02-18 14:57:25,856  INFO|      _internal.py: 87|Thread-141|: 127.0.0.1 - - [18/Feb/2016 14:57:25] "POST / HTTP/1.1" 200 -
+2016-02-18 14:57:26,815  INFO|      _internal.py: 87|Thread-148|: 127.0.0.1 - - [18/Feb/2016 14:57:26] "GET /static/images/sort_both.png HTTP/1.1" 404 -
+2016-02-18 14:57:26,841  INFO|      _internal.py: 87|Thread-149|: 127.0.0.1 - - [18/Feb/2016 14:57:26] "GET /static/images/sort_asc.png HTTP/1.1" 404 -
+2016-02-18 14:57:36,105  INFO|      _internal.py: 87|Thread-150|: 127.0.0.1 - - [18/Feb/2016 14:57:36] "GET / HTTP/1.1" 200 -
+2016-02-18 14:57:44,112  INFO|          index.py:548|Thread-156|: ====== Search Subscription SKUs - Search by Eng Product Id(s) ======
+2016-02-18 14:57:44,114 DEBUG|         peewee.py:2851|Thread-156|: ('SELECT `t1`.`id`, `t1`.`arch`, `t1`.`cloud_access_enabled`, `t1`.`cores`, `t1`.`derived_sku`, `t1`.`enabled_consumer_types`, `t1`.`eng_product_ids`, `t1`.`host_limited`, `t1`.`instance_multiplier`, `t1`.`jon_management`, `t1`.`management_enabled`, `t1`.`multi-entitlement`, `t1`.`multiplier`, `t1`.`name`, `t1`.`ph_category`, `t1`.`ph_product_line`, `t1`.`ph_product_name`, `t1`.`product_family`, `t1`.`ram`, `t1`.`requires_consumer_type`, `t1`.`sockets`, `t1`.`stacking_id`, `t1`.`support_level`, `t1`.`support_type`, `t1`.`unlimited_product`, `t1`.`username`, `t1`.`variant`, `t1`.`vcpu`, `t1`.`virt_limit`, `t1`.`virt_only` FROM `sku_attributes` AS t1 WHERE ((((((Lower(`t1`.`eng_product_ids`) LIKE BINARY %s) OR (Lower(`t1`.`eng_product_ids`) LIKE BINARY %s)) OR (Lower(`t1`.`eng_product_ids`) LIKE BINARY %s)) AND (((Lower(`t1`.`eng_product_ids`) LIKE BINARY %s) OR (Lower(`t1`.`eng_product_ids`) LIKE BINARY %s)) OR (Lower(`t1`.`eng_product_ids`) LIKE BINARY %s))) AND (((Lower(`t1`.`eng_product_ids`) LIKE BINARY %s) OR (Lower(`t1`.`eng_product_ids`) LIKE BINARY %s)) OR (Lower(`t1`.`eng_product_ids`) LIKE BINARY %s))) AND (((Lower(`t1`.`eng_product_ids`) LIKE BINARY %s) OR (Lower(`t1`.`eng_product_ids`) LIKE BINARY %s)) OR (Lower(`t1`.`eng_product_ids`) LIKE BINARY %s)))', ['71,%', '%,71,%', '%,71', '180,%', '%,180,%', '%,180', '68,%', '%,68,%', '%,68', '69,%', '%,69,%', '%,69'])
+2016-02-18 14:57:51,209  INFO|          index.py:610|Thread-156|: ====== End: Search Subscription SKUs - Search by Eng Product Id(s) ======
+2016-02-18 14:57:51,214  INFO|      _internal.py: 87|Thread-156|: 127.0.0.1 - - [18/Feb/2016 14:57:51] "POST / HTTP/1.1" 200 -
+2016-02-18 14:57:52,194  INFO|      _internal.py: 87|Thread-164|: 127.0.0.1 - - [18/Feb/2016 14:57:52] "GET /static/images/sort_both.png HTTP/1.1" 404 -
+2016-02-18 14:57:52,198  INFO|      _internal.py: 87|Thread-165|: 127.0.0.1 - - [18/Feb/2016 14:57:52] "GET /static/images/sort_asc.png HTTP/1.1" 404 -
+2016-02-18 14:58:25,310  INFO|      _internal.py: 87|Thread-167|: 127.0.0.1 - - [18/Feb/2016 14:58:25] "GET / HTTP/1.1" 200 -
+2016-02-18 14:59:16,802  INFO|      _internal.py: 87|MainThread|:  * Detected change in '/home/liusong/code/content_sku_test/content-sku-tests/account_tool/index.py', reloading
+2016-02-18 14:59:16,823  INFO|      _internal.py: 87|MainThread|:  * Restarting with stat
+2016-02-18 14:59:29,231  INFO|          index.py:716|MainThread|: ====== Start/Reload Account Tool APP ======
+2016-02-18 14:59:29,233 WARNING|      _internal.py: 87|MainThread|:  * Debugger is active!
+2016-02-18 14:59:29,234  INFO|      _internal.py: 87|MainThread|:  * Debugger pin code: 929-475-441
+2016-02-18 14:59:29,828  INFO|          index.py:470|Thread-2|: ====== Search Subscription SKUs - Search by SKU Attribute ======
+2016-02-18 14:59:29,835  INFO|      _internal.py: 87|Thread-2|: 127.0.0.1 - - [18/Feb/2016 14:59:29] "POST / HTTP/1.1" 500 -
+2016-02-18 14:59:30,139  INFO|      _internal.py: 87|Thread-5|: 127.0.0.1 - - [18/Feb/2016 14:59:30] "GET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2016-02-18 14:59:30,141  INFO|      _internal.py: 87|Thread-7|: 127.0.0.1 - - [18/Feb/2016 14:59:30] "GET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2016-02-18 14:59:30,143  INFO|      _internal.py: 87|Thread-6|: 127.0.0.1 - - [18/Feb/2016 14:59:30] "GET /?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+2016-02-18 14:59:30,407  INFO|      _internal.py: 87|Thread-9|: 127.0.0.1 - - [18/Feb/2016 14:59:30] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2016-02-18 14:59:39,559  INFO|      _internal.py: 87|Thread-10|: 127.0.0.1 - - [18/Feb/2016 14:59:39] "GET / HTTP/1.1" 200 -
+2016-02-18 14:59:45,762  INFO|          index.py:470|Thread-15|: ====== Search Subscription SKUs - Search by SKU Attribute ======
+2016-02-18 14:59:45,769  INFO|      _internal.py: 87|Thread-15|: 127.0.0.1 - - [18/Feb/2016 14:59:45] "POST / HTTP/1.1" 500 -
+2016-02-18 14:59:45,994  INFO|      _internal.py: 87|Thread-19|: 127.0.0.1 - - [18/Feb/2016 14:59:45] "GET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2016-02-18 14:59:45,995  INFO|      _internal.py: 87|Thread-20|: 127.0.0.1 - - [18/Feb/2016 14:59:45] "GET /?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+2016-02-18 14:59:45,996  INFO|      _internal.py: 87|Thread-21|: 127.0.0.1 - - [18/Feb/2016 14:59:45] "GET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2016-02-18 14:59:46,259  INFO|      _internal.py: 87|Thread-23|: 127.0.0.1 - - [18/Feb/2016 14:59:46] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2016-02-18 15:01:00,787  INFO|      _internal.py: 87|MainThread|:  * Detected change in '/home/liusong/code/content_sku_test/content-sku-tests/account_tool/index.py', reloading
+2016-02-18 15:01:00,809  INFO|      _internal.py: 87|MainThread|:  * Restarting with stat
+2016-02-18 15:04:09,764  INFO|          index.py:724|MainThread|: ====== Start/Reload Account Tool APP ======
+2016-02-18 15:04:09,767  INFO|      _internal.py: 87|MainThread|:  * Running on http://0.0.0.0:80/ (Press CTRL+C to quit)
+2016-02-18 15:04:09,767  INFO|      _internal.py: 87|MainThread|:  * Restarting with stat
+2016-02-18 15:04:18,963  INFO|          index.py:724|MainThread|: ====== Start/Reload Account Tool APP ======
+2016-02-18 15:04:18,966 WARNING|      _internal.py: 87|MainThread|:  * Debugger is active!
+2016-02-18 15:04:18,966  INFO|      _internal.py: 87|MainThread|:  * Debugger pin code: 929-475-441
+2016-02-18 15:04:19,094  INFO|      _internal.py: 87|Thread-2|: 127.0.0.1 - - [18/Feb/2016 15:04:19] "GET / HTTP/1.1" 200 -
+2016-02-18 15:04:19,174  INFO|      _internal.py: 87|Thread-7|: 127.0.0.1 - - [18/Feb/2016 15:04:19] "GET /static/css/rcue.css HTTP/1.1" 304 -
+2016-02-18 15:04:19,179  INFO|      _internal.py: 87|Thread-6|: 127.0.0.1 - - [18/Feb/2016 15:04:19] "GET /static/css/bootstrap.min.css HTTP/1.1" 304 -
+2016-02-18 15:04:19,181  INFO|      _internal.py: 87|Thread-8|: 127.0.0.1 - - [18/Feb/2016 15:04:19] "GET /static/img/redhat-lg.png HTTP/1.1" 304 -
+2016-02-18 15:04:19,282  INFO|      _internal.py: 87|Thread-9|: 127.0.0.1 - - [18/Feb/2016 15:04:19] "GET /static/js/bootstrap.min.js HTTP/1.1" 304 -
+2016-02-18 15:04:19,283  INFO|      _internal.py: 87|Thread-10|: 127.0.0.1 - - [18/Feb/2016 15:04:19] "GET /static/js/jquery.stickytabs.js HTTP/1.1" 304 -
+2016-02-18 15:04:26,306  INFO|          index.py:470|Thread-13|: ====== Search Subscription SKUs - Search by SKU Attribute ======
+2016-02-18 15:04:26,314  INFO|      _internal.py: 87|Thread-13|: 127.0.0.1 - - [18/Feb/2016 15:04:26] "POST / HTTP/1.1" 500 -
+2016-02-18 15:04:26,483  INFO|      _internal.py: 87|Thread-17|: 127.0.0.1 - - [18/Feb/2016 15:04:26] "GET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2016-02-18 15:04:26,484  INFO|      _internal.py: 87|Thread-18|: 127.0.0.1 - - [18/Feb/2016 15:04:26] "GET /?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+2016-02-18 15:04:26,485  INFO|      _internal.py: 87|Thread-19|: 127.0.0.1 - - [18/Feb/2016 15:04:26] "GET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2016-02-18 15:04:26,683  INFO|      _internal.py: 87|Thread-21|: 127.0.0.1 - - [18/Feb/2016 15:04:26] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2016-02-18 15:04:38,177  INFO|      _internal.py: 87|Thread-22|: 127.0.0.1 - - [18/Feb/2016 15:04:38] "GET / HTTP/1.1" 200 -
+2016-02-18 15:04:47,463  INFO|          index.py:470|Thread-28|: ====== Search Subscription SKUs - Search by SKU Attribute ======
+2016-02-18 15:04:47,470  INFO|      _internal.py: 87|Thread-28|: 127.0.0.1 - - [18/Feb/2016 15:04:47] "POST / HTTP/1.1" 500 -
+2016-02-18 15:04:47,686  INFO|      _internal.py: 87|Thread-32|: 127.0.0.1 - - [18/Feb/2016 15:04:47] "GET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2016-02-18 15:04:47,688  INFO|      _internal.py: 87|Thread-33|: 127.0.0.1 - - [18/Feb/2016 15:04:47] "GET /?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+2016-02-18 15:04:47,688  INFO|      _internal.py: 87|Thread-34|: 127.0.0.1 - - [18/Feb/2016 15:04:47] "GET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2016-02-18 15:04:47,939  INFO|      _internal.py: 87|Thread-36|: 127.0.0.1 - - [18/Feb/2016 15:04:47] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2016-02-18 15:06:05,617  INFO|      _internal.py: 87|MainThread|:  * Detected change in '/home/liusong/code/content_sku_test/content-sku-tests/account_tool/index.py', reloading
+2016-02-18 15:06:05,638  INFO|      _internal.py: 87|MainThread|:  * Restarting with stat
+2016-02-18 15:06:20,656  INFO|          index.py:726|MainThread|: ====== Start/Reload Account Tool APP ======
+2016-02-18 15:06:20,659 WARNING|      _internal.py: 87|MainThread|:  * Debugger is active!
+2016-02-18 15:06:20,659  INFO|      _internal.py: 87|MainThread|:  * Debugger pin code: 929-475-441
+2016-02-18 15:06:20,791  INFO|      _internal.py: 87|Thread-2|: 127.0.0.1 - - [18/Feb/2016 15:06:20] "GET / HTTP/1.1" 200 -
+2016-02-18 15:06:32,857  INFO|          index.py:470|Thread-6|: ====== Search Subscription SKUs - Search by SKU Attribute ======
+2016-02-18 15:06:32,869  INFO|      _internal.py: 87|Thread-6|: 127.0.0.1 - - [18/Feb/2016 15:06:32] "POST / HTTP/1.1" 500 -
+2016-02-18 15:06:33,119  INFO|      _internal.py: 87|Thread-11|: 127.0.0.1 - - [18/Feb/2016 15:06:33] "GET /?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+2016-02-18 15:06:33,121  INFO|      _internal.py: 87|Thread-10|: 127.0.0.1 - - [18/Feb/2016 15:06:33] "GET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2016-02-18 15:06:33,122  INFO|      _internal.py: 87|Thread-12|: 127.0.0.1 - - [18/Feb/2016 15:06:33] "GET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2016-02-18 15:06:33,342  INFO|      _internal.py: 87|Thread-14|: 127.0.0.1 - - [18/Feb/2016 15:06:33] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2016-02-18 15:07:51,238  INFO|      _internal.py: 87|MainThread|:  * Detected change in '/home/liusong/code/content_sku_test/content-sku-tests/account_tool/index.py', reloading
+2016-02-18 15:07:51,262  INFO|      _internal.py: 87|MainThread|:  * Restarting with stat
+2016-02-18 15:08:00,416  INFO|          index.py:726|MainThread|: ====== Start/Reload Account Tool APP ======
+2016-02-18 15:08:00,418 WARNING|      _internal.py: 87|MainThread|:  * Debugger is active!
+2016-02-18 15:08:00,418  INFO|      _internal.py: 87|MainThread|:  * Debugger pin code: 929-475-441
+2016-02-18 15:15:10,990  INFO|      _internal.py: 87|MainThread|:  * Detected change in '/home/liusong/code/content_sku_test/content-sku-tests/account_tool/index.py', reloading
+2016-02-18 15:15:11,009  INFO|      _internal.py: 87|MainThread|:  * Restarting with stat
+2016-02-18 15:15:19,713  INFO|          index.py:726|MainThread|: ====== Start/Reload Account Tool APP ======
+2016-02-18 15:15:19,716 WARNING|      _internal.py: 87|MainThread|:  * Debugger is active!
+2016-02-18 15:15:19,716  INFO|      _internal.py: 87|MainThread|:  * Debugger pin code: 929-475-441
+2016-02-18 15:15:20,502  INFO|      _internal.py: 87|Thread-2|: 127.0.0.1 - - [18/Feb/2016 15:15:20] "GET / HTTP/1.1" 200 -
+2016-02-18 15:15:39,841  INFO|      _internal.py: 87|MainThread|:  * Detected change in '/home/liusong/code/content_sku_test/content-sku-tests/account_tool/index.py', reloading
+2016-02-18 15:15:39,866  INFO|      _internal.py: 87|MainThread|:  * Restarting with stat
+2016-02-18 15:15:50,479  INFO|          index.py:726|MainThread|: ====== Start/Reload Account Tool APP ======
+2016-02-18 15:15:50,482 WARNING|      _internal.py: 87|MainThread|:  * Debugger is active!
+2016-02-18 15:15:50,482  INFO|      _internal.py: 87|MainThread|:  * Debugger pin code: 929-475-441
+2016-02-18 15:15:50,498  INFO|          index.py:470|Thread-2|: ====== Search Subscription SKUs - Search by SKU Attribute ======
+2016-02-18 15:15:50,525  INFO|      _internal.py: 87|Thread-2|: 127.0.0.1 - - [18/Feb/2016 15:15:50] "POST / HTTP/1.1" 500 -
+2016-02-18 15:15:50,775  INFO|      _internal.py: 87|Thread-7|: 127.0.0.1 - - [18/Feb/2016 15:15:50] "GET /?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+2016-02-18 15:15:50,776  INFO|      _internal.py: 87|Thread-6|: 127.0.0.1 - - [18/Feb/2016 15:15:50] "GET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2016-02-18 15:15:50,778  INFO|      _internal.py: 87|Thread-8|: 127.0.0.1 - - [18/Feb/2016 15:15:50] "GET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2016-02-18 15:15:51,044  INFO|      _internal.py: 87|Thread-10|: 127.0.0.1 - - [18/Feb/2016 15:15:51] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2016-02-18 15:18:08,301  INFO|      _internal.py: 87|MainThread|:  * Detected change in '/home/liusong/code/content_sku_test/content-sku-tests/account_tool/index.py', reloading
+2016-02-18 15:18:08,325  INFO|      _internal.py: 87|MainThread|:  * Restarting with stat
+2016-02-18 15:18:22,061  INFO|          index.py:726|MainThread|: ====== Start/Reload Account Tool APP ======
+2016-02-18 15:18:22,064 WARNING|      _internal.py: 87|MainThread|:  * Debugger is active!
+2016-02-18 15:18:22,064  INFO|      _internal.py: 87|MainThread|:  * Debugger pin code: 929-475-441
+2016-02-18 15:18:22,191  INFO|      _internal.py: 87|Thread-2|: 127.0.0.1 - - [18/Feb/2016 15:18:22] "GET / HTTP/1.1" 200 -
+2016-02-18 15:19:22,420  INFO|      _internal.py: 87|MainThread|:  * Detected change in '/home/liusong/code/content_sku_test/content-sku-tests/account_tool/index.py', reloading
+2016-02-18 15:19:22,440  INFO|      _internal.py: 87|MainThread|:  * Restarting with stat
+2016-02-18 15:19:39,754  INFO|          index.py:726|MainThread|: ====== Start/Reload Account Tool APP ======
+2016-02-18 15:19:39,757 WARNING|      _internal.py: 87|MainThread|:  * Debugger is active!
+2016-02-18 15:19:39,757  INFO|      _internal.py: 87|MainThread|:  * Debugger pin code: 929-475-441
+2016-02-18 15:19:39,888  INFO|      _internal.py: 87|Thread-2|: 127.0.0.1 - - [18/Feb/2016 15:19:39] "GET / HTTP/1.1" 200 -
+2016-02-18 15:19:40,117  INFO|      _internal.py: 87|Thread-7|: 127.0.0.1 - - [18/Feb/2016 15:19:40] "GET /static/css/rcue.css HTTP/1.1" 304 -
+2016-02-18 15:19:40,118  INFO|      _internal.py: 87|Thread-6|: 127.0.0.1 - - [18/Feb/2016 15:19:40] "GET /static/css/bootstrap.min.css HTTP/1.1" 304 -
+2016-02-18 15:19:40,119  INFO|      _internal.py: 87|Thread-8|: 127.0.0.1 - - [18/Feb/2016 15:19:40] "GET /static/img/redhat-lg.png HTTP/1.1" 304 -
+2016-02-18 15:19:40,268  INFO|      _internal.py: 87|Thread-9|: 127.0.0.1 - - [18/Feb/2016 15:19:40] "GET /static/js/bootstrap.min.js HTTP/1.1" 304 -
+2016-02-18 15:19:40,269  INFO|      _internal.py: 87|Thread-10|: 127.0.0.1 - - [18/Feb/2016 15:19:40] "GET /static/js/jquery.stickytabs.js HTTP/1.1" 304 -
+2016-02-18 15:19:42,921  INFO|          index.py:470|Thread-12|: ====== Search Subscription SKUs - Search by SKU Attribute ======
+2016-02-18 15:19:42,922 DEBUG|         peewee.py:2851|Thread-12|: ('SELECT `t1`.`id`, `t1`.`arch`, `t1`.`cloud_access_enabled`, `t1`.`cores`, `t1`.`derived_sku`, `t1`.`enabled_consumer_types`, `t1`.`eng_product_ids`, `t1`.`host_limited`, `t1`.`instance_multiplier`, `t1`.`jon_management`, `t1`.`management_enabled`, `t1`.`multi-entitlement`, `t1`.`multiplier`, `t1`.`name`, `t1`.`ph_category`, `t1`.`ph_product_line`, `t1`.`ph_product_name`, `t1`.`product_family`, `t1`.`ram`, `t1`.`requires_consumer_type`, `t1`.`sockets`, `t1`.`stacking_id`, `t1`.`support_level`, `t1`.`support_type`, `t1`.`unlimited_product`, `t1`.`username`, `t1`.`variant`, `t1`.`vcpu`, `t1`.`virt_limit`, `t1`.`virt_only` FROM `sku_attributes` AS t1 WHERE ((((Lower(`t1`.`arch`) LIKE BINARY %s) AND (Lower(`t1`.`arch`) LIKE BINARY %s)) AND (Lower(`t1`.`arch`) LIKE BINARY %s)) AND (Lower(`t1`.`arch`) LIKE BINARY %s))', [u'%86%', u'%%', u'%%', u'%%'])
+2016-02-18 15:19:57,242  INFO|          index.py:548|Thread-12|: ====== End: Search Subscription SKUs - Search by SKU Attribute ======
+2016-02-18 15:19:57,303  INFO|      _internal.py: 87|Thread-12|: 127.0.0.1 - - [18/Feb/2016 15:19:57] "POST / HTTP/1.1" 200 -
+2016-02-18 15:19:57,304 ERROR|      _internal.py: 87|Thread-12|: Error on request:
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/site-packages/werkzeug/serving.py", line 194, in run_wsgi
+    execute(self.server.app)
+  File "/usr/lib/python2.7/site-packages/werkzeug/serving.py", line 185, in execute
+    write(data)
+  File "/usr/lib/python2.7/site-packages/werkzeug/serving.py", line 166, in write
+    self.wfile.write(data)
+IOError: [Errno 11] Resource temporarily unavailable
+2016-02-18 15:20:07,721  INFO|      _internal.py: 87|Thread-17|: 127.0.0.1 - - [18/Feb/2016 15:20:07] "GET / HTTP/1.1" 200 -
+2016-02-18 15:20:25,937  INFO|          index.py:470|Thread-22|: ====== Search Subscription SKUs - Search by SKU Attribute ======
+2016-02-18 15:20:25,938 DEBUG|         peewee.py:2851|Thread-22|: ('SELECT `t1`.`id`, `t1`.`arch`, `t1`.`cloud_access_enabled`, `t1`.`cores`, `t1`.`derived_sku`, `t1`.`enabled_consumer_types`, `t1`.`eng_product_ids`, `t1`.`host_limited`, `t1`.`instance_multiplier`, `t1`.`jon_management`, `t1`.`management_enabled`, `t1`.`multi-entitlement`, `t1`.`multiplier`, `t1`.`name`, `t1`.`ph_category`, `t1`.`ph_product_line`, `t1`.`ph_product_name`, `t1`.`product_family`, `t1`.`ram`, `t1`.`requires_consumer_type`, `t1`.`sockets`, `t1`.`stacking_id`, `t1`.`support_level`, `t1`.`support_type`, `t1`.`unlimited_product`, `t1`.`username`, `t1`.`variant`, `t1`.`vcpu`, `t1`.`virt_limit`, `t1`.`virt_only` FROM `sku_attributes` AS t1 WHERE ((((Lower(`t1`.`arch`) LIKE BINARY %s) AND (Lower(`t1`.`multiplier`) LIKE BINARY %s)) AND (Lower(`t1`.`arch`) LIKE BINARY %s)) AND (Lower(`t1`.`arch`) LIKE BINARY %s))', [u'%86%', u'%250%', u'%%', u'%%'])
+2016-02-18 15:20:32,355  INFO|          index.py:548|Thread-22|: ====== End: Search Subscription SKUs - Search by SKU Attribute ======
+2016-02-18 15:20:32,358  INFO|      _internal.py: 87|Thread-22|: 127.0.0.1 - - [18/Feb/2016 15:20:32] "POST / HTTP/1.1" 200 -
+2016-02-18 15:20:33,190  INFO|      _internal.py: 87|Thread-30|: 127.0.0.1 - - [18/Feb/2016 15:20:33] "GET /static/images/sort_both.png HTTP/1.1" 404 -
+2016-02-18 15:20:33,192  INFO|      _internal.py: 87|Thread-31|: 127.0.0.1 - - [18/Feb/2016 15:20:33] "GET /static/images/sort_asc.png HTTP/1.1" 404 -
+2016-02-18 15:20:44,006  INFO|      _internal.py: 87|Thread-32|: 127.0.0.1 - - [18/Feb/2016 15:20:44] "GET / HTTP/1.1" 200 -
+2016-02-18 15:21:32,542  INFO|      _internal.py: 87|Thread-37|: 127.0.0.1 - - [18/Feb/2016 15:21:32] "GET / HTTP/1.1" 200 -
+2016-02-18 15:21:32,710  INFO|      _internal.py: 87|Thread-41|: 127.0.0.1 - - [18/Feb/2016 15:21:32] "GET /static/css/bootstrap.min.css HTTP/1.1" 304 -
+2016-02-18 15:21:32,710  INFO|      _internal.py: 87|Thread-42|: 127.0.0.1 - - [18/Feb/2016 15:21:32] "GET /static/css/rcue.css HTTP/1.1" 304 -
+2016-02-18 15:21:32,712  INFO|      _internal.py: 87|Thread-43|: 127.0.0.1 - - [18/Feb/2016 15:21:32] "GET /static/img/redhat-lg.png HTTP/1.1" 304 -
+2016-02-18 15:21:32,787  INFO|      _internal.py: 87|Thread-44|: 127.0.0.1 - - [18/Feb/2016 15:21:32] "GET /static/js/bootstrap.min.js HTTP/1.1" 304 -
+2016-02-18 15:21:32,788  INFO|      _internal.py: 87|Thread-45|: 127.0.0.1 - - [18/Feb/2016 15:21:32] "GET /static/js/jquery.stickytabs.js HTTP/1.1" 304 -
+2016-02-18 15:21:35,611  INFO|          index.py:470|Thread-46|: ====== Search Subscription SKUs - Search by SKU Attribute ======
+2016-02-18 15:21:35,613 DEBUG|         peewee.py:2851|Thread-46|: ('SELECT `t1`.`id`, `t1`.`arch`, `t1`.`cloud_access_enabled`, `t1`.`cores`, `t1`.`derived_sku`, `t1`.`enabled_consumer_types`, `t1`.`eng_product_ids`, `t1`.`host_limited`, `t1`.`instance_multiplier`, `t1`.`jon_management`, `t1`.`management_enabled`, `t1`.`multi-entitlement`, `t1`.`multiplier`, `t1`.`name`, `t1`.`ph_category`, `t1`.`ph_product_line`, `t1`.`ph_product_name`, `t1`.`product_family`, `t1`.`ram`, `t1`.`requires_consumer_type`, `t1`.`sockets`, `t1`.`stacking_id`, `t1`.`support_level`, `t1`.`support_type`, `t1`.`unlimited_product`, `t1`.`username`, `t1`.`variant`, `t1`.`vcpu`, `t1`.`virt_limit`, `t1`.`virt_only` FROM `sku_attributes` AS t1 WHERE ((((Lower(`t1`.`arch`) LIKE BINARY %s) AND (Lower(`t1`.`multiplier`) LIKE BINARY %s)) AND (Lower(`t1`.`arch`) LIKE BINARY %s)) AND (Lower(`t1`.`arch`) LIKE BINARY %s))', [u'%86%', u'%250%', u'%%', u'%%'])
+2016-02-18 15:21:40,985  INFO|          index.py:548|Thread-46|: ====== End: Search Subscription SKUs - Search by SKU Attribute ======
+2016-02-18 15:21:40,987  INFO|      _internal.py: 87|Thread-46|: 127.0.0.1 - - [18/Feb/2016 15:21:40] "POST / HTTP/1.1" 200 -
+2016-02-18 15:21:41,884  INFO|      _internal.py: 87|Thread-53|: 127.0.0.1 - - [18/Feb/2016 15:21:41] "GET /static/images/sort_both.png HTTP/1.1" 404 -
+2016-02-18 15:21:41,890  INFO|      _internal.py: 87|Thread-54|: 127.0.0.1 - - [18/Feb/2016 15:21:41] "GET /static/images/sort_asc.png HTTP/1.1" 404 -
+2016-02-18 15:21:44,858  INFO|      _internal.py: 87|Thread-55|: 127.0.0.1 - - [18/Feb/2016 15:21:44] "GET / HTTP/1.1" 200 -
+2016-02-18 15:21:56,558  INFO|      _internal.py: 87|MainThread|:  * Detected change in '/home/liusong/code/content_sku_test/content-sku-tests/account_tool/index.py', reloading
+2016-02-18 15:22:55,319  INFO|          index.py:726|MainThread|: ====== Start/Reload Account Tool APP ======
+2016-02-18 15:22:55,322  INFO|      _internal.py: 87|MainThread|:  * Running on http://0.0.0.0:80/ (Press CTRL+C to quit)
+2016-02-18 15:22:55,322  INFO|      _internal.py: 87|MainThread|:  * Restarting with stat
+2016-02-18 15:23:07,093  INFO|          index.py:726|MainThread|: ====== Start/Reload Account Tool APP ======
+2016-02-18 15:23:07,096 WARNING|      _internal.py: 87|MainThread|:  * Debugger is active!
+2016-02-18 15:23:07,096  INFO|      _internal.py: 87|MainThread|:  * Debugger pin code: 929-475-441
+2016-02-18 15:23:07,229  INFO|      _internal.py: 87|Thread-2|: 127.0.0.1 - - [18/Feb/2016 15:23:07] "GET / HTTP/1.1" 200 -
+2016-02-18 15:23:07,436  INFO|      _internal.py: 87|Thread-8|: 127.0.0.1 - - [18/Feb/2016 15:23:07] "GET /static/css/rcue.css HTTP/1.1" 304 -
+2016-02-18 15:23:07,439  INFO|      _internal.py: 87|Thread-7|: 127.0.0.1 - - [18/Feb/2016 15:23:07] "GET /static/css/bootstrap.min.css HTTP/1.1" 304 -
+2016-02-18 15:23:07,441  INFO|      _internal.py: 87|Thread-9|: 127.0.0.1 - - [18/Feb/2016 15:23:07] "GET /static/img/redhat-lg.png HTTP/1.1" 304 -
+2016-02-18 15:23:07,463  INFO|      _internal.py: 87|Thread-10|: 127.0.0.1 - - [18/Feb/2016 15:23:07] "GET /static/js/bootstrap.min.js HTTP/1.1" 304 -
+2016-02-18 15:23:07,464  INFO|      _internal.py: 87|Thread-11|: 127.0.0.1 - - [18/Feb/2016 15:23:07] "GET /static/js/jquery.stickytabs.js HTTP/1.1" 304 -
+2016-02-18 15:23:14,778  INFO|      _internal.py: 87|Thread-13|: 127.0.0.1 - - [18/Feb/2016 15:23:14] "POST / HTTP/1.1" 200 -
+2016-02-18 15:23:30,689  INFO|          index.py:558|Thread-24|: ====== Search Subscription SKUs - Search by Eng Product Id(s) ======
+2016-02-18 15:23:30,690 DEBUG|         peewee.py:2851|Thread-24|: ('SELECT `t1`.`id`, `t1`.`arch`, `t1`.`cloud_access_enabled`, `t1`.`cores`, `t1`.`derived_sku`, `t1`.`enabled_consumer_types`, `t1`.`eng_product_ids`, `t1`.`host_limited`, `t1`.`instance_multiplier`, `t1`.`jon_management`, `t1`.`management_enabled`, `t1`.`multi-entitlement`, `t1`.`multiplier`, `t1`.`name`, `t1`.`ph_category`, `t1`.`ph_product_line`, `t1`.`ph_product_name`, `t1`.`product_family`, `t1`.`ram`, `t1`.`requires_consumer_type`, `t1`.`sockets`, `t1`.`stacking_id`, `t1`.`support_level`, `t1`.`support_type`, `t1`.`unlimited_product`, `t1`.`username`, `t1`.`variant`, `t1`.`vcpu`, `t1`.`virt_limit`, `t1`.`virt_only` FROM `sku_attributes` AS t1 WHERE (((Lower(`t1`.`eng_product_ids`) LIKE BINARY %s) OR (Lower(`t1`.`eng_product_ids`) LIKE BINARY %s)) OR (Lower(`t1`.`eng_product_ids`) LIKE BINARY %s))', ['71,%', '%,71,%', '%,71'])
+2016-02-18 15:23:35,866  INFO|          index.py:614|Thread-24|: ====== End: Search Subscription SKUs - Search by Eng Product Id(s) ======
+2016-02-18 15:23:35,888  INFO|      _internal.py: 87|Thread-24|: 127.0.0.1 - - [18/Feb/2016 15:23:35] "POST / HTTP/1.1" 200 -
+2016-02-18 15:23:36,831  INFO|      _internal.py: 87|Thread-31|: 127.0.0.1 - - [18/Feb/2016 15:23:36] "GET /static/images/sort_both.png HTTP/1.1" 404 -
+2016-02-18 15:23:36,833  INFO|      _internal.py: 87|Thread-32|: 127.0.0.1 - - [18/Feb/2016 15:23:36] "GET /static/images/sort_asc.png HTTP/1.1" 404 -
+2016-02-18 15:23:47,782  INFO|      _internal.py: 87|Thread-37|: 127.0.0.1 - - [18/Feb/2016 15:23:47] "POST / HTTP/1.1" 200 -
+2016-02-18 15:24:00,419  INFO|      _internal.py: 87|MainThread|:  * Detected change in '/home/liusong/code/content_sku_test/content-sku-tests/account_tool/index.py', reloading
+2016-02-18 15:24:00,445  INFO|      _internal.py: 87|MainThread|:  * Restarting with stat
+2016-02-18 15:24:22,503  INFO|          index.py:724|MainThread|: ====== Start/Reload Account Tool APP ======
+2016-02-18 15:24:22,506 WARNING|      _internal.py: 87|MainThread|:  * Debugger is active!
+2016-02-18 15:24:22,507  INFO|      _internal.py: 87|MainThread|:  * Debugger pin code: 929-475-441
+2016-02-18 15:24:22,520  INFO|          index.py:470|Thread-2|: ====== Search Subscription SKUs - Search by SKU Attribute ======
+2016-02-18 15:24:22,521 DEBUG|         peewee.py:2851|Thread-2|: ('SELECT `t1`.`id`, `t1`.`arch`, `t1`.`cloud_access_enabled`, `t1`.`cores`, `t1`.`derived_sku`, `t1`.`enabled_consumer_types`, `t1`.`eng_product_ids`, `t1`.`host_limited`, `t1`.`instance_multiplier`, `t1`.`jon_management`, `t1`.`management_enabled`, `t1`.`multi-entitlement`, `t1`.`multiplier`, `t1`.`name`, `t1`.`ph_category`, `t1`.`ph_product_line`, `t1`.`ph_product_name`, `t1`.`product_family`, `t1`.`ram`, `t1`.`requires_consumer_type`, `t1`.`sockets`, `t1`.`stacking_id`, `t1`.`support_level`, `t1`.`support_type`, `t1`.`unlimited_product`, `t1`.`username`, `t1`.`variant`, `t1`.`vcpu`, `t1`.`virt_limit`, `t1`.`virt_only` FROM `sku_attributes` AS t1 WHERE ((((Lower(`t1`.`arch`) LIKE BINARY %s) AND (Lower(`t1`.`multiplier`) LIKE BINARY %s)) AND (Lower(`t1`.`arch`) LIKE BINARY %s)) AND (Lower(`t1`.`arch`) LIKE BINARY %s))', [u'%86%', u'%250%', u'%%', u'%%'])
+2016-02-18 15:24:26,997  INFO|          index.py:546|Thread-2|: ====== End: Search Subscription SKUs - Search by SKU Attribute ======
+2016-02-18 15:24:27,019  INFO|      _internal.py: 87|Thread-2|: 127.0.0.1 - - [18/Feb/2016 15:24:27] "POST / HTTP/1.1" 200 -
+2016-02-18 15:24:27,450  INFO|      _internal.py: 87|Thread-5|: 127.0.0.1 - - [18/Feb/2016 15:24:27] "GET /static/css/jquery.dataTables.min.css HTTP/1.1" 304 -
+2016-02-18 15:24:27,455  INFO|      _internal.py: 87|Thread-6|: 127.0.0.1 - - [18/Feb/2016 15:24:27] "GET /static/js/jquery-1.12.0/jquery-1.12.0.min.js HTTP/1.1" 304 -
+2016-02-18 15:24:27,457  INFO|      _internal.py: 87|Thread-4|: 127.0.0.1 - - [18/Feb/2016 15:24:27] "GET /static/css/rcue.css HTTP/1.1" 304 -
+2016-02-18 15:24:27,460  INFO|      _internal.py: 87|Thread-7|: 127.0.0.1 - - [18/Feb/2016 15:24:27] "GET /static/js/jquery.dataTables.min.js HTTP/1.1" 304 -
+2016-02-18 15:24:27,461  INFO|      _internal.py: 87|Thread-3|: 127.0.0.1 - - [18/Feb/2016 15:24:27] "GET /static/css/bootstrap.min.css HTTP/1.1" 304 -
+2016-02-18 15:24:28,607  INFO|      _internal.py: 87|Thread-10|: 127.0.0.1 - - [18/Feb/2016 15:24:28] "GET /static/img/redhat-lg.png HTTP/1.1" 304 -
+2016-02-18 15:24:28,672  INFO|      _internal.py: 87|Thread-13|: 127.0.0.1 - - [18/Feb/2016 15:24:28] "GET /static/images/sort_both.png HTTP/1.1" 404 -
+2016-02-18 15:24:28,673  INFO|      _internal.py: 87|Thread-14|: 127.0.0.1 - - [18/Feb/2016 15:24:28] "GET /static/images/sort_asc.png HTTP/1.1" 404 -
+2016-02-18 15:24:55,406  INFO|      _internal.py: 87|Thread-20|: 127.0.0.1 - - [18/Feb/2016 15:24:55] "GET / HTTP/1.1" 200 -
+2016-02-18 15:25:09,403  INFO|          index.py:556|Thread-24|: ====== Search Subscription SKUs - Search by Eng Product Id(s) ======
+2016-02-18 15:25:09,404 DEBUG|         peewee.py:2851|Thread-24|: ('SELECT `t1`.`id`, `t1`.`arch`, `t1`.`cloud_access_enabled`, `t1`.`cores`, `t1`.`derived_sku`, `t1`.`enabled_consumer_types`, `t1`.`eng_product_ids`, `t1`.`host_limited`, `t1`.`instance_multiplier`, `t1`.`jon_management`, `t1`.`management_enabled`, `t1`.`multi-entitlement`, `t1`.`multiplier`, `t1`.`name`, `t1`.`ph_category`, `t1`.`ph_product_line`, `t1`.`ph_product_name`, `t1`.`product_family`, `t1`.`ram`, `t1`.`requires_consumer_type`, `t1`.`sockets`, `t1`.`stacking_id`, `t1`.`support_level`, `t1`.`support_type`, `t1`.`unlimited_product`, `t1`.`username`, `t1`.`variant`, `t1`.`vcpu`, `t1`.`virt_limit`, `t1`.`virt_only` FROM `sku_attributes` AS t1 WHERE (((Lower(`t1`.`eng_product_ids`) LIKE BINARY %s) OR (Lower(`t1`.`eng_product_ids`) LIKE BINARY %s)) OR (Lower(`t1`.`eng_product_ids`) LIKE BINARY %s))', ['71,%', '%,71,%', '%,71'])
+2016-02-18 15:25:14,546  INFO|          index.py:612|Thread-24|: ====== End: Search Subscription SKUs - Search by Eng Product Id(s) ======
+2016-02-18 15:25:14,552  INFO|      _internal.py: 87|Thread-24|: 127.0.0.1 - - [18/Feb/2016 15:25:14] "POST / HTTP/1.1" 200 -
+2016-02-18 15:25:15,408  INFO|      _internal.py: 87|Thread-32|: 127.0.0.1 - - [18/Feb/2016 15:25:15] "GET /static/images/sort_both.png HTTP/1.1" 404 -
+2016-02-18 15:25:15,412  INFO|      _internal.py: 87|Thread-33|: 127.0.0.1 - - [18/Feb/2016 15:25:15] "GET /static/images/sort_asc.png HTTP/1.1" 404 -
+2016-02-18 15:25:18,418  INFO|      _internal.py: 87|Thread-35|: 127.0.0.1 - - [18/Feb/2016 15:25:18] "GET / HTTP/1.1" 200 -
+2016-02-18 15:25:18,546  INFO|      _internal.py: 87|Thread-39|: 127.0.0.1 - - [18/Feb/2016 15:25:18] "GET /static/css/bootstrap.min.css HTTP/1.1" 304 -
+2016-02-18 15:25:18,547  INFO|      _internal.py: 87|Thread-40|: 127.0.0.1 - - [18/Feb/2016 15:25:18] "GET /static/css/rcue.css HTTP/1.1" 304 -
+2016-02-18 15:25:18,548  INFO|      _internal.py: 87|Thread-41|: 127.0.0.1 - - [18/Feb/2016 15:25:18] "GET /static/img/redhat-lg.png HTTP/1.1" 304 -
+2016-02-18 15:25:18,777  INFO|      _internal.py: 87|Thread-42|: 127.0.0.1 - - [18/Feb/2016 15:25:18] "GET /static/js/bootstrap.min.js HTTP/1.1" 304 -
+2016-02-18 15:25:18,777  INFO|      _internal.py: 87|Thread-43|: 127.0.0.1 - - [18/Feb/2016 15:25:18] "GET /static/js/jquery.stickytabs.js HTTP/1.1" 304 -
+2016-02-18 15:25:35,068  INFO|          index.py:470|Thread-44|: ====== Search Subscription SKUs - Search by SKU Attribute ======
+2016-02-18 15:25:35,069 DEBUG|         peewee.py:2851|Thread-44|: ('SELECT `t1`.`id`, `t1`.`arch`, `t1`.`cloud_access_enabled`, `t1`.`cores`, `t1`.`derived_sku`, `t1`.`enabled_consumer_types`, `t1`.`eng_product_ids`, `t1`.`host_limited`, `t1`.`instance_multiplier`, `t1`.`jon_management`, `t1`.`management_enabled`, `t1`.`multi-entitlement`, `t1`.`multiplier`, `t1`.`name`, `t1`.`ph_category`, `t1`.`ph_product_line`, `t1`.`ph_product_name`, `t1`.`product_family`, `t1`.`ram`, `t1`.`requires_consumer_type`, `t1`.`sockets`, `t1`.`stacking_id`, `t1`.`support_level`, `t1`.`support_type`, `t1`.`unlimited_product`, `t1`.`username`, `t1`.`variant`, `t1`.`vcpu`, `t1`.`virt_limit`, `t1`.`virt_only` FROM `sku_attributes` AS t1 WHERE ((((Lower(`t1`.`multiplier`) LIKE BINARY %s) AND (Lower(`t1`.`arch`) LIKE BINARY %s)) AND (Lower(`t1`.`arch`) LIKE BINARY %s)) AND (Lower(`t1`.`arch`) LIKE BINARY %s))', [u'%250%', u'%%', u'%%', u'%%'])
+2016-02-18 15:25:39,552  INFO|          index.py:546|Thread-44|: ====== End: Search Subscription SKUs - Search by SKU Attribute ======
+2016-02-18 15:25:39,555  INFO|      _internal.py: 87|Thread-44|: 127.0.0.1 - - [18/Feb/2016 15:25:39] "POST / HTTP/1.1" 200 -
+2016-02-18 15:25:40,397  INFO|      _internal.py: 87|Thread-51|: 127.0.0.1 - - [18/Feb/2016 15:25:40] "GET /static/images/sort_both.png HTTP/1.1" 404 -
+2016-02-18 15:25:40,403  INFO|      _internal.py: 87|Thread-52|: 127.0.0.1 - - [18/Feb/2016 15:25:40] "GET /static/images/sort_asc.png HTTP/1.1" 404 -
+2016-02-18 15:25:43,255  INFO|      _internal.py: 87|Thread-53|: 127.0.0.1 - - [18/Feb/2016 15:25:43] "GET / HTTP/1.1" 200 -
+2016-02-18 16:20:57,138  INFO|          index.py:722|MainThread|: ====== Start/Reload Account Tool APP ======
+2016-02-18 16:20:57,141  INFO|      _internal.py: 87|MainThread|:  * Running on http://0.0.0.0:80/ (Press CTRL+C to quit)
+2016-02-18 16:20:57,141  INFO|      _internal.py: 87|MainThread|:  * Restarting with stat
+2016-02-18 16:21:08,282  INFO|          index.py:722|MainThread|: ====== Start/Reload Account Tool APP ======
+2016-02-18 16:21:08,284 WARNING|      _internal.py: 87|MainThread|:  * Debugger is active!
+2016-02-18 16:21:08,284  INFO|      _internal.py: 87|MainThread|:  * Debugger pin code: 929-475-441
+2016-02-18 16:21:09,028  INFO|      _internal.py: 87|Thread-2|: 127.0.0.1 - - [18/Feb/2016 16:21:09] "GET / HTTP/1.1" 200 -
+2016-02-18 16:22:36,760  INFO|      _internal.py: 87|Thread-6|: 127.0.0.1 - - [18/Feb/2016 16:22:36] "GET / HTTP/1.1" 200 -
+2016-02-18 16:22:37,036  INFO|      _internal.py: 87|Thread-12|: 127.0.0.1 - - [18/Feb/2016 16:22:37] "GET /static/css/rcue.css HTTP/1.1" 200 -
+2016-02-18 16:22:37,039  INFO|      _internal.py: 87|Thread-11|: 127.0.0.1 - - [18/Feb/2016 16:22:37] "GET /static/css/bootstrap.min.css HTTP/1.1" 304 -
+2016-02-18 16:22:37,041  INFO|      _internal.py: 87|Thread-13|: 127.0.0.1 - - [18/Feb/2016 16:22:37] "GET /static/img/redhat-lg.png HTTP/1.1" 200 -
+2016-02-18 16:22:37,207  INFO|      _internal.py: 87|Thread-14|: 127.0.0.1 - - [18/Feb/2016 16:22:37] "GET /static/js/bootstrap.min.js HTTP/1.1" 304 -
+2016-02-18 16:22:37,208  INFO|      _internal.py: 87|Thread-15|: 127.0.0.1 - - [18/Feb/2016 16:22:37] "GET /static/js/jquery.stickytabs.js HTTP/1.1" 200 -
+2016-02-18 16:22:48,687  INFO|      _internal.py: 87|Thread-16|: 127.0.0.1 - - [18/Feb/2016 16:22:48] "GET / HTTP/1.1" 200 -
+2016-02-18 16:22:48,875  INFO|      _internal.py: 87|Thread-20|: 127.0.0.1 - - [18/Feb/2016 16:22:48] "GET /static/css/bootstrap.min.css HTTP/1.1" 304 -
+2016-02-18 16:22:48,877  INFO|      _internal.py: 87|Thread-21|: 127.0.0.1 - - [18/Feb/2016 16:22:48] "GET /static/css/rcue.css HTTP/1.1" 304 -
+2016-02-18 16:22:48,877  INFO|      _internal.py: 87|Thread-22|: 127.0.0.1 - - [18/Feb/2016 16:22:48] "GET /static/img/redhat-lg.png HTTP/1.1" 304 -
+2016-02-18 16:22:49,007  INFO|      _internal.py: 87|Thread-23|: 127.0.0.1 - - [18/Feb/2016 16:22:49] "GET /static/js/bootstrap.min.js HTTP/1.1" 304 -
+2016-02-18 16:22:49,008  INFO|      _internal.py: 87|Thread-24|: 127.0.0.1 - - [18/Feb/2016 16:22:49] "GET /static/js/jquery.stickytabs.js HTTP/1.1" 304 -
+2016-02-18 16:23:16,881  INFO|      _internal.py: 87|Thread-25|: 127.0.0.1 - - [18/Feb/2016 16:23:16] "GET / HTTP/1.1" 200 -
+2016-02-18 16:23:17,070  INFO|      _internal.py: 87|Thread-30|: 127.0.0.1 - - [18/Feb/2016 16:23:17] "GET /static/css/rcue.css HTTP/1.1" 304 -
+2016-02-18 16:23:17,071  INFO|      _internal.py: 87|Thread-31|: 127.0.0.1 - - [18/Feb/2016 16:23:17] "GET /static/img/redhat-lg.png HTTP/1.1" 304 -
+2016-02-18 16:23:17,198  INFO|      _internal.py: 87|Thread-32|: 127.0.0.1 - - [18/Feb/2016 16:23:17] "GET /static/js/bootstrap.min.js HTTP/1.1" 304 -
+2016-02-18 16:23:17,198  INFO|      _internal.py: 87|Thread-33|: 127.0.0.1 - - [18/Feb/2016 16:23:17] "GET /static/js/jquery.stickytabs.js HTTP/1.1" 304 -
+2016-02-18 16:30:31,449  INFO|      _internal.py: 87|Thread-34|: 127.0.0.1 - - [18/Feb/2016 16:30:31] "GET / HTTP/1.1" 500 -
+2016-02-18 16:30:31,649  INFO|      _internal.py: 87|Thread-38|: 127.0.0.1 - - [18/Feb/2016 16:30:31] "GET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2016-02-18 16:30:31,650  INFO|      _internal.py: 87|Thread-39|: 127.0.0.1 - - [18/Feb/2016 16:30:31] "GET /?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+2016-02-18 16:30:31,652  INFO|      _internal.py: 87|Thread-40|: 127.0.0.1 - - [18/Feb/2016 16:30:31] "GET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2016-02-18 16:30:31,941  INFO|      _internal.py: 87|Thread-43|: 127.0.0.1 - - [18/Feb/2016 16:30:31] "GET /?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+2016-02-18 16:30:31,947  INFO|      _internal.py: 87|Thread-44|: 127.0.0.1 - - [18/Feb/2016 16:30:31] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2016-02-18 16:30:43,771  INFO|      _internal.py: 87|Thread-46|: 127.0.0.1 - - [18/Feb/2016 16:30:43] "GET / HTTP/1.1" 200 -
+2016-02-18 16:30:44,006  INFO|      _internal.py: 87|Thread-53|: 127.0.0.1 - - [18/Feb/2016 16:30:44] "GET /static/css/rcue.css HTTP/1.1" 304 -
+2016-02-18 16:30:44,007  INFO|      _internal.py: 87|Thread-52|: 127.0.0.1 - - [18/Feb/2016 16:30:44] "GET /static/css/bootstrap.min.css HTTP/1.1" 304 -
+2016-02-18 16:30:44,008  INFO|      _internal.py: 87|Thread-54|: 127.0.0.1 - - [18/Feb/2016 16:30:44] "GET /static/img/redhat-lg.png HTTP/1.1" 304 -
+2016-02-18 16:30:44,155  INFO|      _internal.py: 87|Thread-55|: 127.0.0.1 - - [18/Feb/2016 16:30:44] "GET /static/js/bootstrap.min.js HTTP/1.1" 304 -
+2016-02-18 16:30:44,156  INFO|      _internal.py: 87|Thread-56|: 127.0.0.1 - - [18/Feb/2016 16:30:44] "GET /static/js/jquery.stickytabs.js HTTP/1.1" 304 -
+2016-02-18 16:33:37,936  INFO|          index.py:722|MainThread|: ====== Start/Reload Account Tool APP ======
+2016-02-18 16:33:37,939  INFO|      _internal.py: 87|MainThread|:  * Running on http://0.0.0.0:80/ (Press CTRL+C to quit)
+2016-02-18 16:33:37,939  INFO|      _internal.py: 87|MainThread|:  * Restarting with stat
+2016-02-18 16:33:58,155  INFO|          index.py:722|MainThread|: ====== Start/Reload Account Tool APP ======
+2016-02-18 16:33:58,158 WARNING|      _internal.py: 87|MainThread|:  * Debugger is active!
+2016-02-18 16:33:58,158  INFO|      _internal.py: 87|MainThread|:  * Debugger pin code: 929-475-441
+2016-02-18 16:36:20,989  INFO|      _internal.py: 87|MainThread|:  * Detected change in '/home/liusong/code/content_sku_test/content-sku-tests/account_tool/index.py', reloading
+2016-02-18 16:36:21,013  INFO|      _internal.py: 87|MainThread|:  * Restarting with stat
+2016-02-18 16:36:31,947  INFO|          index.py:723|MainThread|: ====== Start/Reload Account Tool APP ======
+2016-02-18 16:36:31,949 WARNING|      _internal.py: 87|MainThread|:  * Debugger is active!
+2016-02-18 16:36:31,950  INFO|      _internal.py: 87|MainThread|:  * Debugger pin code: 929-475-441
+2016-02-18 16:36:54,087  INFO|      _internal.py: 87|MainThread|:  * Detected change in '/home/liusong/code/content_sku_test/content-sku-tests/account_tool/index.py', reloading
+2016-02-18 16:36:54,107  INFO|      _internal.py: 87|MainThread|:  * Restarting with stat
