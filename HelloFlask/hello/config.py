@@ -1,3 +1,0 @@
-SECRET_KEY = 'b4d184b2d4cc404d99965af47a9aafed'
-SQLALCHEMY_DATABASE_URI = 'sqlite:///hello.db'
-STATIC_ROOT = None
