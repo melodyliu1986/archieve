@@ -2,8 +2,6 @@ __author__ = 'liusong'
 
 
 def isprime(num):
-    if num == 2:
-        return True
     if num == 1:
         return False
 
@@ -14,6 +12,5 @@ def isprime(num):
             continue
     return True
 
-# Get all the prime between 1 and 100.
-
 print [i for i in range(1, 101) if isprime(i)]
+
